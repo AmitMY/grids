@@ -50,15 +50,49 @@
         "touchSupport": true,
         "virtualPagination": false,
         "columns": {
+            "aggregation": [
+                "Sum",
+                "Average",
+                "Min",
+                "Max",
+                "First",
+                "Last"
+            ],
+            "controlMenu": true,
+            "customFilters": [
+                "Text",
+                "Number",
+                "Date",
+                "Select",
+                "Custom"
+            ],
+            "filtering": true,
+            "grouping": true,
+            "headerRendering": true,
+            "pinning": true,
+            "reorder": true,
+            "resizing": true,
+            "sorting": true
         },
         "rows": {
-        },
-        "toolsPanel": {
+            "dynamicHeight": true,
+            "dynamicInsert": true,
+            "dynamicRemove": true,
+            "floating": true,
+            "fullWidth": true,
+            "grouping": false,
+            "selection": true,
+            "virtualDOM": true
         },
         "cells": {
+            "clipboard": true,
+            "editing": true,
+            "expressions": true,
+            "keyboardNavigation": ["Arrows", "Enter", "Tab"],
+            "rangeSelection": true,
+            "customRendering": true,
+            "styling": true,
+            "valueGetters": true
         }
     }
 }
-
-
-
