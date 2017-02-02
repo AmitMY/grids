@@ -1,0 +1,64 @@
+{
+    "info": {
+        "name": "ag-grid",
+        "logo": "",
+        "description": "Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components",
+        "license": "MIT",
+        "repository": {
+            "link": "https://github.com/ceolter/ag-grid",
+            "stars": 2300
+        },
+        "website": {
+            "link": "https://www.ag-grid.com/",
+            "demo": "https://www.ag-grid.com/example.php"
+        },
+        "price": "Free",
+        "frameworks": [
+            "Javascript",
+            "Angular1",
+            "Angular2",
+            "React",
+            "Aurelia",
+            "Web Components"
+        ],
+        "layoutThemes": [
+            "Fresh",
+            "Blue",
+            "Dark",
+            "Material",
+            "Bootstrap"
+        ],
+        "techSupport": false
+    },
+    "features": {
+        "animations": true,
+        "customIcons": true,
+        "customOverlays": true,
+        "export": [
+            "CSV",
+            "XLSX"
+        ],
+        "globalSearch": true,
+        "internationalisation": true,
+        "masterSlave": true,
+        "pagination": false,
+        "pivoting": true,
+        "print": true,
+        "refresh": true,
+        "RTLSupport": true,
+        "statusBar": false,
+        "touchSupport": true,
+        "virtualPagination": false,
+        "columns": {
+        },
+        "rows": {
+        },
+        "toolsPanel": {
+        },
+        "cells": {
+        }
+    }
+}
+
+
+
