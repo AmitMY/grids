@@ -49,6 +49,7 @@
         "statusBar": false,
         "touchSupport": true,
         "virtualPagination": false,
+        "visualisation": null,
         "columns": {
             "aggregation": [
                 "Sum",

@@ -18,6 +18,7 @@ const allowedFormats = ["CSV", "XLSX"];
 const allowedFilters = ["Text", "Number", "Date", "Select", "Custom"];
 const allowedAggregation = ["Sum", "Average", "Min", "Max", "First", "Last", "Custom"];
 const allowedKeyboardKeys = ["Arrows", "Enter", "Tab", "Page", "Home", "End"];
+const allowedCharts = ["Line", "Pie"];
 
 class GridFile {
     constructor(file, data) {
@@ -60,8 +61,7 @@ class GridFile {
             // Frameworks
             assert.equal(Array.isArray(info.frameworks), true, "Grid's info frameworks must be an array");
             info.frameworks.forEach(framework => {
-                if (allowedFrameworks.indexOf(framework) == -1)
-                    assert.equal(true, false, framework + " is an unfamiliar framework");
+                assert.notEqual(allowedFrameworks.indexOf(framework), -1, framework + " must be a familiar framework");
             });
 
             // Layouts
@@ -106,9 +106,17 @@ class GridFile {
             // Export
             assert.equal(Array.isArray(features.export), true, "Grid's features export must be an array");
             features.export.forEach(format => {
-                if (allowedFormats.indexOf(format) == -1)
-                    assert.equal(true, false, format + " is an unfamiliar export format");
+                assert.notEqual(allowedFormats.indexOf(format), -1, format + " must be a familiar export format");
             });
+
+            // Visualisation
+            if (features.visualisation !== null) {
+                assert.equal(Array.isArray(features.visualisation), true, "Grid's features visualisation must be an array or null");
+                features.visualisation.forEach(chart => {
+                    assert.notEqual(allowedCharts.indexOf(chart), -1, chart + " must be a familiar chart type");
+                });
+            }
+
 
             assert.end();
         });
@@ -147,16 +155,14 @@ class GridFile {
             // Filters
             assert.equal(Array.isArray(columns.customFilters), true, "Grid's features columns customFilters must be an array");
             columns.customFilters.forEach(filter => {
-                if (allowedFilters.indexOf(filter) == -1)
-                    assert.equal(true, false, filter + " is an unfamiliar filter type");
+                assert.notEqual(allowedFilters.indexOf(filter), -1, filter + " must be a familiar filter type");
             });
 
             // Aggregation
             if (columns.aggregation !== null) {
                 assert.equal(Array.isArray(columns.aggregation), true, "Grid's features columns aggregation must be an array or null");
                 columns.aggregation.forEach(func => {
-                    if (allowedAggregation.indexOf(func) == -1)
-                        assert.equal(true, false, func + " is an unfamiliar aggregation function");
+                    assert.notEqual(allowedAggregation.indexOf(func), -1, func + " must be a familiar aggregation function");
                 });
             }
 
@@ -223,8 +229,7 @@ class GridFile {
             if (cells.keyboardNavigation !== null) {
                 assert.equal(Array.isArray(cells.keyboardNavigation), true, "Grid's features cells aggregation must be an array or null");
                 cells.keyboardNavigation.forEach(key => {
-                    if (allowedKeyboardKeys.indexOf(key) == -1)
-                        assert.equal(true, false, key + " is an unfamiliar keyboard key");
+                    assert.notEqual(allowedKeyboardKeys.indexOf(key), -1, key + " must be a familiar keyboard key/keyset");
                 });
             }
 
