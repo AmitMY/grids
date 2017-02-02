@@ -1,0 +1,26 @@
+{
+  "name": "grids",
+  "version": "0.0.1-alpha",
+  "description": "A standard for grids comparison",
+  "scripts": {
+    "tests:compile": "babel tests -d  --out-dir es5  --presets es2015",
+    "test": "npm run tests:compile && node es5/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmitMY/grids.git"
+  },
+  "keywords": [],
+  "author": "AmitMY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AmitMY/grids/issues"
+  },
+  "homepage": "https://github.com/AmitMY/grids#readme",
+  "devDependencies": {
+    "babel-cli": "latest",
+    "babel-preset-es2015": "latest",
+    "fs": "0.0.1-security",
+    "tape": "latest"
+  }
+}
