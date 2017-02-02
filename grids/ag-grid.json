@@ -1,7 +1,7 @@
 {
     "info": {
         "name": "ag-grid",
-        "logo": "",
+        "logo": "https://www.ag-grid.com/images/logo.png",
         "description": "Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components",
         "license": "MIT",
         "repository": {
