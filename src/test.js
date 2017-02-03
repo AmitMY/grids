@@ -162,10 +162,12 @@ class GridFile {
 
 
             // Filters
-            assert.equal(Array.isArray(columns.filterTypes), true, "Grid's features columns filterTypes must be an array");
-            columns.filterTypes.forEach(filter => {
-                assert.notEqual(allowedFilters.indexOf(filter), -1, filter + " must be a familiar filter type");
-            });
+            if (columns.filterTypes !== null) {
+                assert.equal(Array.isArray(columns.filterTypes), true, "Grid's features columns filterTypes must be an array");
+                columns.filterTypes.forEach(filter => {
+                    assert.notEqual(allowedFilters.indexOf(filter), -1, filter + " must be a familiar filter type");
+                });
+            }
 
             // Aggregation
             if (columns.aggregation !== null) {

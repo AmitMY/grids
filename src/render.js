@@ -38,7 +38,7 @@ class Render {
     }
 
     static framework(str) {
-        return Render.image("assets/frameworks/" + str.toLowerCase() + ".png", str);
+        return Render.image("https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/" + str.toLowerCase() + ".png", str);
     }
 
     static array(mapper = null) {
