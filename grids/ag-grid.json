@@ -1,4 +1,5 @@
 {
+    "lastEditor": "User",
     "info": {
         "name": "ag-Grid",
         "logo": "https://www.ag-grid.com/images/logo.png",
@@ -50,20 +51,13 @@
         "virtualPagination": false,
         "visualisation": null,
         "columns": {
-            "aggregation": [
-                "Sum",
-                "Average",
-                "Min",
-                "Max",
-                "First",
-                "Last"
-            ],
-            "controlMenu": true,
-            "customFilters": [
+            "aggregation": null,
+            "collapsible": true,
+            "menu": false,
+            "filterTypes": [
                 "Text",
                 "Number",
                 "Date",
-                "Select",
                 "Custom"
             ],
             "filtering": true,
@@ -77,6 +71,7 @@
             "sorting": true
         },
         "rows": {
+            "contextMenu": false,
             "dynamicHeight": true,
             "dynamicInsert": true,
             "dynamicRemove": true,
@@ -95,7 +90,7 @@
             "formula": true,
             "keyboardNavigation": ["Arrows", "Enter", "Tab"],
             "merge": false,
-            "rangeSelection": true,
+            "rangeSelection": false,
             "styling": true
         }
     }

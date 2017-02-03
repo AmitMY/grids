@@ -1,19 +1,16 @@
 {
     "lastEditor": "User",
     "info": {
-        "name": "Handsontable",
+        "name": "Handsontable-Pro",
         "logo": "https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png",
-        "description": "Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers",
-        "license": "MIT",
-        "repository": {
-            "link": "https://github.com/handsontable/handsontable",
-            "stars": 7500
-        },
+        "description": "",
+        "license": "https://docs.handsontable.com/0.21.0/tutorial-licensing.html",
+        "repository": null,
         "website": {
             "link": "https://handsontable.com/",
             "demo": "https://handsontable.com/examples.html"
         },
-        "price": "Free",
+        "price": "$149+",
         "frameworks": [
             "Javascript",
             "jQuery"
@@ -21,13 +18,15 @@
         "layoutThemes": [
             "Excel"
         ],
-        "techSupport": false
+        "techSupport": true
     },
     "features": {
         "animations": false,
         "customIcons": null,
         "customOverlays": null,
-        "export": null,
+        "export": [
+            "CSV"
+        ],
         "globalSearch": false,
         "internationalisation": false,
         "masterSlave": false,
@@ -40,12 +39,16 @@
         "virtualPagination": false,
         "visualisation": null,
         "columns": {
-            "aggregation": null,
-            "collapsible": false,
-            "menu": false,
-            "filterTypes": null,
-            "filtering": false,
-            "grouping": false,
+            "aggregation": ["Average"],
+            "collapsible": true,
+            "menu": true,
+            "filterTypes": [
+                "Text",
+                "Number",
+                "Set"
+            ],
+            "filtering": true,
+            "grouping": true,
             "headerRendering": false,
             "pinning": false,
             "validation": true,
@@ -59,7 +62,7 @@
             "dynamicHeight": false,
             "dynamicInsert": true,
             "dynamicRemove": true,
-            "floating": false,
+            "floating": true,
             "fullWidth": false,
             "grouping": false,
             "numbering": true,
