@@ -4,10 +4,12 @@ import fs from "fs";
 const gridsFolder = "grids";
 
 fs.readdir(gridsFolder, (err, files) => {
+    let grids = [];
     files.forEach(file => {
         fs.readFile(gridsFolder + "/" + file, (err, data) => {
-            let gridFile = new GridFile(file, JSON.parse(data));
-            gridFile.test();
+            grids.push(new GridFile(file, JSON.parse(data)));
+            if (grids.length == files.length)
+                grids.forEach(grid => grid.test());
         });
     });
 });
@@ -17,7 +19,7 @@ const allowedFrameworks = ["Javascript", "jQuery", "Angular1", "Angular2", "Reac
 const allowedFormats = ["CSV", "XLSX"];
 const allowedFilters = ["Text", "Number", "Date", "Select", "Custom"];
 const allowedAggregation = ["Sum", "Average", "Min", "Max", "First", "Last", "Custom"];
-const allowedKeyboardKeys = ["Arrows", "Enter", "Tab", "Page", "Home", "End"];
+const allowedKeyboardKeys = ["Arrows", "Enter", "Tab", "Page", "Home", "End", "UNDO/REDO"];
 const allowedCharts = ["Line", "Pie"];
 
 class GridFile {
@@ -83,7 +85,6 @@ class GridFile {
             pagination: true,
             pivoting: true,
             print: true,
-            refresh: false,
             RTLSupport: false,
             statusBar: true,
             touchSupport: true,
@@ -134,8 +135,10 @@ class GridFile {
             grouping: true,
             headerRendering: false,
             pinning: true,
+            validation: true,
             reorder: true,
             resizing: true,
+            selection: true,
             sorting: true
         };
 
@@ -180,6 +183,7 @@ class GridFile {
             floating: true,
             fullWidth: true,
             grouping: true,
+            numbering: true,
             selection: true,
             virtualDOM: true
         };
@@ -205,12 +209,12 @@ class GridFile {
 
         const booleans = {
             clipboard: true,
-            editing: true,
-            expressions: true,
-            rangeSelection: true,
             customRendering: true,
-            styling: true,
-            valueGetters: true
+            editing: true,
+            formula: false,
+            merge: true,
+            rangeSelection: true,
+            styling: true
         };
 
         test(this.file + " Features cells should have all properties with the correct types", (assert) => {
@@ -229,7 +233,7 @@ class GridFile {
             if (cells.keyboardNavigation !== null) {
                 assert.equal(Array.isArray(cells.keyboardNavigation), true, "Grid's features cells aggregation must be an array or null");
                 cells.keyboardNavigation.forEach(key => {
-                    assert.notEqual(allowedKeyboardKeys.indexOf(key), -1, key + " must be a familiar keyboard key/keyset");
+                    assert.notEqual(allowedKeyboardKeys.indexOf(key), -1, key + " must be a familiar keyboard key/key-set");
                 });
             }
 
