@@ -18,7 +18,7 @@ This comparison is alphabetical, to avoid owner's bias.
 |**/**|ag-Grid|Handsontable|
 |-----|-------|------------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
-|**Frameworks**|![Javascript](assets/frameworksjavascript.png), ![Angular1](assets/frameworksangular1.png), ![Angular2](assets/frameworksangular2.png), ![React](assets/frameworksreact.png), ![Aurelia](assets/frameworksaurelia.png), ![Web Components](assets/frameworksweb components.png)|![Javascript](assets/frameworksjavascript.png), ![jQuery](assets/frameworksjquery.png)|
+|**Frameworks**|![Javascript](assets/frameworks/javascript.png), ![Angular1](assets/frameworks/angular1.png), ![Angular2](assets/frameworks/angular2.png), ![React](assets/frameworks/react.png), ![Aurelia](assets/frameworks/aurelia.png), ![Web Components](assets/frameworks/webcomponents.png)|![Javascript](assets/frameworks/javascript.png), ![jQuery](assets/frameworks/jquery.png)|
 |**Description**|Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components|Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers|
 |**License**|MIT|MIT|
 |**Price**|Free|Free|
