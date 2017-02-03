@@ -1,0 +1,83 @@
+{
+    "lastEditor": "User",
+    "info": {
+        "name": "ngTable",
+        "logo": "",
+        "description": "Simple table with sorting and filtering on AngularJS",
+        "license": "MIT",
+        "repository": {
+            "link": "https://github.com/esvit/ng-table",
+            "stars": 2600
+        },
+        "website": {
+            "link": "http://ng-table.com/",
+            "demo": "http://ng-table.com/"
+        },
+        "price": "Free",
+        "frameworks": [
+            "Angular1"
+        ],
+        "layoutThemes": null,
+        "techSupport": false
+    },
+    "features": {
+        "animations": false,
+        "customIcons": null,
+        "customOverlays": null,
+        "export": null,
+        "globalSearch": false,
+        "internationalisation": null,
+        "masterSlave": false,
+        "pagination": "http://ng-table.com/#/pagination/demo-pager-basic",
+        "pivoting": false,
+        "print": false,
+        "RTLSupport": null,
+        "statusBar": false,
+        "touchSupport": true,
+        "virtualPagination": false,
+        "visualisation": null,
+        "columns": {
+            "aggregation": null,
+            "collapsible": false,
+            "menu": false,
+            "filterTypes": [
+                "Text",
+                "Number",
+                "Set",
+                "Custom"
+            ],
+            "filtering": "http://ng-table.com/#/filtering/demo-filtering-basic",
+            "grouping": false,
+            "headerRendering": false,
+            "pinning": false,
+            "validation": false,
+            "reorder": "http://ng-table.com/#/columns/demo-reordering",
+            "resizing": false,
+            "selection": false,
+            "sorting": "http://ng-table.com/#/sorting/demo-sorting-basic"
+        },
+        "rows": {
+            "contextMenu": false,
+            "dynamicHeight": true,
+            "dynamicInsert": true,
+            "dynamicRemove": true,
+            "floating": false,
+            "fullWidth": true,
+            "grouping": "http://ng-table.com/#/grouping/demo-grouping-basic",
+            "numbering": false,
+            "reorder": false,
+            "selection": false,
+            "virtualDOM": false
+        },
+        "cells": {
+            "clipboard": false,
+            "customRendering": "http://ng-table.com/#/formatting/demo-cell-values",
+            "editing": "http://ng-table.com/#/editing/demo-inline",
+            "formula": false,
+            "keyboardNavigation": null,
+            "merge": false,
+            "rangeSelection": false,
+            "styling": true
+        }
+    }
+}

@@ -300,7 +300,7 @@ function createTable(data) {
     let table = [];
 
     // Sort by name
-    data = data.sort((a, b) => a.info.name < b.info.name);
+    data = data.sort((a, b) => a.info.name.localeCompare(b.info.name));
 
     table.push(createRow(data.map(grid => grid.info.name), "/"));
     table.push(Array.from(table[0]).map(c => (c == "|") ? "|" : "-").join(""));

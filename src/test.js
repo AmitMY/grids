@@ -1,6 +1,6 @@
 import test from "tape";
 import fs from "fs";
-import {isURL} from "./helper"
+import {isURL} from "./helper";
 
 
 const gridsFolder = "grids";
@@ -45,6 +45,8 @@ class GridFile {
             // Global information
             assert.equal(typeof info.name, "string", "Grid's info name must be a string");
             assert.equal(typeof info.logo, "string", "Grid's info logo must be a string");
+            if (info.logo !== "")
+                assert.ok(isURL(info.logo), "Grid's info logo must be a URL");
             assert.equal(typeof info.description, "string", "Grid's info description must be a string");
             assert.equal(typeof info.license, "string", "Grid's info license must be a string");
             assert.equal(typeof info.price, "string", "Grid's info price must be a string");
@@ -54,6 +56,7 @@ class GridFile {
             if (info.repository !== null) {
                 assert.equal(typeof info.repository, "object", "Grid's info repository must be a string");
                 assert.equal(typeof info.repository.link, "string", "Grid's info repository link must be a string");
+                assert.ok(isURL(info.repository.link), "Grid's info repository link must be a URL");
                 assert.equal(typeof info.repository.stars, "number", "Grid's info repository stars must be a number");
             }
 
@@ -61,7 +64,9 @@ class GridFile {
             if (info.website !== null) {
                 assert.equal(typeof info.website, "object", "Grid's info website must be a object or null");
                 assert.equal(typeof info.website.link, "string", "Grid's info website link must be a string");
+                assert.ok(isURL(info.website.link), "Grid's info website link must be a URL");
                 assert.equal(typeof info.website.demo, "string", "Grid's info website demo must be a string");
+                assert.ok(isURL(info.website.demo), "Grid's info website demo must be a URL");
             }
 
             // Frameworks
@@ -71,17 +76,19 @@ class GridFile {
             });
 
             // Layouts
-            assert.equal(Array.isArray(info.layoutThemes), true, "Grid's info layoutThemes must be an array");
+            if (info.layoutThemes !== null)
+                assert.equal(Array.isArray(info.layoutThemes), true, "Grid's info layoutThemes must be an array");
+
             assert.end();
         });
     }
 
     validateBooleansLinks(name, obj, booleans, assert) {
         const validBullLink = (val, nullable = false) => {
-            if(nullable && val === null)
+            if (nullable && val === null)
                 return true;
 
-            if(typeof val == "boolean")
+            if (typeof val == "boolean")
                 return true;
 
             return typeof val == "string" && isURL(val);
@@ -91,9 +98,9 @@ class GridFile {
         Object.keys(booleans).forEach(key => {
             if (!booleans[key]) {
                 if (obj[key] !== null)
-                    assert.ok(validBullLink(obj[key]), "Grid's "+ name +" " + key + " must be a boolean, a url or null");
+                    assert.ok(validBullLink(obj[key]), "Grid's " + name + " " + key + " must be a boolean, a url or null");
             } else
-                assert.ok(validBullLink(obj[key]), "Grid's "+ name +" " + key + " must be a boolean or a url");
+                assert.ok(validBullLink(obj[key]), "Grid's " + name + " " + key + " must be a boolean or a url");
         });
     }
 
@@ -105,7 +112,7 @@ class GridFile {
             customIcons: false,
             customOverlays: false,
             globalSearch: true,
-            internationalisation: true,
+            internationalisation: false,
             masterSlave: true,
             pagination: true,
             pivoting: true,
