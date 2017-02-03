@@ -44,7 +44,6 @@
         "pagination": false,
         "pivoting": true,
         "print": true,
-        "refresh": true,
         "RTLSupport": true,
         "statusBar": false,
         "touchSupport": true,
@@ -71,8 +70,10 @@
             "grouping": true,
             "headerRendering": true,
             "pinning": true,
+            "validation": false,
             "reorder": true,
             "resizing": true,
+            "selection": false,
             "sorting": true
         },
         "rows": {
@@ -82,18 +83,20 @@
             "floating": true,
             "fullWidth": true,
             "grouping": false,
+            "numbering": false,
+            "reorder": false,
             "selection": true,
             "virtualDOM": true
         },
         "cells": {
             "clipboard": true,
-            "editing": true,
-            "expressions": true,
-            "keyboardNavigation": ["Arrows", "Enter", "Tab"],
-            "rangeSelection": true,
             "customRendering": true,
-            "styling": true,
-            "valueGetters": true
+            "editing": true,
+            "formula": true,
+            "keyboardNavigation": ["Arrows", "Enter", "Tab"],
+            "merge": false,
+            "rangeSelection": true,
+            "styling": true
         }
     }
 }

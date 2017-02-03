@@ -1,0 +1,92 @@
+{
+    "info": {
+        "name": "Handsontable",
+        "logo": "https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png",
+        "description": "Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers",
+        "license": "MIT",
+        "repository": {
+            "link": "https://github.com/handsontable/handsontable",
+            "stars": 7500
+        },
+        "website": {
+            "link": "https://handsontable.com/",
+            "demo": "https://handsontable.com/examples.html"
+        },
+        "price": "Free",
+        "frameworks": [
+            "Javascript",
+            "jQuery"
+        ],
+        "layoutThemes": [
+            "Excel"
+        ],
+        "techSupport": false
+    },
+    "features": {
+        "animations": false,
+        "customIcons": null,
+        "customOverlays": null,
+        "export": [
+            "CSV"
+        ],
+        "globalSearch": false,
+        "internationalisation": false,
+        "masterSlave": false,
+        "pagination": false,
+        "pivoting": false,
+        "print": false,
+        "RTLSupport": false,
+        "statusBar": false,
+        "touchSupport": true,
+        "virtualPagination": false,
+        "visualisation": null,
+        "columns": {
+            "aggregation": null,
+            "controlMenu": true,
+            "customFilters": [
+                "Text",
+                "Number",
+                "Select"
+            ],
+            "filtering": true,
+            "grouping": true,
+            "headerRendering": false,
+            "pinning": false,
+            "validation": true,
+            "reorder": true,
+            "resizing": false,
+            "selection": true,
+            "sorting": true
+        },
+        "rows": {
+            "dynamicHeight": false,
+            "dynamicInsert": true,
+            "dynamicRemove": true,
+            "floating": true,
+            "fullWidth": false,
+            "grouping": false,
+            "numbering": true,
+            "reorder": true,
+            "selection": true,
+            "virtualDOM": true
+        },
+        "cells": {
+            "clipboard": true,
+            "customRendering": true,
+            "editing": true,
+            "formula": true,
+            "keyboardNavigation": [
+                "Arrows",
+                "Enter",
+                "Tab",
+                "Page",
+                "Home",
+                "End",
+                "UNDO/REDO"
+            ],
+            "merge": true,
+            "rangeSelection": true,
+            "styling": true
+        }
+    }
+}
