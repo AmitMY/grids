@@ -3,6 +3,7 @@
 |**Logo**|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|![Logo]()|
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers|Simple table with sorting and filtering on AngularJS|
+|**License**|MIT|BSD-3-Clause|
 |**Repository**|[Repository](https://github.com/handsontable/handsontable)|[Repository](https://github.com/esvit/ng-table)|
 |**Stars**|7500 :star:|2600 :star:|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://ng-table.com/)|

@@ -3,7 +3,7 @@
 |**Logo**|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|![Logo]()|
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**||Simple table with sorting and filtering on AngularJS|
-|**License**|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|MIT|
+|**License**|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|BSD-3-Clause|
 |**Price**|$149+|Free|
 |**Repository**||[Repository](https://github.com/esvit/ng-table)|
 |**Stars**||2600 :star:|
