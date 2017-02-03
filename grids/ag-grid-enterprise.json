@@ -1,18 +1,18 @@
 {
     "info": {
-        "name": "ag-Grid",
+        "name": "ag-Grid-Enterprise",
         "logo": "https://www.ag-grid.com/images/logo.png",
-        "description": "Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components",
-        "license": "MIT",
+        "description": "",
+        "license": "https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md",
         "repository": {
-            "link": "https://github.com/ceolter/ag-grid",
-            "stars": 2300
+            "link": "https://github.com/ceolter/ag-grid-enterprise",
+            "stars": 50
         },
         "website": {
             "link": "https://www.ag-grid.com/",
             "demo": "https://www.ag-grid.com/example.php"
         },
-        "price": "Free",
+        "price": "£495+",
         "frameworks": [
             "Javascript",
             "Angular1",
@@ -28,7 +28,7 @@
             "Material",
             "Bootstrap"
         ],
-        "techSupport": false
+        "techSupport": true
     },
     "features": {
         "animations": true,
@@ -42,10 +42,10 @@
         "internationalisation": true,
         "masterSlave": true,
         "pagination": false,
-        "pivoting": false,
+        "pivoting": true,
         "print": true,
         "RTLSupport": true,
-        "statusBar": false,
+        "statusBar": true,
         "touchSupport": true,
         "virtualPagination": false,
         "visualisation": null,
@@ -82,14 +82,14 @@
             "dynamicRemove": true,
             "floating": true,
             "fullWidth": true,
-            "grouping": false,
+            "grouping": true,
             "numbering": false,
             "reorder": false,
             "selection": true,
             "virtualDOM": true
         },
         "cells": {
-            "clipboard": false,
+            "clipboard": true,
             "customRendering": true,
             "editing": true,
             "formula": true,
