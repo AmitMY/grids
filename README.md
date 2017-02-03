@@ -3,16 +3,12 @@ A grid comparison standard
 
 [![Build Status](https://travis-ci.org/AmitMY/grids.svg?branch=master)](https://travis-ci.org/AmitMY/grids)
 
-Our goal is to make the market research easier, for people to be able to find a grid for their needs, in their price range.
-We do not include every small feature, but only major features that have real use cases behind them.
-
 ---
 
 ## Contribution
 If you want to add a grid, please create a pull request of a new file in `grids`. We have automated testing for you to know if everything was done correctly.
 If you want to change information for a grid, you must also reference a legitimate source for it.
 If we are missing a grid feature, please create an issue, and we will consider adding it.
-
 ---
 
 ## Shallow Comparison
@@ -27,7 +23,7 @@ This comparison is alphabetical, to avoid owner's bias.
 |**/**|ag-Grid-Enterprise|ag-Grid|Handsontable|
 |-----|------------------|-------|------------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
-|**Frameworks**|![Javascript](assets/frameworks/original/javascript.png), ![Angular1](assets/frameworks/original/angular1.png), ![Angular2](assets/frameworks/original/angular2.png), ![React](assets/frameworks/original/react.png), ![Aurelia](assets/frameworks/original/aurelia.png), ![Web Components](assets/frameworks/original/web components.png)|![Javascript](assets/frameworks/original/javascript.png), ![Angular1](assets/frameworks/original/angular1.png), ![Angular2](assets/frameworks/original/angular2.png), ![React](assets/frameworks/original/react.png), ![Aurelia](assets/frameworks/original/aurelia.png), ![Web Components](assets/frameworks/original/web components.png)|![Javascript](assets/frameworks/original/javascript.png), ![jQuery](assets/frameworks/jquery.png)|
+|**Frameworks**|![Javascript](assets/frameworks/javascript.png), ![Angular1](assets/frameworks/angular1.png), ![Angular2](assets/frameworks/angular2.png), ![React](assets/frameworks/react.png), ![Aurelia](assets/frameworks/aurelia.png), ![Web Components](assets/frameworks/web components.png)|![Javascript](assets/frameworks/javascript.png), ![Angular1](assets/frameworks/angular1.png), ![Angular2](assets/frameworks/angular2.png), ![React](assets/frameworks/react.png), ![Aurelia](assets/frameworks/aurelia.png), ![Web Components](assets/frameworks/web components.png)|![Javascript](assets/frameworks/javascript.png), ![jQuery](assets/frameworks/jquery.png)|
 |**Description**||Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components|Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers|
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|MIT|
 |**Price**|£495+|Free|Free|
