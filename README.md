@@ -9,6 +9,7 @@ A grid comparison standard
 If you want to add a grid, please create a pull request of a new file in `grids`. We have automated testing for you to know if everything was done correctly.
 If you want to change information for a grid, you must also reference a legitimate source for it.
 If we are missing a grid feature, please create an issue, and we will consider adding it.
+
 ---
 
 ## Shallow Comparison
