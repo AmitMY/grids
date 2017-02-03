@@ -1,6 +1,7 @@
 |**/**|ag-Grid|Handsontable|
 |-----|-------|------------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
+|**Frameworks**|![Javascript](assets/frameworks/javascript.png), ![Angular1](assets/frameworks/angular1.png), ![Angular2](assets/frameworks/angular2.png), ![React](assets/frameworks/react.png), ![Aurelia](assets/frameworks/aurelia.png), ![Web Components](assets/frameworks/web components.png)|![Javascript](assets/frameworks/javascript.png), ![jQuery](assets/frameworks/jquery.png)|
 |**Description**|Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components|Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/handsontable/handsontable)|
 |**Stars**|2300 :star:|7500 :star:|
@@ -30,6 +31,7 @@
 |**-**|||
 |**Cells**|||
 |**Clipboard**|![red](http://placehold.it/20/f03c15/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|
+|**Keyboard Navigation**|Arrows, Enter, Tab|Arrows, Enter, Tab, Page, Home, End, UNDO/REDO|
 |**Range Selection**|![red](http://placehold.it/20/f03c15/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|
 |**Merge Cells**|![red](http://placehold.it/20/f03c15/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|
 |**-**|||

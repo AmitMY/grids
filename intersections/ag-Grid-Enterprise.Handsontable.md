@@ -1,6 +1,7 @@
 |**/**|ag-Grid-Enterprise|Handsontable|
 |-----|------------------|------------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
+|**Frameworks**|![Javascript](assets/frameworks/javascript.png), ![Angular1](assets/frameworks/angular1.png), ![Angular2](assets/frameworks/angular2.png), ![React](assets/frameworks/react.png), ![Aurelia](assets/frameworks/aurelia.png), ![Web Components](assets/frameworks/web components.png)|![Javascript](assets/frameworks/javascript.png), ![jQuery](assets/frameworks/jquery.png)|
 |**Description**||Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers|
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|
 |**Price**|£495+|Free|
@@ -35,6 +36,7 @@
 |**Header Rendering**|![green](http://placehold.it/20/c5f015/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|
 |**-**|||
 |**Cells**|||
+|**Keyboard Navigation**|Arrows, Enter, Tab|Arrows, Enter, Tab, Page, Home, End, UNDO/REDO|
 |**Merge Cells**|![red](http://placehold.it/20/f03c15/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|
 |**-**|||
 |**Nice To Have**|||

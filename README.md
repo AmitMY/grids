@@ -26,6 +26,7 @@ This comparison is alphabetical, to avoid owner's bias.
 |**/**|ag-Grid-Enterprise|ag-Grid|Handsontable-Pro|Handsontable|
 |-----|------------------|-------|----------------|------------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
+|**Frameworks**|![Javascript](assets/frameworks/javascript.png), ![Angular1](assets/frameworks/angular1.png), ![Angular2](assets/frameworks/angular2.png), ![React](assets/frameworks/react.png), ![Aurelia](assets/frameworks/aurelia.png), ![Web Components](assets/frameworks/web components.png)|![Javascript](assets/frameworks/javascript.png), ![Angular1](assets/frameworks/angular1.png), ![Angular2](assets/frameworks/angular2.png), ![React](assets/frameworks/react.png), ![Aurelia](assets/frameworks/aurelia.png), ![Web Components](assets/frameworks/web components.png)|![Javascript](assets/frameworks/javascript.png), ![jQuery](assets/frameworks/jquery.png)|![Javascript](assets/frameworks/javascript.png), ![jQuery](assets/frameworks/jquery.png)|
 |**Description**||Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components||Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers|
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|MIT|
 |**Price**|£495+|Free|$149+|Free|
@@ -62,6 +63,7 @@ This comparison is alphabetical, to avoid owner's bias.
 |**-**|||||
 |**Cells**|||||
 |**Clipboard**|![green](http://placehold.it/20/c5f015/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|
+|**Keyboard Navigation**|Arrows, Enter, Tab|Arrows, Enter, Tab|Arrows, Enter, Tab, Page, Home, End, UNDO/REDO|Arrows, Enter, Tab, Page, Home, End, UNDO/REDO|
 |**Range Selection**|![green](http://placehold.it/20/c5f015/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|
 |**Merge Cells**|![red](http://placehold.it/20/f03c15/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|
 |**-**|||||

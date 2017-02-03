@@ -15,6 +15,7 @@
 |**Context Menu**|![green](http://placehold.it/20/c5f015/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|
 |**-**|||
 |**Columns**|||
+|**Filters**|Text, Number, Date, Set, Custom|Text, Number, Date, Custom|
 |**Column Menu**|![green](http://placehold.it/20/c5f015/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|
 |**Aggregation**|Sum, Average, Min, Max, First, Last|![red](http://placehold.it/20/f03c15/000000?text=+)|
 |**-**|||

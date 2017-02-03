@@ -4,7 +4,7 @@ ArrayPrototypes.equals();
 
 function equals(a, b) {
     if(Array.isArray(a))
-        return a.equals(a);
+        return a.equals(b);
     return a == b;
 }
 

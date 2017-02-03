@@ -1,6 +1,7 @@
 |**/**|ag-Grid-Enterprise|Handsontable-Pro|
 |-----|------------------|----------------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
+|**Frameworks**|![Javascript](assets/frameworks/javascript.png), ![Angular1](assets/frameworks/angular1.png), ![Angular2](assets/frameworks/angular2.png), ![React](assets/frameworks/react.png), ![Aurelia](assets/frameworks/aurelia.png), ![Web Components](assets/frameworks/web components.png)|![Javascript](assets/frameworks/javascript.png), ![jQuery](assets/frameworks/jquery.png)|
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|
 |**Price**|£495+|$149+|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)||
@@ -11,6 +12,7 @@
 |**General**|||
 |**Pivot Mode**|![green](http://placehold.it/20/c5f015/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|
 |**Print Mode**|![green](http://placehold.it/20/c5f015/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|
+|**Export**|CSV, XLSX|CSV|
 |**-**|||
 |**Rows**|||
 |**Rows Grouping**|![green](http://placehold.it/20/c5f015/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|
@@ -19,13 +21,16 @@
 |**Dynamic Row Height**|![green](http://placehold.it/20/c5f015/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|
 |**-**|||
 |**Columns**|||
+|**Filters**|Text, Number, Date, Set, Custom|Text, Number, Set|
 |**Pinning**|![green](http://placehold.it/20/c5f015/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|
 |**Resizing**|![green](http://placehold.it/20/c5f015/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|
 |**Selection**|![red](http://placehold.it/20/f03c15/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|
 |**Validation**|![red](http://placehold.it/20/f03c15/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|
+|**Aggregation**|Sum, Average, Min, Max, First, Last|Average|
 |**Header Rendering**|![green](http://placehold.it/20/c5f015/000000?text=+)|![red](http://placehold.it/20/f03c15/000000?text=+)|
 |**-**|||
 |**Cells**|||
+|**Keyboard Navigation**|Arrows, Enter, Tab|Arrows, Enter, Tab, Page, Home, End, UNDO/REDO|
 |**Merge Cells**|![red](http://placehold.it/20/f03c15/000000?text=+)|![green](http://placehold.it/20/c5f015/000000?text=+)|
 |**-**|||
 |**Nice To Have**|||
