@@ -12,6 +12,14 @@ A grid comparison standard
 
 ---
 
+## Comparison between 2 grids
+
+In [this](https://github.com/AmitMY/grids/tree/master/intersections) folder, you can find a comparison between each 2 grids we have data on.
+
+It is recommended to check it out before getting a "pro" version of a grid, to see what you are actually paying for.
+
+---
+
 ## Shallow Comparison
 Here we compare the grids using the markdown table, to show no bias to any grid. If willing, other grids can show this table using their grid.
 This comparison is alphabetical, to avoid owner's bias.
