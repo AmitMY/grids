@@ -49,6 +49,7 @@
         "statusBar": "https://www.ag-grid.com/javascript-grid-status-bar/#gsc.tab=0",
         "touchSupport": "https://www.ag-grid.com/javascript-grid-touch/#gsc.tab=0",
         "virtualPagination": "https://www.ag-grid.com/javascript-grid-virtual-paging/#gsc.tab=0",
+        "visualisation": null,
         "columns": {
             "aggregation": [
                 "Sum",

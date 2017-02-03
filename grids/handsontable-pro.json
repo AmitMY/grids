@@ -51,30 +51,30 @@
             "grouping": true,
             "headerRendering": false,
             "pinning": false,
-            "validation": true,
+            "validation": "https://docs.handsontable.com/pro/1.9.1/demo-data-validation.html",
             "reorder": true,
-            "resizing": false,
-            "selection": true,
-            "sorting": true
+            "resizing": "https://docs.handsontable.com/pro/1.9.1/demo-resizing.html",
+            "selection": "https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html",
+            "sorting": "https://docs.handsontable.com/pro/1.9.1/demo-sorting.html"
         },
         "rows": {
             "contextMenu": true,
-            "dynamicHeight": false,
+            "dynamicHeight": "https://docs.handsontable.com/pro/1.9.1/demo-resizing.html",
             "dynamicInsert": true,
             "dynamicRemove": true,
-            "floating": true,
+            "floating": "https://docs.handsontable.com/pro/1.9.1/Options.html#fixedRowsBottom",
             "fullWidth": false,
             "grouping": false,
             "numbering": true,
             "reorder": true,
-            "selection": true,
+            "selection": "https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html",
             "virtualDOM": true
         },
         "cells": {
             "clipboard": true,
-            "customRendering": true,
-            "editing": true,
-            "formula": true,
+            "customRendering": "https://docs.handsontable.com/pro/1.9.1/demo-custom-renderers.html",
+            "editing": "https://docs.handsontable.com/pro/1.9.1/tutorial-cell-editor.html",
+            "formula": "https://docs.handsontable.com/pro/1.9.1/demo-formula-support.html",
             "keyboardNavigation": [
                 "Arrows",
                 "Enter",
@@ -84,9 +84,9 @@
                 "End",
                 "UNDO/REDO"
             ],
-            "merge": true,
-            "rangeSelection": true,
-            "styling": true
+            "merge": "https://docs.handsontable.com/pro/1.9.1/demo-merged-cells.html",
+            "rangeSelection": "https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html",
+            "styling": false
         }
     }
 }

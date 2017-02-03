@@ -32,7 +32,7 @@ class Render {
     static array(mapper = null) {
         return (arr) => {
             if (arr === null)
-                return Render.boolStringNull(false);
+                return Render.boolLinkNull(false);
             if (mapper !== null)
                 arr = arr.map(mapper);
             return arr.join(", ");
@@ -52,12 +52,12 @@ class Render {
                 c = "1589F0";
         }
 
-        return "![" + color + "](http://placehold.it/20/" + c + "/000000?text=+)"
+        return "![" + color + "](http://placehold.it/23/" + c + "/000000?text=+)"
     }
 
-    static boolStringNull(any) {
+    static boolLinkNull(any) {
         if (typeof any === "string")
-            return Render.color("green") + " " + Render.link(any, ":scroll:");
+            return Render.color("green") + " " + Render.link(any, ":book:");
 
         if (any === null)
             return Render.color("blue");
@@ -112,15 +112,15 @@ const rows = [
     }, {
         title: "Tech Support",
         field: "info.techSupport",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, clearRow(), clearRow("General"), {
         title: "Pivot Mode",
         field: "features.pivoting",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Print Mode",
         field: "features.print",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Export",
         field: "features.export",
@@ -128,55 +128,55 @@ const rows = [
     }, {
         title: "Pagination",
         field: "features.pagination",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Virtual Pagination",
         field: "features.virtualPagination",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, clearRow(), clearRow("Rows"), {
         title: "Rows Grouping",
         field: "features.rows.grouping",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Floating Rows",
         field: "features.rows.floating",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Context Menu",
         field: "features.rows.contextMenu",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Full Width Rows",
         field: "features.rows.fullWidth",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Rows Numbering",
         field: "features.rows.numbering",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Rows Selection",
         field: "features.rows.selection",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Virtual DOM",
         field: "features.rows.virtualDOM",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Dynamic Add Rows",
         field: "features.rows.dynamicInsert",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Dynamic Remove Rows",
         field: "features.rows.dynamicRemove",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Dynamic Row Height",
         field: "features.rows.dynamicHeight",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, clearRow(), clearRow("Columns"), {
         title: "Filtering",
         field: "features.columns.filtering",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Filters",
         field: "features.columns.filterTypes",
@@ -184,35 +184,35 @@ const rows = [
     }, {
         title: "Sorting",
         field: "features.columns.sorting",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Pinning",
         field: "features.columns.pinning",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Reordering",
         field: "features.columns.reorder",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Resizing",
         field: "features.columns.resizing",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Header Grouping",
         field: "features.columns.grouping",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Selection",
         field: "features.columns.selection",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Validation",
         field: "features.columns.validation",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Column Menu",
         field: "features.columns.menu",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Aggregation",
         field: "features.columns.aggregation",
@@ -220,27 +220,27 @@ const rows = [
     }, {
         title: "Header Rendering",
         field: "features.columns.headerRendering",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, clearRow(), clearRow("Cells"), {
         title: "Custom Rendering",
         field: "features.cells.customRendering",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Formula Support",
         field: "features.cells.formula",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Inline Editing",
         field: "features.cells.editing",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Custom styling",
         field: "features.cells.styling",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Clipboard",
         field: "features.cells.clipboard",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Keyboard Navigation",
         field: "features.cells.keyboardNavigation",
@@ -248,47 +248,47 @@ const rows = [
     }, {
         title: "Range Selection",
         field: "features.cells.rangeSelection",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Merge Cells",
         field: "features.cells.merge",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, clearRow(), clearRow("Nice To Have"), {
         title: "Animations",
         field: "features.animations",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Custom Icons",
         field: "features.customIcons",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Custom Overlays",
         field: "features.customOverlays",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Global Search",
         field: "features.globalSearch",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Internationalisation",
         field: "features.internationalisation",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Master/Slave",
         field: "features.masterSlave",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "RTL Support",
         field: "features.RTLSupport",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Footer",
         field: "features.statusBar",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }, {
         title: "Touch support",
         field: "features.touchSupport",
-        renderer: Render.boolStringNull
+        renderer: Render.boolLinkNull
     }
 ];
 

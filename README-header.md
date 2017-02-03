@@ -30,3 +30,4 @@ This comparison is alphabetical, to avoid owner's bias.
 - ![green](http://placehold.it/20/c5f015/000000?text=+) Has.
 - ![red](http://placehold.it/20/f03c15/000000?text=+) Does not have.
 - ![blue](http://placehold.it/20/1589F0/000000?text=+) N/A.
+- :book: Documentation link.
