@@ -1,4 +1,12 @@
 import fs from "fs";
+import {ArrayPrototypes} from "js-prototypes";
+ArrayPrototypes.equals();
+
+function equals(a, b) {
+    if(Array.isArray(a))
+        return a.equals(a);
+    return a == b;
+}
 
 function isURL(str) {
     let pattern = /(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
@@ -9,7 +17,9 @@ function getProp(grid, field = "") {
     let fields = field.split(".");
     let param = grid;
     while (fields.length != 0)
-        param = param[fields.shift()];
+        if (typeof param === "object" && param !== null)
+            param = param[fields.shift()];
+        else return undefined;
 
     return param;
 }
@@ -33,17 +43,11 @@ class Render {
 
     static array(mapper = null) {
         return (arr) => {
+            if (arr === null)
+                return Render.boolStringNull(false);
             if (mapper !== null)
                 arr = arr.map(mapper);
             return arr.join(", ");
-        };
-    }
-
-    static arrayOrNull(mapper = null) {
-        return (arr) => {
-            if (arr === null)
-                return Render.boolStringNull(false);
-            return Render.array(mapper)(arr);
         };
     }
 
@@ -79,6 +83,7 @@ class Render {
 
 let clearRow = (title = "-") => new Object({
     title: title,
+    mandatory: true,
     renderer: () => ""
 });
 
@@ -116,6 +121,10 @@ const rows = [
         title: "Demo",
         field: "info.website.demo",
         renderer: Render.link
+    }, {
+        title: "Tech Support",
+        field: "info.techSupport",
+        renderer: Render.boolStringNull
     }, clearRow(), clearRow("General"), {
         title: "Pivot Mode",
         field: "features.pivoting",
@@ -143,6 +152,10 @@ const rows = [
     }, {
         title: "Floating Rows",
         field: "features.rows.floating",
+        renderer: Render.boolStringNull
+    }, {
+        title: "Context Menu",
+        field: "features.rows.contextMenu",
         renderer: Render.boolStringNull
     }, {
         title: "Full Width Rows",
@@ -178,7 +191,7 @@ const rows = [
         renderer: Render.boolStringNull
     }, {
         title: "Filters",
-        field: "features.columns.customFilters",
+        field: "features.columns.filterTypes",
         renderer: Render.array()
     }, {
         title: "Sorting",
@@ -209,13 +222,13 @@ const rows = [
         field: "features.columns.validation",
         renderer: Render.boolStringNull
     }, {
-        title: "Control Menu",
-        field: "features.columns.controlMenu",
+        title: "Column Menu",
+        field: "features.columns.menu",
         renderer: Render.boolStringNull
     }, {
         title: "Aggregation",
         field: "features.columns.aggregation",
-        renderer: Render.arrayOrNull()
+        renderer: Render.array()
     }, {
         title: "Header Rendering",
         field: "features.columns.headerRendering",
@@ -243,7 +256,7 @@ const rows = [
     }, {
         title: "Keyboard Navigation",
         field: "features.cells.keyboardNavigation",
-        renderer: Render.arrayOrNull()
+        renderer: Render.array()
     }, {
         title: "Range Selection",
         field: "features.cells.rangeSelection",
@@ -305,7 +318,16 @@ function createTable(data) {
     table.push(Array.from(table[0]).map(c => (c == "|") ? "|" : "-").join(""));
 
     rows.forEach(param => {
-        table.push(createRow(data.map(grid => getProp(grid, param.field)).map((item) => {
+        let rowData = data.map(grid => getProp(grid, param.field));
+
+        // Skip equal rows
+        if (!param.mandatory && rowData.every(item => equals(item, rowData[0])))
+            return;
+
+        let row = createRow(rowData.map((item) => {
+            if (item === undefined)
+                return "";
+
             if (param.renderer)
                 return param.renderer(item, param.title);
 
@@ -313,16 +335,29 @@ function createTable(data) {
                 return Render.link(item, param.title);
 
             return item;
-        }), param.title));
+        }), param.title);
+
+        table.push(row);
     });
 
-    return table;
+    return table.join("\n");
 }
 
-function writeTable(str) {
+function writeMainTable(str) {
     fs.readFile("README-header.md", (err, data) => {
         fs.writeFile("README.md", data + "\n\n" + str);
     });
+}
+
+function createTables(grids) {
+    writeMainTable(createTable(grids));
+
+    for (let i = 0; i < grids.length; i++)
+        for (let j = i + 1; j < grids.length; j++) {
+            let data = [grids[i], grids[j]];
+            let name = grids[i].info.name + "." + grids[j].info.name;
+            fs.writeFile("intersections/" + name + ".md", createTable(data));
+        }
 }
 
 const gridsFolder = "grids";
@@ -333,7 +368,8 @@ fs.readdir(gridsFolder, (err, files) => {
         fs.readFile(gridsFolder + "/" + file, (err, data) => {
             grids.push(JSON.parse(data));
             if (grids.length == files.length)
-                writeTable(createTable(grids).join("\n"));
+                createTables(grids);
+
         });
     });
 });

@@ -17,7 +17,7 @@ fs.readdir(gridsFolder, (err, files) => {
 
 const allowedFrameworks = ["Javascript", "jQuery", "Angular1", "Angular2", "React", "Aurelia", "Web Components"];
 const allowedFormats = ["CSV", "XLSX"];
-const allowedFilters = ["Text", "Number", "Date", "Select", "Custom"];
+const allowedFilters = ["Text", "Number", "Date", "Set", "Custom"];
 const allowedAggregation = ["Sum", "Average", "Min", "Max", "First", "Last", "Custom"];
 const allowedKeyboardKeys = ["Arrows", "Enter", "Tab", "Page", "Home", "End", "UNDO/REDO"];
 const allowedCharts = ["Line", "Pie"];
@@ -29,6 +29,10 @@ class GridFile {
     }
 
     test() {
+        test(this.file + " is global information valid", (assert) => {
+            assert.equal(typeof this.data.lastEditor, "string", "Grid's last editor must be a string");
+            assert.end();
+        });
         this.testInfo();
         this.testFeatures();
     }
@@ -105,10 +109,12 @@ class GridFile {
 
 
             // Export
-            assert.equal(Array.isArray(features.export), true, "Grid's features export must be an array");
-            features.export.forEach(format => {
-                assert.notEqual(allowedFormats.indexOf(format), -1, format + " must be a familiar export format");
-            });
+            if (features.export !== null) {
+                assert.equal(Array.isArray(features.export), true, "Grid's features export must be an array");
+                features.export.forEach(format => {
+                    assert.notEqual(allowedFormats.indexOf(format), -1, format + " must be a familiar export format");
+                });
+            }
 
             // Visualisation
             if (features.visualisation !== null) {
@@ -130,7 +136,7 @@ class GridFile {
         let columns = this.data.features.columns;
 
         const booleans = {
-            controlMenu: true,
+            menu: true,
             filtering: true,
             grouping: true,
             headerRendering: false,
@@ -156,8 +162,8 @@ class GridFile {
 
 
             // Filters
-            assert.equal(Array.isArray(columns.customFilters), true, "Grid's features columns customFilters must be an array");
-            columns.customFilters.forEach(filter => {
+            assert.equal(Array.isArray(columns.filterTypes), true, "Grid's features columns filterTypes must be an array");
+            columns.filterTypes.forEach(filter => {
                 assert.notEqual(allowedFilters.indexOf(filter), -1, filter + " must be a familiar filter type");
             });
 
@@ -177,6 +183,7 @@ class GridFile {
         let rows = this.data.features.rows;
 
         const booleans = {
+            contextMenu: true,
             dynamicHeight: true,
             dynamicInsert: true,
             dynamicRemove: true,
