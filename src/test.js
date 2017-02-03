@@ -1,8 +1,9 @@
 import test from "tape";
 import fs from "fs";
+import {isURL} from "./helper"
+
 
 const gridsFolder = "grids";
-
 fs.readdir(gridsFolder, (err, files) => {
     let grids = [];
     files.forEach(file => {
@@ -13,7 +14,6 @@ fs.readdir(gridsFolder, (err, files) => {
         });
     });
 });
-
 
 const allowedFrameworks = ["Javascript", "jQuery", "Angular1", "Angular2", "React", "Aurelia", "Web Components"];
 const allowedFormats = ["CSV", "XLSX"];
@@ -76,6 +76,27 @@ class GridFile {
         });
     }
 
+    validateBooleansLinks(name, obj, booleans, assert) {
+        const validBullLink = (val, nullable = false) => {
+            if(nullable && val === null)
+                return true;
+
+            if(typeof val == "boolean")
+                return true;
+
+            return typeof val == "string" && isURL(val);
+        };
+
+        // All booleans
+        Object.keys(booleans).forEach(key => {
+            if (!booleans[key]) {
+                if (obj[key] !== null)
+                    assert.ok(validBullLink(obj[key]), "Grid's "+ name +" " + key + " must be a boolean, a url or null");
+            } else
+                assert.ok(validBullLink(obj[key]), "Grid's "+ name +" " + key + " must be a boolean or a url");
+        });
+    }
+
     testFeatures() {
         let features = this.data.features;
 
@@ -98,15 +119,7 @@ class GridFile {
         test(this.file + " Features should have all properties with the correct types", (assert) => {
             assert.equal(typeof features, "object", "Grid's features must be a string");
 
-            // All booleans
-            Object.keys(booleans).forEach(key => {
-                if (!booleans[key]) {
-                    if (features[key] !== null)
-                        assert.equal(typeof features[key], "boolean", "Grid's features " + key + " must be a boolean or null");
-                } else
-                    assert.equal(typeof features[key], "boolean", "Grid's features " + key + " must be a boolean");
-            });
-
+            this.validateBooleansLinks("features", features, booleans, assert);
 
             // Export
             if (features.export !== null) {
@@ -151,15 +164,7 @@ class GridFile {
         test(this.file + " Features columns should have all properties with the correct types", (assert) => {
             assert.equal(typeof columns, "object", "Grid's features columns must be a string");
 
-            // All booleans
-            Object.keys(booleans).forEach(key => {
-                if (!booleans[key]) {
-                    if (columns[key] !== null)
-                        assert.equal(typeof columns[key], "boolean", "Grid's features columns " + key + " must be a boolean or null");
-                } else
-                    assert.equal(typeof columns[key], "boolean", "Grid's features columns " + key + " must be a boolean");
-            });
-
+            this.validateBooleansLinks("columns", columns, booleans, assert);
 
             // Filters
             if (columns.filterTypes !== null) {
@@ -200,14 +205,7 @@ class GridFile {
         test(this.file + " Features rows should have all properties with the correct types", (assert) => {
             assert.equal(typeof rows, "object", "Grid's features rows must be a string");
 
-            // All booleans
-            Object.keys(booleans).forEach(key => {
-                if (!booleans[key]) {
-                    if (rows[key] !== null)
-                        assert.equal(typeof rows[key], "boolean", "Grid's features rows " + key + " must be a boolean or null");
-                } else
-                    assert.equal(typeof rows[key], "boolean", "Grid's features rows " + key + " must be a boolean");
-            });
+            this.validateBooleansLinks("rows", rows, booleans, assert);
 
             assert.end();
         });
@@ -229,14 +227,7 @@ class GridFile {
         test(this.file + " Features cells should have all properties with the correct types", (assert) => {
             assert.equal(typeof cells, "object", "Grid's features cells must be a string");
 
-            // All booleans
-            Object.keys(booleans).forEach(key => {
-                if (!booleans[key]) {
-                    if (cells[key] !== null)
-                        assert.equal(typeof cells[key], "boolean", "Grid's features cells " + key + " must be a boolean or null");
-                } else
-                    assert.equal(typeof cells[key], "boolean", "Grid's features cells " + key + " must be a boolean");
-            });
+            this.validateBooleansLinks("cells", cells, booleans, assert);
 
             // Aggregation
             if (cells.keyboardNavigation !== null) {

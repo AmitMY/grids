@@ -1,17 +1,5 @@
 import fs from "fs";
-import {ArrayPrototypes} from "js-prototypes";
-ArrayPrototypes.equals();
-
-function equals(a, b) {
-    if(Array.isArray(a))
-        return a.equals(b);
-    return a == b;
-}
-
-function isURL(str) {
-    let pattern = /(ftp|http|https):\/\/(\w+:{0,1}\w*@)?(\S+)(:[0-9]+)?(\/|\/([\w#!:.?+=&%@!\-\/]))?/;
-    return pattern.test(str);
-}
+import {equals, isURL} from "./helper"
 
 function getProp(grid, field = "") {
     let fields = field.split(".");
@@ -69,7 +57,7 @@ class Render {
 
     static boolStringNull(any) {
         if (typeof any === "string")
-            return Render.link(any);
+            return Render.color("green") + " " + Render.link(any, ":scroll:");
 
         if (any === null)
             return Render.color("blue");
