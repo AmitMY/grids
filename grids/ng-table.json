@@ -17,7 +17,7 @@
         "frameworks": [
             "Angular1"
         ],
-        "layoutThemes": null,
+        "layoutThemes": ["Custom"],
         "techSupport": false
     },
     "features": {

@@ -1,0 +1,49 @@
+|**/**|Handsontable|UI Grid|
+|-----|------------|-------|
+|**Logo**|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|![Logo]()|
+|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
+|**Description**|Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers|An Angular Data Grid|
+|**Repository**|[Repository](https://github.com/handsontable/handsontable)|[Repository](https://github.com/angular-ui/ui-grid)|
+|**Stars**|7500 :star:|4600 :star:|
+|**Website**|[Website](https://handsontable.com/)|[Website](http://ui-grid.info/)|
+|**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://ui-grid.info/)|
+|**-**|||
+|**General**|||
+|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|CSV, PDF|
+|**Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/214_pagination)|
+|**Virtual Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/212_infinite_scroll)|
+|**-**|||
+|**Rows**|||
+|**Rows Grouping**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/209_grouping)|
+|**Context Menu**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Rows Numbering**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Rows Selection**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/210_selection)|
+|**Virtual DOM**|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/404_large_data_sets_and_performance)|
+|**Dynamic Add Rows**|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/112_swapping_data)|
+|**Dynamic Remove Rows**|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/112_swapping_data)|
+|**Dynamic Row Height**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-resizing.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**-**|||
+|**Columns**|||
+|**Filtering**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/103_filtering)|
+|**Filters**|![red](http://placehold.it/23/f03c15/000000?text=+)|Text, Number, Set, Custom|
+|**Sorting**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-sorting.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/102_sorting)|
+|**Pinning**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/203_pinning)|
+|**Resizing**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-resizing.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/204_column_resizing)|
+|**Selection**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Validation**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-data-validation.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/322_validation)|
+|**Aggregation**|![red](http://placehold.it/23/f03c15/000000?text=+)|Sum, Average, Min, Max, Custom|
+|**-**|||
+|**Cells**|||
+|**Custom Rendering**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-custom-renderers.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Inline Editing**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/tutorial-cell-editor.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/201_editable)|
+|**Clipboard**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Keyboard Navigation**|Arrows, Enter, Tab, Page, Home, End, UNDO/REDO|Arrows, Enter, Tab, Page|
+|**Range Selection**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Merge Cells**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-merged-cells.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**-**|||
+|**Nice To Have**|||
+|**Custom Icons**|![blue](http://placehold.it/23/1589F0/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Internationalisation**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
+|**RTL Support**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/120_RTL)|
+|**Footer**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/105_footer)|
+|**Touch support**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|

@@ -16,7 +16,7 @@ fs.readdir(gridsFolder, (err, files) => {
 });
 
 const allowedFrameworks = ["Javascript", "jQuery", "Angular1", "Angular2", "React", "Aurelia", "Web Components"];
-const allowedFormats = ["CSV", "XLSX"];
+const allowedFormats = ["CSV", "XLSX", "PDF"];
 const allowedFilters = ["Text", "Number", "Date", "Set", "Custom"];
 const allowedAggregation = ["Sum", "Average", "Min", "Max", "First", "Last", "Custom"];
 const allowedKeyboardKeys = ["Arrows", "Enter", "Tab", "Page", "Home", "End", "UNDO/REDO"];

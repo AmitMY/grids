@@ -1,0 +1,94 @@
+{
+    "lastEditor": "User",
+    "info": {
+        "name": "UI Grid",
+        "logo": "",
+        "description": "An Angular Data Grid",
+        "license": "MIT",
+        "repository": {
+            "link": "https://github.com/angular-ui/ui-grid",
+            "stars": 4600
+        },
+        "website": {
+            "link": "http://ui-grid.info/",
+            "demo": "http://ui-grid.info/"
+        },
+        "price": "Free",
+        "frameworks": [
+            "Angular1"
+        ],
+        "layoutThemes": ["Custom"],
+        "techSupport": false
+    },
+    "features": {
+        "animations": false,
+        "customIcons": false,
+        "customOverlays": null,
+        "export": ["CSV", "PDF"],
+        "globalSearch": false,
+        "internationalisation": true,
+        "masterSlave": false,
+        "pagination": "http://ui-grid.info/docs/#/tutorial/214_pagination",
+        "pivoting": false,
+        "print": false,
+        "RTLSupport": "http://ui-grid.info/docs/#/tutorial/120_RTL",
+        "statusBar": "http://ui-grid.info/docs/#/tutorial/105_footer",
+        "touchSupport": false,
+        "virtualPagination": "http://ui-grid.info/docs/#/tutorial/212_infinite_scroll",
+        "visualisation": null,
+        "columns": {
+            "aggregation": [
+                "Sum",
+                "Average",
+                "Min",
+                "Max",
+                "Custom"
+            ],
+            "collapsible": false,
+            "menu": false,
+            "filterTypes": [
+                "Text",
+                "Number",
+                "Set",
+                "Custom"
+            ],
+            "filtering": "http://ui-grid.info/docs/#/tutorial/103_filtering",
+            "grouping": false,
+            "headerRendering": false,
+            "pinning": "http://ui-grid.info/docs/#/tutorial/203_pinning",
+            "validation": "http://ui-grid.info/docs/#/tutorial/322_validation",
+            "reorder": true,
+            "resizing": "http://ui-grid.info/docs/#/tutorial/204_column_resizing",
+            "selection": false,
+            "sorting": "http://ui-grid.info/docs/#/tutorial/102_sorting"
+        },
+        "rows": {
+            "contextMenu": false,
+            "dynamicHeight": false,
+            "dynamicInsert": "http://ui-grid.info/docs/#/tutorial/112_swapping_data",
+            "dynamicRemove": "http://ui-grid.info/docs/#/tutorial/112_swapping_data",
+            "floating": false,
+            "fullWidth": false,
+            "grouping": "http://ui-grid.info/docs/#/tutorial/209_grouping",
+            "numbering": false,
+            "reorder": false,
+            "selection": "http://ui-grid.info/docs/#/tutorial/210_selection",
+            "virtualDOM": "http://ui-grid.info/docs/#/tutorial/404_large_data_sets_and_performance"
+        },
+        "cells": {
+            "clipboard": false,
+            "customRendering": false,
+            "editing": "http://ui-grid.info/docs/#/tutorial/201_editable",
+            "formula": false,
+            "keyboardNavigation": [
+                "Arrows",
+                "Enter",
+                "Tab",
+                "Page"
+            ],
+            "merge": false,
+            "rangeSelection": false,
+            "styling": false
+        }
+    }
+}
