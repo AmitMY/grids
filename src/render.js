@@ -1,6 +1,6 @@
 import fs from "fs";
 
-function getProp(grid, field) {
+function getProp(grid, field = "") {
     let fields = field.split(".");
     let param = grid;
     while (fields.length != 0)
@@ -10,12 +10,24 @@ function getProp(grid, field) {
 }
 
 class Render {
-    static link(str) {
-        return "[Link](" + str + ")";
+    static link(str, title = "Link") {
+        return "["+title+"](" + str + ")";
     }
 
-    static image(str) {
-        return "![Image](" + str + ")";
+    static image(str, title = "Image") {
+        return "!["+title+"](" + str + ")";
+    }
+
+    static stars(str) {
+        return str + " :star:";
+    }
+
+    static framework(str) {
+        return Render.image("assets/frameworks/" + str.toLowerCase() + ".png", str);
+    }
+
+    static array(mapper) {
+        return (arr) => arr.map(mapper).join(", ");
     }
 
     static color(color) {
@@ -36,17 +48,22 @@ class Render {
 
     static boolStringNull(any) {
         if (typeof any === "string")
-            return this.link(any);
+            return Render.link(any);
 
         if (any === null)
-            return this.color("yellow");
+            return Render.color("yellow");
 
         if (any === true)
-            return this.color("green");
+            return Render.color("green");
 
         return this.color("red");
     }
 }
+
+let clearRow = {
+    title: "-",
+    renderer: () => "-"
+};
 
 const rows = [
     {
@@ -54,12 +71,26 @@ const rows = [
         field: "info.logo",
         renderer: Render.image
     }, {
+        title: "Frameworks",
+        field: "info.frameworks",
+        renderer: Render.array(Render.framework)
+    }, {
+        title: "Description",
+        field: "info.description"
+    },{
+        title: "License",
+        field: "info.license"
+    }, {
+        title: "Price",
+        field: "info.price"
+    }, {
         title: "Repository",
         field: "info.repository.link",
         renderer: Render.link
     }, {
         title: "Stars",
-        field: "info.repository.stars"
+        field: "info.repository.stars",
+        renderer: Render.stars
     }, {
         title: "Website",
         field: "info.website.link",
@@ -68,7 +99,7 @@ const rows = [
         title: "Demo",
         field: "info.website.demo",
         renderer: Render.link
-    },
+    }, clearRow
 ];
 
 function createRow(array, title = "") {
@@ -84,7 +115,7 @@ function createTable(data) {
     rows.forEach(param => {
         table.push(createRow(data.map(grid => getProp(grid, param.field)).map((item) => {
             if (param.renderer)
-                return param.renderer(item);
+                return param.renderer(item, param.title);
             return item;
         }), param.title));
     });
