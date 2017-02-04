@@ -1,5 +1,5 @@
-|**/**|ag-Grid|ag-GridEnterprise|
-|-----|-------|-----------------|
+|**/**|ag-Grid|ag-Grid Enterprise|
+|-----|-------|------------------|
 |**Description**|Advanced Data Grid / Data Table||
 |**License**|MIT|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|
 |**Price**|Free|£495+|
