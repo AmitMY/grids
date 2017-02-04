@@ -21,28 +21,19 @@
 |**Floating Rows**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/Options.html#fixedRowsBottom)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Context Menu**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Rows Numbering**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Rows Selection**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/210_selection)|
-|**Virtual DOM**|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/404_large_data_sets_and_performance)|
-|**Dynamic Add Rows**|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/112_swapping_data)|
-|**Dynamic Remove Rows**|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/112_swapping_data)|
 |**Dynamic Row Height**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-resizing.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Columns**|||
-|**Filtering**|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/103_filtering)|
 |**Filters**|Text, Number, Set|Text, Number, Set, Custom|
-|**Sorting**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-sorting.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/102_sorting)|
 |**Pinning**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/203_pinning)|
-|**Resizing**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-resizing.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/204_column_resizing)|
 |**Header Grouping**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Selection**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Validation**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-data-validation.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/322_validation)|
 |**Column Menu**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Aggregation**|Average|Sum, Average, Min, Max, Custom|
 |**-**|||
 |**Cells**|||
 |**Custom Rendering**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-custom-renderers.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Formula Support**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-formula-support.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Inline Editing**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/tutorial-cell-editor.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/201_editable)|
 |**Clipboard**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Keyboard Navigation**|Arrows, Enter, Tab, Page, Home, End, UNDO/REDO|Arrows, Enter, Tab, Page|
 |**Range Selection**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|

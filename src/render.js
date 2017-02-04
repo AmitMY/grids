@@ -1,5 +1,5 @@
 import fs from "fs";
-import {equals, isURL} from "./helper"
+import {equals, isURL} from "./helper";
 
 function getProp(grid, field = "") {
     let fields = field.split(".");
@@ -308,8 +308,12 @@ function createTable(data) {
     rows.forEach(param => {
         let rowData = data.map(grid => getProp(grid, param.field));
 
+        let parsedRowData = (param.renderer == Render.boolLinkNull) ?
+            rowData.map(item => (typeof item == "string") ? true : item) :
+            rowData;
+
         // Skip equal rows
-        if (!param.mandatory && rowData.every(item => equals(item, rowData[0])))
+        if (!param.mandatory && parsedRowData.every(item => equals(item, parsedRowData[0])))
             return;
 
         let row = createRow(rowData.map((item) => {

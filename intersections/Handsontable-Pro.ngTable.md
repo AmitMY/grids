@@ -23,13 +23,9 @@
 |**Rows Numbering**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Rows Selection**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Virtual DOM**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Dynamic Row Height**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-resizing.html)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**-**|||
 |**Columns**|||
-|**Filtering**|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ng-table.com/#/filtering/demo-filtering-basic)|
 |**Filters**|Text, Number, Set|Text, Number, Set, Custom|
-|**Sorting**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-sorting.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ng-table.com/#/sorting/demo-sorting-basic)|
-|**Reordering**|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ng-table.com/#/columns/demo-reordering)|
 |**Resizing**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-resizing.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Header Grouping**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Selection**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
@@ -38,9 +34,7 @@
 |**Aggregation**|Average|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Cells**|||
-|**Custom Rendering**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-custom-renderers.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ng-table.com/#/formatting/demo-cell-values)|
 |**Formula Support**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-formula-support.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Inline Editing**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/tutorial-cell-editor.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ng-table.com/#/editing/demo-inline)|
 |**Custom styling**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**Clipboard**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Keyboard Navigation**|Arrows, Enter, Tab, Page, Home, End, UNDO/REDO|![red](http://placehold.it/23/f03c15/000000?text=+)|
