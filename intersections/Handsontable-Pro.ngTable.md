@@ -29,12 +29,12 @@
 |**Resizing**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-resizing.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Header Grouping**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Selection**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Validation**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-data-validation.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Column Menu**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Aggregation**|Average|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Cells**|||
 |**Formula Support**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-formula-support.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Validation**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-data-validation.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Custom styling**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**Clipboard**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Keyboard Navigation**|Arrows, Enter, Tab, Page, Home, End, UNDO/REDO|![red](http://placehold.it/23/f03c15/000000?text=+)|

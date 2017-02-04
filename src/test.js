@@ -161,7 +161,6 @@ class GridFile {
             grouping: true,
             headerRendering: false,
             pinning: true,
-            validation: true,
             reorder: true,
             resizing: true,
             selection: true,
@@ -227,6 +226,7 @@ class GridFile {
             editing: true,
             formula: false,
             merge: true,
+            validation: true,
             rangeSelection: true,
             styling: true
         };

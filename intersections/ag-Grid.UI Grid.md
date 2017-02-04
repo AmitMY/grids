@@ -10,7 +10,7 @@
 |**-**|||
 |**General**|||
 |**Print Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-for-print/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Export**|CSV, XLSX|CSV, PDF|
+|**Export**|CSV, ![XLSX](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xlsx.png)|CSV, ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png)|
 |**-**|||
 |**Rows**|||
 |**Rows Grouping**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/209_grouping)|
@@ -22,13 +22,13 @@
 |**Columns**|||
 |**Filters**|Text, Number, Date, Custom|Text, Number, Set, Custom|
 |**Header Grouping**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-grouping-headers/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Validation**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/322_validation)|
 |**Aggregation**|![red](http://placehold.it/23/f03c15/000000?text=+)|Sum, Average, Min, Max, Custom|
 |**Header Rendering**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-header-rendering/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Cells**|||
 |**Custom Rendering**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-cell-rendering/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Formula Support**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-cell-expressions/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Validation**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/322_validation)|
 |**Custom styling**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-cell-styling/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Keyboard Navigation**|Arrows, Enter, Tab|Arrows, Enter, Tab, Page|
 |**-**|||

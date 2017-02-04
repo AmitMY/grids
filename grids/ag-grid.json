@@ -64,7 +64,6 @@
             "grouping": "https://www.ag-grid.com/javascript-grid-grouping-headers/",
             "headerRendering": "https://www.ag-grid.com/javascript-grid-header-rendering/",
             "pinning": "https://www.ag-grid.com/javascript-grid-pinning/",
-            "validation": false,
             "reorder": true,
             "resizing": "https://www.ag-grid.com/javascript-grid-resizing/#gsc.tab=0",
             "selection": false,
@@ -94,6 +93,7 @@
                 "Tab"
             ],
             "merge": false,
+            "validation": false,
             "rangeSelection": false,
             "styling": "https://www.ag-grid.com/javascript-grid-cell-styling/#gsc.tab=0"
         }

@@ -48,7 +48,6 @@
             "grouping": false,
             "headerRendering": false,
             "pinning": false,
-            "validation": "https://docs.handsontable.com/pro/1.9.1/demo-data-validation.html",
             "reorder": true,
             "resizing": "https://docs.handsontable.com/pro/1.9.1/demo-resizing.html",
             "selection": "https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html",
@@ -82,6 +81,7 @@
                 "UNDO/REDO"
             ],
             "merge": "https://docs.handsontable.com/pro/1.9.1/demo-merged-cells.html",
+            "validation": "https://docs.handsontable.com/pro/1.9.1/demo-data-validation.html",
             "rangeSelection": "https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html",
             "styling": false
         }

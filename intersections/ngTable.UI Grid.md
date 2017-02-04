@@ -8,7 +8,7 @@
 |**Demo**|[Demo](http://ng-table.com/)|[Demo](http://ui-grid.info/)|
 |**-**|||
 |**General**|||
-|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|CSV, PDF|
+|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|CSV, ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png)|
 |**Virtual Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/212_infinite_scroll)|
 |**-**|||
 |**Rows**|||
@@ -20,11 +20,11 @@
 |**Columns**|||
 |**Pinning**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/203_pinning)|
 |**Resizing**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/204_column_resizing)|
-|**Validation**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/322_validation)|
 |**Aggregation**|![red](http://placehold.it/23/f03c15/000000?text=+)|Sum, Average, Min, Max, Custom|
 |**-**|||
 |**Cells**|||
 |**Custom Rendering**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ng-table.com/#/formatting/demo-cell-values)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Validation**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/322_validation)|
 |**Custom styling**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Keyboard Navigation**|![red](http://placehold.it/23/f03c15/000000?text=+)|Arrows, Enter, Tab, Page|
 |**-**|||

@@ -29,6 +29,12 @@ class Render {
         return Render.image("https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/" + str.toLowerCase() + ".png", str);
     }
 
+    static format(str) {
+        if(["XLSX", "PDF"].indexOf(str) != -1)
+            return Render.image("https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/"+str.toLowerCase()+".png", str);
+        return str;
+    }
+
     static array(mapper = null) {
         return (arr) => {
             if (arr === null)
@@ -124,7 +130,7 @@ const rows = [
     }, {
         title: "Export",
         field: "features.export",
-        renderer: Render.array()
+        renderer: Render.array(Render.format)
     }, {
         title: "Pagination",
         field: "features.pagination",
@@ -206,10 +212,6 @@ const rows = [
         field: "features.columns.selection",
         renderer: Render.boolLinkNull
     }, {
-        title: "Validation",
-        field: "features.columns.validation",
-        renderer: Render.boolLinkNull
-    }, {
         title: "Column Menu",
         field: "features.columns.menu",
         renderer: Render.boolLinkNull
@@ -232,6 +234,10 @@ const rows = [
     }, {
         title: "Inline Editing",
         field: "features.cells.editing",
+        renderer: Render.boolLinkNull
+    }, {
+        title: "Validation",
+        field: "features.cells.validation",
         renderer: Render.boolLinkNull
     }, {
         title: "Custom styling",

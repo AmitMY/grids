@@ -50,7 +50,6 @@
             "grouping": false,
             "headerRendering": false,
             "pinning": false,
-            "validation": false,
             "reorder": "http://ng-table.com/#/columns/demo-reordering",
             "resizing": false,
             "selection": false,
@@ -76,6 +75,7 @@
             "formula": false,
             "keyboardNavigation": null,
             "merge": false,
+            "validation": false,
             "rangeSelection": false,
             "styling": true
         }

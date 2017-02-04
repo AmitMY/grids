@@ -14,7 +14,7 @@
 |**General**|||
 |**Pivot Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-pivoting/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Print Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-for-print/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Export**|CSV, XLSX|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Export**|CSV, ![XLSX](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xlsx.png)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Virtual Pagination**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-virtual-paging/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Rows**|||

@@ -56,7 +56,6 @@
             "grouping": false,
             "headerRendering": false,
             "pinning": "http://ui-grid.info/docs/#/tutorial/203_pinning",
-            "validation": "http://ui-grid.info/docs/#/tutorial/322_validation",
             "reorder": true,
             "resizing": "http://ui-grid.info/docs/#/tutorial/204_column_resizing",
             "selection": false,
@@ -87,6 +86,7 @@
                 "Page"
             ],
             "merge": false,
+            "validation": "http://ui-grid.info/docs/#/tutorial/322_validation",
             "rangeSelection": false,
             "styling": false
         }

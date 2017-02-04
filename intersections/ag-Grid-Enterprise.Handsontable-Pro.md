@@ -12,7 +12,7 @@
 |**General**|||
 |**Pivot Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-pivoting/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Print Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-for-print/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Export**|CSV, XLSX|CSV|
+|**Export**|CSV, ![XLSX](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xlsx.png)|CSV|
 |**Pagination**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-pagination/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Virtual Pagination**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-virtual-paging/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
@@ -25,11 +25,11 @@
 |**Filters**|Text, Number, Date, Set, Custom|Text, Number, Set|
 |**Pinning**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-pinning/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Selection**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|
-|**Validation**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-data-validation.html)|
 |**Aggregation**|Sum, Average, Min, Max, First, Last|Average|
 |**Header Rendering**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-header-rendering/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Cells**|||
+|**Validation**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-data-validation.html)|
 |**Custom styling**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-cell-styling/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Keyboard Navigation**|Arrows, Enter, Tab|Arrows, Enter, Tab, Page, Home, End, UNDO/REDO|
 |**Merge Cells**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-merged-cells.html)|
