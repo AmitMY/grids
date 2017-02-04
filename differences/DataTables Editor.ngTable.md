@@ -1,5 +1,5 @@
-|**/**|DataTablesEditor|ngTable|
-|-----|----------------|-------|
+|**/**|DataTables Editor|ngTable|
+|-----|-----------------|-------|
 |**Logo**|![Logo](https://editor.datatables.net/media/images/nav-e.png)||
 |**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**||Simple table with sorting and filtering|

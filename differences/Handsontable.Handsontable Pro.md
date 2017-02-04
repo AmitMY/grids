@@ -1,4 +1,4 @@
-|**/**|Handsontable|Handsontable-Pro|
+|**/**|Handsontable|Handsontable Pro|
 |-----|------------|----------------|
 |**Description**|Handsontable Community Edition - a Spreadsheet Library for Developers||
 |**License**|MIT|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|

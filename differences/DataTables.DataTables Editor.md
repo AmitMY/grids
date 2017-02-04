@@ -1,5 +1,5 @@
-|**/**|DataTables|DataTablesEditor|
-|-----|----------|----------------|
+|**/**|DataTables|DataTables Editor|
+|-----|----------|-----------------|
 |**Logo**|![Logo](https://datatables.net/media/images/nav-dt.png)|![Logo](https://editor.datatables.net/media/images/nav-e.png)|
 |**Description**|Tables plug-in||
 |**License**|MIT|[License](https://editor.datatables.net/license/)|

@@ -1,5 +1,5 @@
-|**/**|ag-Grid-Enterprise|Handsontable-Pro|
-|-----|------------------|----------------|
+|**/**|ag-GridEnterprise|Handsontable Pro|
+|-----|-----------------|----------------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png), ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png), ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png), ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png), ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|

@@ -1,5 +1,5 @@
-|**/**|ag-Grid-Enterprise|ngTable|
-|-----|------------------|-------|
+|**/**|ag-GridEnterprise|ngTable|
+|-----|-----------------|-------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)||
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png), ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png), ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png), ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png), ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**||Simple table with sorting and filtering|

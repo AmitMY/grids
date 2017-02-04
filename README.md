@@ -24,7 +24,9 @@ It is recommended to check it out before getting a "pro" version of a grid, to s
 Here we compare the grids using the markdown table, to show no bias to any grid. If willing, other grids can show this table using their grid.
 This comparison is alphabetical, to avoid owner's bias.
 
-*Note:* Because the similarities don't matter, this table only shows the differences:
+*Note:* Because the similarities don't matter, this table only shows the differences.
+
+*Note:* This MD table has horizontal scrolling. Please use the middle mouse button to see all the grids.
 
 **Legend**:
 - ![green](http://placehold.it/20/c5f015/000000?text=+) Has.
@@ -32,8 +34,8 @@ This comparison is alphabetical, to avoid owner's bias.
 - ![blue](http://placehold.it/20/1589F0/000000?text=+) N/A.
 - :book: Documentation link.
 
-|**/**|ag-Grid|ag-Grid-Enterprise|DataTables|DataTablesEditor|Handsontable|Handsontable-Pro|ngTable|UI Grid|
-|-----|-------|------------------|----------|----------------|------------|----------------|-------|-------|
+|**/**|ag-Grid|ag-GridEnterprise|DataTables|DataTables Editor|Handsontable|Handsontable Pro|ngTable|UI Grid|
+|-----|-------|-----------------|----------|-----------------|------------|----------------|-------|-------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://datatables.net/media/images/nav-dt.png)|![Logo](https://editor.datatables.net/media/images/nav-e.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|||
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png), ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png), ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png), ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png), ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png), ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png), ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png), ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png), ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|Advanced Data Grid / Data Table||Tables plug-in||Handsontable Community Edition - a Spreadsheet Library for Developers||Simple table with sorting and filtering|A Data Grid|
