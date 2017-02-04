@@ -1,6 +1,6 @@
 |**/**|ag-Grid|ag-Grid-Enterprise|
 |-----|-------|------------------|
-|**Description**|Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components||
+|**Description**|Advanced Data Grid / Data Table||
 |**License**|MIT|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|
 |**Price**|Free|£495+|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/ceolter/ag-grid-enterprise)|

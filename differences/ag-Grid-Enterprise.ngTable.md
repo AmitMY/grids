@@ -1,8 +1,8 @@
 |**/**|ag-Grid-Enterprise|ngTable|
 |-----|------------------|-------|
-|**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo]()|
+|**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)||
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png), ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png), ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png), ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png), ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
-|**Description**||Simple table with sorting and filtering on AngularJS|
+|**Description**||Simple table with sorting and filtering|
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|BSD-3-Clause|
 |**Price**|£495+|Free|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/esvit/ng-table)|

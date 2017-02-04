@@ -1,6 +1,6 @@
 |**/**|ngTable|UI Grid|
 |-----|-------|-------|
-|**Description**|Simple table with sorting and filtering on AngularJS|An Angular Data Grid|
+|**Description**|Simple table with sorting and filtering|A Data Grid|
 |**License**|BSD-3-Clause|MIT|
 |**Repository**|[Repository](https://github.com/esvit/ng-table)|[Repository](https://github.com/angular-ui/ui-grid)|
 |**Stars**|2600 :star:|4600 :star:|

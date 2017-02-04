@@ -1,6 +1,6 @@
 |**/**|Handsontable|Handsontable-Pro|
 |-----|------------|----------------|
-|**Description**|Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers||
+|**Description**|Handsontable Community Edition - a Spreadsheet Library for Developers||
 |**License**|MIT|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|
 |**Price**|Free|$149+|
 |**Repository**|[Repository](https://github.com/handsontable/handsontable)||

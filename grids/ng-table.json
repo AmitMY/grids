@@ -2,7 +2,7 @@
     "lastEditor": "User",
     "info": {
         "name": "ngTable",
-        "logo": "",
+        "logo": null,
         "description": "Simple table with sorting and filtering",
         "license": "BSD-3-Clause",
         "repository": {

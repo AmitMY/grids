@@ -2,7 +2,7 @@
 |-----|-------|------------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png), ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png), ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png), ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png), ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
-|**Description**|Advanced Data Grid / Data Table supporting Javascript / React / AngularJS / Web Components|Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers|
+|**Description**|Advanced Data Grid / Data Table|Handsontable Community Edition - a Spreadsheet Library for Developers|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/handsontable/handsontable)|
 |**Stars**|2300 :star:|7500 :star:|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://handsontable.com/)|

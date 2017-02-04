@@ -1,0 +1,87 @@
+{
+    "lastEditor": "User",
+    "info": {
+        "name": "DataTables",
+        "logo": "https://datatables.net/media/images/nav-dt.png",
+        "description": "Tables plug-in",
+        "license": "MIT",
+        "repository": {
+            "link": "https://github.com/DataTables/DataTables",
+            "stars": 4300
+        },
+        "website": {
+            "link": "https://datatables.net/",
+            "demo": "https://datatables.net/examples/index"
+        },
+        "price": "Free",
+        "frameworks": [
+            "jQuery"
+        ],
+        "layoutThemes": [
+            "Default",
+            "Custom"
+        ],
+        "techSupport": false
+    },
+    "features": {
+        "animations": false,
+        "customIcons": null,
+        "customOverlays": null,
+        "export": [
+            "CSV"
+        ],
+        "globalSearch": "https://datatables.net/examples/api/multi_filter.html",
+        "internationalisation": "https://datatables.net/manual/i18n",
+        "masterSlave": false,
+        "pagination": "https://datatables.net/examples/basic_init/alt_pagination.html",
+        "pivoting": false,
+        "print": false,
+        "RTLSupport": true,
+        "statusBar": false,
+        "touchSupport": true,
+        "virtualPagination": false,
+        "visualisation": null,
+        "columns": {
+            "aggregation": null,
+            "collapsible": false,
+            "menu": false,
+            "filterTypes": [
+                "Text",
+                "Set",
+                "Custom"
+            ],
+            "filtering": "https://datatables.net/examples/api/multi_filter.html",
+            "grouping": false,
+            "headerRendering": false,
+            "pinning": false,
+            "reorder": false,
+            "resizing": false,
+            "selection": false,
+            "sorting": "https://datatables.net/examples/basic_init/table_sorting.html"
+        },
+        "rows": {
+            "contextMenu": false,
+            "dynamicHeight": false,
+            "dynamicInsert": "https://datatables.net/examples/api/add_row.html",
+            "dynamicRemove": "https://datatables.net/examples/api/select_single_row.html",
+            "floating": false,
+            "fullWidth": false,
+            "grouping": false,
+            "numbering": false,
+            "reorder": false,
+            "selection": "https://datatables.net/examples/api/select_row.html",
+            "virtualDOM": false
+        },
+        "cells": {
+            "clipboard": false,
+            "customRendering": "https://datatables.net/examples/advanced_init/column_render.html",
+            "editing": false,
+            "formula": false,
+            "keyboardNavigation": null,
+            "merge": false,
+            "validation": false,
+            "rangeSelection": false,
+            "styling": false
+        }
+    }
+}

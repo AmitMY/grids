@@ -44,9 +44,10 @@ class GridFile {
 
             // Global information
             assert.equal(typeof info.name, "string", "Grid's info name must be a string");
-            assert.equal(typeof info.logo, "string", "Grid's info logo must be a string");
-            if (info.logo !== "")
+            if(info.logo !== null) {
+                assert.equal(typeof info.logo, "string", "Grid's info logo must be a string");
                 assert.ok(isURL(info.logo), "Grid's info logo must be a URL");
+            }
             assert.equal(typeof info.description, "string", "Grid's info description must be a string");
             assert.equal(typeof info.license, "string", "Grid's info license must be a string");
             assert.equal(typeof info.price, "string", "Grid's info price must be a string");

@@ -2,7 +2,7 @@
     "lastEditor": "User",
     "info": {
         "name": "UI Grid",
-        "logo": "",
+        "logo": null,
         "description": "A Data Grid",
         "license": "MIT",
         "repository": {

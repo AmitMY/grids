@@ -18,6 +18,8 @@ class Render {
     }
 
     static image(str, title = "Image") {
+        if(str === null)
+            return "";
         return "![" + title + "](" + str + ")";
     }
 
@@ -354,7 +356,7 @@ function createTables(grids) {
         for (let j = i + 1; j < grids.length; j++) {
             let data = [grids[i], grids[j]];
             let name = grids[i].info.name + "." + grids[j].info.name;
-            fs.writeFile("intersections/" + name + ".md", createTable(data));
+            fs.writeFile("differences/" + name + ".md", createTable(data));
         }
 }
 
