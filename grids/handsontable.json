@@ -3,7 +3,7 @@
     "info": {
         "name": "Handsontable",
         "logo": "https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png",
-        "description": "Handsontable Community Edition - a JavaScript/HTML5 Spreadsheet Library for Developers",
+        "description": "Handsontable Community Edition - a Spreadsheet Library for Developers",
         "license": "MIT",
         "repository": {
             "link": "https://github.com/handsontable/handsontable",

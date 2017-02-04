@@ -3,7 +3,7 @@
     "info": {
         "name": "UI Grid",
         "logo": "",
-        "description": "An Angular Data Grid",
+        "description": "A Data Grid",
         "license": "MIT",
         "repository": {
             "link": "https://github.com/angular-ui/ui-grid",

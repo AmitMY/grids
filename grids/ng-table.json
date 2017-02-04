@@ -3,7 +3,7 @@
     "info": {
         "name": "ngTable",
         "logo": "",
-        "description": "Simple table with sorting and filtering on AngularJS",
+        "description": "Simple table with sorting and filtering",
         "license": "BSD-3-Clause",
         "repository": {
             "link": "https://github.com/esvit/ng-table",
