@@ -20,7 +20,8 @@
             "Angular2",
             "React",
             "Aurelia",
-            "Web Components"
+            "Web Components",
+            "Vue"
         ],
         "layoutThemes": [
             "Fresh",

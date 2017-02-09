@@ -15,7 +15,7 @@ fs.readdir(gridsFolder, (err, files) => {
     });
 });
 
-const allowedFrameworks = ["Javascript", "jQuery", "Angular1", "Angular2", "React", "Aurelia", "Web Components"];
+const allowedFrameworks = ["Javascript", "jQuery", "Angular1", "Angular2", "React", "Aurelia", "Web Components", "Vue"];
 const allowedFormats = ["CSV", "XLSX", "PDF"];
 const allowedFilters = ["Text", "Number", "Date", "Set", "Custom"];
 const allowedAggregation = ["Sum", "Average", "Min", "Max", "First", "Last", "Custom"];
