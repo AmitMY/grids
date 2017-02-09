@@ -18,7 +18,7 @@ class Render {
     }
 
     static image(str, title = "Image") {
-        if(str === null)
+        if (str === null)
             return "";
         return "![" + title + "](" + str + ")";
     }
@@ -32,18 +32,18 @@ class Render {
     }
 
     static format(str) {
-        if(["XLSX", "PDF"].indexOf(str) != -1)
-            return Render.image("https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/"+str.toLowerCase()+".png", str);
+        if (["XLS", "XLSX", "PDF"].indexOf(str) != -1)
+            return Render.image("https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/" + str.toLowerCase() + ".png", str);
         return str;
     }
 
-    static array(mapper = null) {
+    static array(mapper = null, join = ",") {
         return (arr) => {
             if (arr === null)
                 return Render.boolLinkNull(false);
             if (mapper !== null)
                 arr = arr.map(mapper);
-            return arr.join(", ");
+            return arr.join(join + " ");
         };
     }
 
@@ -91,7 +91,7 @@ const rows = [
     }, {
         title: "Frameworks",
         field: "info.frameworks",
-        renderer: Render.array(Render.framework)
+        renderer: Render.array(Render.framework, "")
     }, {
         title: "Description",
         field: "info.description"

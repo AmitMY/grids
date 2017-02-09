@@ -38,7 +38,7 @@
         "customOverlays": "https://www.ag-grid.com/javascript-grid-overlays/#gsc.tab=0",
         "export": [
             "CSV",
-            "XLSX"
+            "XLS"
         ],
         "globalSearch": "https://www.ag-grid.com/javascript-grid-filtering/#gsc.tab=0",
         "internationalisation": "https://www.ag-grid.com/javascript-grid-internationalisation/#gsc.tab=0",
