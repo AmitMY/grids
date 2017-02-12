@@ -42,7 +42,7 @@ class Render {
     }
 
     static stars(stars) {
-        return stars + " :star:";
+        return Number(stars).toLocaleString() + " :star:";
     }
 
     static framework(str) {
