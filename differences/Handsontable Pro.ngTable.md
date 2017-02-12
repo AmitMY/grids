@@ -5,8 +5,9 @@
 |**Description**||Simple table with sorting and filtering|
 |**License**|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|BSD-3-Clause|
 |**Price**|$149+|Free|
-|**Repository**|[Link](https://github.com/null)|[Link](https://github.com/esvit/ng-table)|
-|**Stars**|||
+|**Repository**||[Repository](https://github.com/esvit/ng-table)|
+|**Stars**||2643 :star:|
+|**Themes**|Excel|Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://ng-table.com/)|
 |**Tech Support**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|

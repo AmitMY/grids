@@ -13,6 +13,19 @@ function getProp(grid, field = "") {
     return param;
 }
 
+function getRepository(repository) {
+    try {
+        let res = request("GET", "https://api.github.com/repos/" + repository, {
+            "headers": {
+                "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36."
+            }
+        });
+        return JSON.parse(res.getBody('utf8'));
+    } catch (ex) {
+        return null;
+    }
+}
+
 class Render {
     static link(str, title = "Link") {
         return "[" + title + "](" + str + ")";
@@ -28,18 +41,8 @@ class Render {
         return Render.link("https://github.com/" + repository);
     }
 
-    static stars(repository) {
-        try {
-            let res = request("GET", "https://api.github.com/repos/" + repository, {
-                "headers": {
-                    "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36."
-                }
-            });
-            let repo = JSON.parse(res.getBody('utf8'));
-            return repo.stargazers_count + " :star:";
-        } catch (ex) {
-            return "";
-        }
+    static stars(stars) {
+        return stars + " :star:";
     }
 
     static framework(str) {
@@ -118,12 +121,16 @@ const rows = [
         field: "info.price"
     }, {
         title: "Repository",
-        field: "info.repository",
-        renderer: Render.repository
+        field: "info.repository.html_url",
+        renderer: Render.link
     }, {
         title: "Stars",
-        field: "info.repository",
+        field: "info.repository.stargazers_count",
         renderer: Render.stars
+    }, {
+        title: "Themes",
+        field: "info.layoutThemes",
+        renderer: Render.array()
     }, {
         title: "Website",
         field: "info.website.link",
@@ -365,6 +372,11 @@ function writeMainTable(str) {
 }
 
 function createTables(grids) {
+    grids.forEach(grid => {
+        if(grid.info.repository !== null)
+            grid.info.repository = getRepository(grid.info.repository);
+    });
+
     writeMainTable(createTable(grids));
 
     for (let i = 0; i < grids.length; i++)

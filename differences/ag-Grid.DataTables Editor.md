@@ -5,8 +5,9 @@
 |**Description**|Advanced Data Grid / Data Table||
 |**License**|MIT|[License](https://editor.datatables.net/license/)|
 |**Price**|Free|$119+|
-|**Repository**|[Link](https://github.com/ceolter/ag-grid)|[Link](https://github.com/null)|
-|**Stars**|2390 :star:||
+|**Repository**|[Repository](https://github.com/ceolter/ag-grid)||
+|**Stars**|2391 :star:||
+|**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://editor.datatables.net/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://editor.datatables.net/examples/index)|
 |**-**|||

@@ -4,8 +4,9 @@
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|[License](https://editor.datatables.net/license/)|
 |**Price**|£495+|$119+|
-|**Repository**|[Link](https://github.com/ceolter/ag-grid-enterprise)|[Link](https://github.com/null)|
+|**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)||
 |**Stars**|56 :star:||
+|**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://editor.datatables.net/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://editor.datatables.net/examples/index)|
 |**Tech Support**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|

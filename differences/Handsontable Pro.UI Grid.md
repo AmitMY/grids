@@ -5,8 +5,9 @@
 |**Description**||A Data Grid|
 |**License**|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|MIT|
 |**Price**|$149+|Free|
-|**Repository**|[Link](https://github.com/null)|[Link](https://github.com/angular-ui/ui-grid)|
-|**Stars**|||
+|**Repository**||[Repository](https://github.com/angular-ui/ui-grid)|
+|**Stars**||4593 :star:|
+|**Themes**|Excel|Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://ui-grid.info/)|
 |**Tech Support**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|

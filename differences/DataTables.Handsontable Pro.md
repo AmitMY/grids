@@ -5,8 +5,9 @@
 |**Description**|Tables plug-in||
 |**License**|MIT|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|
 |**Price**|Free|$149+|
-|**Repository**|[Link](https://github.com/DataTables/DataTables)|[Link](https://github.com/null)|
+|**Repository**|[Repository](https://github.com/DataTables/DataTables)||
 |**Stars**|4332 :star:||
+|**Themes**|Default, Custom|Excel|
 |**Website**|[Website](https://datatables.net/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|
 |**Tech Support**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|

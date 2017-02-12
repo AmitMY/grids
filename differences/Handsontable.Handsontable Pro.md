@@ -3,8 +3,8 @@
 |**Description**|Handsontable Community Edition - a Spreadsheet Library for Developers||
 |**License**|MIT|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|
 |**Price**|Free|$149+|
-|**Repository**|[Link](https://github.com/handsontable/handsontable)|[Link](https://github.com/null)|
-|**Stars**|||
+|**Repository**|[Repository](https://github.com/handsontable/handsontable)||
+|**Stars**|7512 :star:||
 |**Tech Support**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**-**|||
 |**General**|||

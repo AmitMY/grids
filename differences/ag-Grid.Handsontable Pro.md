@@ -5,8 +5,9 @@
 |**Description**|Advanced Data Grid / Data Table||
 |**License**|MIT|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|
 |**Price**|Free|$149+|
-|**Repository**|[Link](https://github.com/ceolter/ag-grid)|[Link](https://github.com/null)|
-|**Stars**|2390 :star:||
+|**Repository**|[Repository](https://github.com/ceolter/ag-grid)||
+|**Stars**|2391 :star:||
+|**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Excel|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://handsontable.com/examples.html)|
 |**Tech Support**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|

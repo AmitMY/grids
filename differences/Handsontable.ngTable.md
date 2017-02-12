@@ -4,8 +4,9 @@
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|Handsontable Community Edition - a Spreadsheet Library for Developers|Simple table with sorting and filtering|
 |**License**|MIT|BSD-3-Clause|
-|**Repository**|[Link](https://github.com/handsontable/handsontable)|[Link](https://github.com/esvit/ng-table)|
-|**Stars**|||
+|**Repository**|[Repository](https://github.com/handsontable/handsontable)|[Repository](https://github.com/esvit/ng-table)|
+|**Stars**|7512 :star:|2643 :star:|
+|**Themes**|Excel|Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://ng-table.com/)|
 |**-**|||

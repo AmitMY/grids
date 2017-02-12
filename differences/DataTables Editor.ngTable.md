@@ -5,8 +5,9 @@
 |**Description**||Simple table with sorting and filtering|
 |**License**|[License](https://editor.datatables.net/license/)|BSD-3-Clause|
 |**Price**|$119+|Free|
-|**Repository**|[Link](https://github.com/null)|[Link](https://github.com/esvit/ng-table)|
-|**Stars**|||
+|**Repository**||[Repository](https://github.com/esvit/ng-table)|
+|**Stars**||2643 :star:|
+|**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Custom|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](http://ng-table.com/)|
 |**-**|||

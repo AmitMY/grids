@@ -4,6 +4,7 @@
 |**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
 |**License**|[License](https://editor.datatables.net/license/)|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|
 |**Price**|$119+|$149+|
+|**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Excel|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|
 |**Tech Support**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|

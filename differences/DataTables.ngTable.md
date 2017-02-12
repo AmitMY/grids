@@ -4,8 +4,9 @@
 |**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|Tables plug-in|Simple table with sorting and filtering|
 |**License**|MIT|BSD-3-Clause|
-|**Repository**|[Link](https://github.com/DataTables/DataTables)|[Link](https://github.com/esvit/ng-table)|
+|**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/esvit/ng-table)|
 |**Stars**|4332 :star:|2643 :star:|
+|**Themes**|Default, Custom|Custom|
 |**Website**|[Website](https://datatables.net/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](http://ng-table.com/)|
 |**-**|||

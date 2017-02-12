@@ -5,8 +5,9 @@
 |**Description**||Handsontable Community Edition - a Spreadsheet Library for Developers|
 |**License**|[License](https://editor.datatables.net/license/)|MIT|
 |**Price**|$119+|Free|
-|**Repository**|[Link](https://github.com/null)|[Link](https://github.com/handsontable/handsontable)|
+|**Repository**||[Repository](https://github.com/handsontable/handsontable)|
 |**Stars**||7512 :star:|
+|**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Excel|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|
 |**-**|||
