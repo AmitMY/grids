@@ -44,7 +44,7 @@ class GridFile {
 
             // Global information
             assert.equal(typeof info.name, "string", "Grid's info name must be a string");
-            if(info.logo !== null) {
+            if (info.logo !== null) {
                 assert.equal(typeof info.logo, "string", "Grid's info logo must be a string");
                 assert.ok(isURL(info.logo), "Grid's info logo must be a URL");
             }
@@ -55,10 +55,8 @@ class GridFile {
 
             // Repository information
             if (info.repository !== null) {
-                assert.equal(typeof info.repository, "object", "Grid's info repository must be a string");
-                assert.equal(typeof info.repository.link, "string", "Grid's info repository link must be a string");
-                assert.ok(isURL(info.repository.link), "Grid's info repository link must be a URL");
-                assert.equal(typeof info.repository.stars, "number", "Grid's info repository stars must be a number");
+                assert.equal(typeof info.repository, "string", "Grid's info repository link must be a string");
+                // TODO test if it is a valid github repo
             }
 
             // Website information

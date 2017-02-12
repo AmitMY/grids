@@ -3,8 +3,8 @@
 |**Logo**|![Logo](https://datatables.net/media/images/nav-dt.png)||
 |**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|Tables plug-in|A Data Grid|
-|**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|4300 :star:|4600 :star:|
+|**Repository**|[Link](https://github.com/DataTables/DataTables)|[Link](https://github.com/angular-ui/ui-grid)|
+|**Stars**|4332 :star:|4593 :star:|
 |**Website**|[Website](https://datatables.net/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](http://ui-grid.info/)|
 |**-**|||

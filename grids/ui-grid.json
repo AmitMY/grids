@@ -5,10 +5,7 @@
         "logo": null,
         "description": "A Data Grid",
         "license": "MIT",
-        "repository": {
-            "link": "https://github.com/angular-ui/ui-grid",
-            "stars": 4600
-        },
+        "repository": "angular-ui/ui-grid",
         "website": {
             "link": "http://ui-grid.info/",
             "demo": "http://ui-grid.info/"

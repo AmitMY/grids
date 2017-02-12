@@ -5,10 +5,7 @@
         "logo": "https://www.ag-grid.com/images/logo.png",
         "description": "Advanced Data Grid / Data Table",
         "license": "MIT",
-        "repository": {
-            "link": "https://github.com/ceolter/ag-grid",
-            "stars": 2300
-        },
+        "repository": "ceolter/ag-grid",
         "website": {
             "link": "https://www.ag-grid.com/",
             "demo": "https://www.ag-grid.com/example.php"

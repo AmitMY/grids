@@ -1,5 +1,6 @@
 import fs from "fs";
 import {equals, isURL} from "./helper";
+import request from "sync-request";
 
 function getProp(grid, field = "") {
     let fields = field.split(".");
@@ -23,8 +24,22 @@ class Render {
         return "![" + title + "](" + str + ")";
     }
 
-    static stars(str) {
-        return str + " :star:";
+    static repository(repository) {
+        return Render.link("https://github.com/" + repository);
+    }
+
+    static stars(repository) {
+        try {
+            let res = request("GET", "https://api.github.com/repos/" + repository, {
+                "headers": {
+                    "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36."
+                }
+            });
+            let repo = JSON.parse(res.getBody('utf8'));
+            return repo.stargazers_count + " :star:";
+        } catch (ex) {
+            return "";
+        }
     }
 
     static framework(str) {
@@ -103,11 +118,11 @@ const rows = [
         field: "info.price"
     }, {
         title: "Repository",
-        field: "info.repository.link",
-        renderer: Render.link
+        field: "info.repository",
+        renderer: Render.repository
     }, {
         title: "Stars",
-        field: "info.repository.stars",
+        field: "info.repository",
         renderer: Render.stars
     }, {
         title: "Website",

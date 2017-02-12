@@ -5,10 +5,7 @@
         "logo": "https://datatables.net/media/images/nav-dt.png",
         "description": "Tables plug-in",
         "license": "MIT",
-        "repository": {
-            "link": "https://github.com/DataTables/DataTables",
-            "stars": 4300
-        },
+        "repository": "DataTables/DataTables",
         "website": {
             "link": "https://datatables.net/",
             "demo": "https://datatables.net/examples/index"

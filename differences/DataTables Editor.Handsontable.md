@@ -1,12 +1,12 @@
 |**/**|DataTables Editor|Handsontable|
 |-----|-----------------|------------|
 |**Logo**|![Logo](https://editor.datatables.net/media/images/nav-e.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
-|**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
+|**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
 |**Description**||Handsontable Community Edition - a Spreadsheet Library for Developers|
 |**License**|[License](https://editor.datatables.net/license/)|MIT|
 |**Price**|$119+|Free|
-|**Repository**||[Repository](https://github.com/handsontable/handsontable)|
-|**Stars**||7500 :star:|
+|**Repository**|[Link](https://github.com/null)|[Link](https://github.com/handsontable/handsontable)|
+|**Stars**||7512 :star:|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|
 |**-**|||

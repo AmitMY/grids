@@ -5,10 +5,7 @@
         "logo": "https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png",
         "description": "Handsontable Community Edition - a Spreadsheet Library for Developers",
         "license": "MIT",
-        "repository": {
-            "link": "https://github.com/handsontable/handsontable",
-            "stars": 7500
-        },
+        "repository": "handsontable/handsontable",
         "website": {
             "link": "https://handsontable.com/",
             "demo": "https://handsontable.com/examples.html"

@@ -1,7 +1,7 @@
 |**/**|DataTables Editor|Handsontable Pro|
 |-----|-----------------|----------------|
 |**Logo**|![Logo](https://editor.datatables.net/media/images/nav-e.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
-|**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png), ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
+|**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
 |**License**|[License](https://editor.datatables.net/license/)|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|
 |**Price**|$119+|$149+|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](https://handsontable.com/)|

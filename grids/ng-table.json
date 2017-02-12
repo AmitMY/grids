@@ -5,10 +5,7 @@
         "logo": null,
         "description": "Simple table with sorting and filtering",
         "license": "BSD-3-Clause",
-        "repository": {
-            "link": "https://github.com/esvit/ng-table",
-            "stars": 2600
-        },
+        "repository": "esvit/ng-table",
         "website": {
             "link": "http://ng-table.com/",
             "demo": "http://ng-table.com/"

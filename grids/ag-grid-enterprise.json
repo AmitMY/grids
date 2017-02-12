@@ -5,10 +5,7 @@
         "logo": "https://www.ag-grid.com/images/logo.png",
         "description": "",
         "license": "https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md",
-        "repository": {
-            "link": "https://github.com/ceolter/ag-grid-enterprise",
-            "stars": 50
-        },
+        "repository": "ceolter/ag-grid-enterprise",
         "website": {
             "link": "https://www.ag-grid.com/",
             "demo": "https://www.ag-grid.com/example.php"

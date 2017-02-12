@@ -4,8 +4,8 @@
 |**Description**|Tables plug-in||
 |**License**|MIT|[License](https://editor.datatables.net/license/)|
 |**Price**|Free|$119+|
-|**Repository**|[Repository](https://github.com/DataTables/DataTables)||
-|**Stars**|4300 :star:||
+|**Repository**|[Link](https://github.com/DataTables/DataTables)|[Link](https://github.com/null)|
+|**Stars**|4332 :star:||
 |**Website**|[Website](https://datatables.net/)|[Website](https://editor.datatables.net/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](https://editor.datatables.net/examples/index)|
 |**-**|||
