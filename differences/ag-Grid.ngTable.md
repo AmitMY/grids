@@ -5,7 +5,7 @@
 |**Description**|Advanced Data Grid / Data Table|Simple table with sorting and filtering|
 |**License**|MIT|BSD-3-Clause|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|2,394 :star:|2,643 :star:|
+|**Stars**|2,395 :star:|2,643 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://ng-table.com/)|
@@ -20,7 +20,7 @@
 |**Floating Rows**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-floating/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Context Menu**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-context-menu/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Rows Selection**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-selection/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Virtual DOM**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Virtualization**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Columns**|||
 |**Filters**|Text, Number, Date, Custom|Text, Number, Set, Custom|

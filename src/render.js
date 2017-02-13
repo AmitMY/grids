@@ -188,8 +188,8 @@ const rows = [
         field: "features.rows.selection",
         renderer: Render.boolLinkNull
     }, {
-        title: "Virtual DOM",
-        field: "features.rows.virtualDOM",
+        title: "Virtualization",
+        field: "features.rows.virtualization",
         renderer: Render.boolLinkNull
     }, {
         title: "Dynamic Add Rows",

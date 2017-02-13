@@ -67,7 +67,7 @@
             "numbering": false,
             "reorder": false,
             "selection": "https://datatables.net/examples/api/select_row.html",
-            "virtualDOM": false
+            "virtualization": false
         },
         "cells": {
             "clipboard": false,

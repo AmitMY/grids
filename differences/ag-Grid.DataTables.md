@@ -4,7 +4,7 @@
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
 |**Description**|Advanced Data Grid / Data Table|Tables plug-in|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/DataTables/DataTables)|
-|**Stars**|2,394 :star:|4,337 :star:|
+|**Stars**|2,395 :star:|4,337 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Default, Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://datatables.net/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://datatables.net/examples/index)|
@@ -18,7 +18,7 @@
 |**Floating Rows**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-floating/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Context Menu**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-context-menu/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Full Width Rows**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-master-detail/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Virtual DOM**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Virtualization**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Dynamic Row Height**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-row-height/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Columns**|||

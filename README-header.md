@@ -6,13 +6,14 @@ A grid comparison standard
 ---
 
 ## Contribution
+##### Contributions are welcomed
 - If you want to add a grid, please create a pull request of a new file in `grids`. We have automated testing for you to know if everything was done correctly.
 - If you want to change information for a grid, you must also reference a legitimate source for it.
 - If we are missing a grid feature, please create an issue, and we will consider adding it.
 
 ---
 
-## Comparison between every 2 grids
+## Comparison between every two grids
 
 In the [differences](https://github.com/AmitMY/grids/tree/master/differences) folder, you can find a comparison between each 2 grids we have data on.
 

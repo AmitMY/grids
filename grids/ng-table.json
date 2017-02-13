@@ -63,7 +63,7 @@
             "numbering": false,
             "reorder": false,
             "selection": false,
-            "virtualDOM": false
+            "virtualization": false
         },
         "cells": {
             "clipboard": false,

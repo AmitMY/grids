@@ -6,13 +6,14 @@ A grid comparison standard
 ---
 
 ## Contribution
+##### Contributions are welcomed
 - If you want to add a grid, please create a pull request of a new file in `grids`. We have automated testing for you to know if everything was done correctly.
 - If you want to change information for a grid, you must also reference a legitimate source for it.
 - If we are missing a grid feature, please create an issue, and we will consider adding it.
 
 ---
 
-## Comparison between every 2 grids
+## Comparison between every two grids
 
 In the [differences](https://github.com/AmitMY/grids/tree/master/differences) folder, you can find a comparison between each 2 grids we have data on.
 
@@ -42,7 +43,7 @@ This comparison is alphabetical, to avoid owner's bias.
 |**License**|MIT|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|[License](https://editor.datatables.net/license/)|MIT|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|BSD-3-Clause|MIT|
 |**Price**|Free|£495+|Free|$119+|Free|$149+|Free|Free|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/DataTables/DataTables)||[Repository](https://github.com/handsontable/handsontable)||[Repository](https://github.com/esvit/ng-table)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|2,394 :star:|56 :star:|4,337 :star:||7,524 :star:||2,643 :star:|4,595 :star:|
+|**Stars**|2,395 :star:|56 :star:|4,337 :star:||7,525 :star:||2,643 :star:|4,595 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Fresh, Blue, Dark, Material, Bootstrap, Custom|Default, Custom|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Excel|Excel|Custom|Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://www.ag-grid.com/)|[Website](https://datatables.net/)|[Website](https://editor.datatables.net/)|[Website](https://handsontable.com/)|[Website](https://handsontable.com/)|[Website](http://ng-table.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://datatables.net/examples/index)|[Demo](https://editor.datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|[Demo](https://handsontable.com/examples.html)|[Demo](http://ng-table.com/)|[Demo](http://ui-grid.info/)|
@@ -62,7 +63,7 @@ This comparison is alphabetical, to avoid owner's bias.
 |**Full Width Rows**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-master-detail/)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-master-detail/)|![red](http://placehold.it/23/f03c15/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Rows Numbering**|![red](http://placehold.it/23/f03c15/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Rows Selection**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-selection/#gsc.tab=0)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-selection/#gsc.tab=0)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://datatables.net/examples/api/select_row.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://datatables.net/examples/api/select_row.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/210_selection)|
-|**Virtual DOM**|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/404_large_data_sets_and_performance)|
+|**Virtualization**|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/404_large_data_sets_and_performance)|
 |**Dynamic Row Height**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-row-height/)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-row-height/)|![red](http://placehold.it/23/f03c15/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-resizing.html)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-resizing.html)|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||||||||
 |**Columns**|||||||||

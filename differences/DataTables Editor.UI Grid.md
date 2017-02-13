@@ -17,7 +17,7 @@
 |**-**|||
 |**Rows**|||
 |**Rows Grouping**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/209_grouping)|
-|**Virtual DOM**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/404_large_data_sets_and_performance)|
+|**Virtualization**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/404_large_data_sets_and_performance)|
 |**-**|||
 |**Columns**|||
 |**Filters**|Text, Set, Custom|Text, Number, Set, Custom|

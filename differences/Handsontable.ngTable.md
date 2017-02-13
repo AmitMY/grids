@@ -5,7 +5,7 @@
 |**Description**|Handsontable Community Edition - a Spreadsheet Library for Developers|Simple table with sorting and filtering|
 |**License**|MIT|BSD-3-Clause|
 |**Repository**|[Repository](https://github.com/handsontable/handsontable)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|7,524 :star:|2,643 :star:|
+|**Stars**|7,525 :star:|2,643 :star:|
 |**Themes**|Excel|Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://ng-table.com/)|
@@ -19,7 +19,7 @@
 |**Full Width Rows**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**Rows Numbering**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Rows Selection**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Virtual DOM**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Virtualization**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Columns**|||
 |**Filtering**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ng-table.com/#/filtering/demo-filtering-basic)|

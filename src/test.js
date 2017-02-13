@@ -204,7 +204,7 @@ class GridFile {
             grouping: true,
             numbering: true,
             selection: true,
-            virtualDOM: true
+            virtualization: true
         };
 
         test(this.file + " Features rows should have all properties with the correct types", (assert) => {

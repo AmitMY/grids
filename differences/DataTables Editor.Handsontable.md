@@ -6,7 +6,7 @@
 |**License**|[License](https://editor.datatables.net/license/)|MIT|
 |**Price**|$119+|Free|
 |**Repository**||[Repository](https://github.com/handsontable/handsontable)|
-|**Stars**||7,524 :star:|
+|**Stars**||7,525 :star:|
 |**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Excel|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|
@@ -18,7 +18,7 @@
 |**Rows**|||
 |**Context Menu**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**Rows Numbering**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
-|**Virtual DOM**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
+|**Virtualization**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**Dynamic Row Height**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-resizing.html)|
 |**-**|||
 |**Columns**|||

@@ -67,7 +67,7 @@
             "numbering": true,
             "reorder": true,
             "selection": "https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html",
-            "virtualDOM": true
+            "virtualization": true
         },
         "cells": {
             "clipboard": true,

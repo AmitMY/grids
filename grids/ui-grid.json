@@ -69,7 +69,7 @@
             "numbering": false,
             "reorder": false,
             "selection": "http://ui-grid.info/docs/#/tutorial/210_selection",
-            "virtualDOM": "http://ui-grid.info/docs/#/tutorial/404_large_data_sets_and_performance"
+            "virtualization": "http://ui-grid.info/docs/#/tutorial/404_large_data_sets_and_performance"
         },
         "cells": {
             "clipboard": false,

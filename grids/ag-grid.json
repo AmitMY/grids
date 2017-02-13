@@ -79,7 +79,7 @@
             "numbering": false,
             "reorder": false,
             "selection": "https://www.ag-grid.com/javascript-grid-selection/#gsc.tab=0",
-            "virtualDOM": true
+            "virtualization": true
         },
         "cells": {
             "clipboard": false,

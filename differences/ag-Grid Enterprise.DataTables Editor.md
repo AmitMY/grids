@@ -22,7 +22,7 @@
 |**Floating Rows**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-floating/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Context Menu**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-context-menu/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Full Width Rows**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-master-detail/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Virtual DOM**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Virtualization**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Dynamic Row Height**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-row-height/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Columns**|||

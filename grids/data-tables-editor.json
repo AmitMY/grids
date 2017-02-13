@@ -70,7 +70,7 @@
             "numbering": false,
             "reorder": "https://editor.datatables.net/examples/extensions/rowReorder.html",
             "selection": "https://datatables.net/examples/api/select_row.html",
-            "virtualDOM": false
+            "virtualization": false
         },
         "cells": {
             "clipboard": false,
