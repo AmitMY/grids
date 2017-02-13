@@ -3,3 +3,6 @@
 - https://vmware.github.io/clarity/documentation/datagrid
 - http://fancygrid.com/
 - https://cxjs.io/
+- http://facebook.github.io/fixed-data-table/
+- http://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm
+- https://bvaughn.github.io/react-virtualized/#/components/Grid

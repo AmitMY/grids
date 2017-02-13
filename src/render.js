@@ -377,6 +377,8 @@ function createTables(grids) {
             grid.info.repository = getRepository(grid.info.repository);
     });
 
+    fs.writeFile("public/data.json", JSON.stringify(grids));
+
     writeMainTable(createTable(grids));
 
     for (let i = 0; i < grids.length; i++)

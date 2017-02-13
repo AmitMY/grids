@@ -42,7 +42,7 @@ This comparison is alphabetical, to avoid owner's bias.
 |**License**|MIT|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|[License](https://editor.datatables.net/license/)|MIT|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|BSD-3-Clause|MIT|
 |**Price**|Free|£495+|Free|$119+|Free|$149+|Free|Free|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/DataTables/DataTables)||[Repository](https://github.com/handsontable/handsontable)||[Repository](https://github.com/esvit/ng-table)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|2391 :star:|56 :star:|4332 :star:||7512 :star:||2643 :star:|4593 :star:|
+|**Stars**|2,394 :star:|56 :star:|4,337 :star:||7,524 :star:||2,643 :star:|4,595 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Fresh, Blue, Dark, Material, Bootstrap, Custom|Default, Custom|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Excel|Excel|Custom|Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://www.ag-grid.com/)|[Website](https://datatables.net/)|[Website](https://editor.datatables.net/)|[Website](https://handsontable.com/)|[Website](https://handsontable.com/)|[Website](http://ng-table.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://datatables.net/examples/index)|[Demo](https://editor.datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|[Demo](https://handsontable.com/examples.html)|[Demo](http://ng-table.com/)|[Demo](http://ui-grid.info/)|

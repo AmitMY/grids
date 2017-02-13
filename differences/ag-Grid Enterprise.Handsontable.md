@@ -6,7 +6,7 @@
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|
 |**Price**|£495+|Free|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/handsontable/handsontable)|
-|**Stars**|56 :star:|7512 :star:|
+|**Stars**|56 :star:|7,524 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Excel|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://handsontable.com/examples.html)|
