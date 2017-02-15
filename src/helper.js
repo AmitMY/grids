@@ -1,9 +1,14 @@
-import {ArrayPrototypes} from "js-prototypes";
+import {ArrayPrototypes, ObjectPrototypes} from "js-prototypes";
 ArrayPrototypes.equals();
+ObjectPrototypes.equals();
 
 function equals(a, b) {
     if(Array.isArray(a))
         return a.equals(b);
+
+    if(typeof a === "object" && a != null)
+        return Object.equals(a, b);
+
     return a == b;
 }
 

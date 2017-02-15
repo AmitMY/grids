@@ -1,5 +1,8 @@
 {
-    "lastEditor": "User",
+    "lastEditor": {
+        "user": "AmitMY",
+        "rank": "User"
+    },
     "info": {
         "name": "ngTable",
         "logo": null,
@@ -14,7 +17,9 @@
         "frameworks": [
             "Angular1"
         ],
-        "layoutThemes": ["Custom"],
+        "layoutThemes": [
+            "Custom"
+        ],
         "techSupport": false
     },
     "features": {

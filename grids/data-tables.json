@@ -1,5 +1,8 @@
 {
-    "lastEditor": "User",
+    "lastEditor": {
+        "user": "AmitMY",
+        "rank": "User"
+    },
     "info": {
         "name": "DataTables",
         "logo": "https://datatables.net/media/images/nav-dt.png",

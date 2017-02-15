@@ -1,5 +1,8 @@
 {
-    "lastEditor": "User",
+    "lastEditor": {
+        "user": "AmitMY",
+        "rank": "User"
+    },
     "info": {
         "name": "ag-Grid Enterprise",
         "logo": "https://www.ag-grid.com/images/logo.png",

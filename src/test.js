@@ -21,6 +21,7 @@ const allowedFilters = ["Text", "Number", "Date", "Set", "Custom"];
 const allowedAggregation = ["Sum", "Average", "Min", "Max", "First", "Last", "Custom"];
 const allowedKeyboardKeys = ["Arrows", "Enter", "Tab", "Page", "Home", "End", "UNDO/REDO"];
 const allowedCharts = ["Line", "Pie"];
+const allowedEditors = ["User", "Owner"];
 
 class GridFile {
     constructor(file, data) {
@@ -30,7 +31,10 @@ class GridFile {
 
     test() {
         test(this.file + " is global information valid", (assert) => {
-            assert.equal(typeof this.data.lastEditor, "string", "Grid's last editor must be a string");
+            assert.equal(typeof this.data.lastEditor.user, "string", "Grid's lastEditor.user must be a string");
+            assert.equal(typeof this.data.lastEditor.rank, "string", "Grid's lastEditor.rank must be a string");
+            assert.notEqual(allowedEditors.indexOf(this.data.lastEditor.rank), -1, "lastEditor.rank must be a familiar editor type");
+
             assert.end();
         });
         this.testInfo();

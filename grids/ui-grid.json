@@ -1,5 +1,8 @@
 {
-    "lastEditor": "User",
+    "lastEditor": {
+        "user": "AmitMY",
+        "rank": "User"
+    },
     "info": {
         "name": "UI Grid",
         "logo": null,
@@ -14,14 +17,19 @@
         "frameworks": [
             "Angular1"
         ],
-        "layoutThemes": ["Custom"],
+        "layoutThemes": [
+            "Custom"
+        ],
         "techSupport": false
     },
     "features": {
         "animations": false,
         "customIcons": false,
         "customOverlays": null,
-        "export": ["CSV", "PDF"],
+        "export": [
+            "CSV",
+            "PDF"
+        ],
         "globalSearch": false,
         "internationalisation": true,
         "masterSlave": false,

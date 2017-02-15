@@ -65,6 +65,11 @@ class Render {
         };
     }
 
+    static owner(lastEditor) {
+        return Render.link("https://github.com/" + lastEditor.user, lastEditor.user) + " (" + lastEditor.rank + ")";
+
+    }
+
     static color(color) {
         let c;
         switch (color) {
@@ -106,6 +111,10 @@ const rows = [
         title: "Logo",
         field: "info.logo",
         renderer: Render.image
+    },{
+        title: "Last Editor",
+        field: "lastEditor",
+        renderer: Render.owner
     }, {
         title: "Frameworks",
         field: "info.frameworks",
