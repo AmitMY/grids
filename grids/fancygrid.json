@@ -1,0 +1,99 @@
+{
+    "lastEditor": {
+        "user": "Nick Thomson",
+        "rank": "FancyGrid CEO"
+    },
+    "info": {
+        "name": "FancyGrid",
+        "logo": "https://www.fancygrid.com/images/big-logo.png",
+        "description": "JavaScript Grid Library",
+        "license": "https://fancygrid.com/buy/",
+        "repository": "https://github.com/FancyGrid/FancyGrid",
+        "website": {
+            "link": "https://www.fancygrid.com/",
+            "demo": "https://www.fancygrid.com/gallery/"
+        },
+        "price": "Free/$199+",
+        "frameworks": [
+            "Javascript",
+            "Angular1",
+            "Angular2",
+            "Web Components"
+        ],
+        "layoutThemes": [
+            "Blue",
+            "Bootstrap",
+            "Dark",
+            "Default",
+            "Gray",
+            "Sand"
+        ],
+        "techSupport": true
+    },
+    "features": {
+        "animations": "",
+        "customIcons": "",
+        "customOverlays": "",
+        "export": [
+            
+        ],
+        "globalSearch": "http://fancygrid.com/dashboards/staff/",
+        "internationalisation": "http://fancygrid.com/samples/local/i18n",
+        "masterSlave": "",
+        "pagination": "http://fancygrid.com/samples/paging/basic",
+        "pivoting": "",
+        "print": "",
+        "RTLSupport": "",
+        "statusBar": "http://fancygrid.com/dashboards/iots/",
+        "touchSupport": true,
+        "virtualPagination": "",
+        "visualisation": "http://fancygrid.com/samples/gridmap/statesdata",
+        "columns": {
+            "aggregation": [
+               
+            ],
+            "collapsible": true,
+            "menu": "http://fancygrid.com/samples/columns/column-menu",
+            "filterTypes": [
+                "CheckBox/Boolean",                
+                "Combo",
+                "Date",
+                "Number",                
+                "String"
+            ],
+            "filtering": "http://fancygrid.com/dashboards/employee/",
+            "grouping": "http://fancygrid.com/samples/columns/grouped-header",
+            "headerRendering": null,
+            "pinning": "https://www.ag-grid.com/javascript-grid-pinning/",
+            "reorder": false,
+            "resizing": "http://fancygrid.com/dashboards/staff/",
+            "selection": "http://fancygrid.com/samples/selection/selection",
+            "sorting": "http://fancygrid.com/samples/sorting/basic"
+        },
+        "rows": {
+            "contextMenu": false,
+            "dynamicHeight": false,
+            "dynamicInsert": true,
+            "dynamicRemove": true,
+            "floating": false,
+            "fullWidth": false,
+            "grouping": "http://fancygrid.com/dashboards/dealer/",
+            "numbering": "http://fancygrid.com/samples/columns/order-column",
+            "reorder": false,
+            "selection": "http://fancygrid.com/samples/selection/selection"
+        },
+        "cells": {
+            "clipboard": false,
+            "customRendering": true,
+            "editing": true,
+            "formula": true,
+            "keyboardNavigation": [
+                
+            ],
+            "merge": false,
+            "validation": true,
+            "rangeSelection": true,
+            "styling": true
+        }
+    }
+}
