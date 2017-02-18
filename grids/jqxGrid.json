@@ -1,5 +1,8 @@
 {
-    "lastEditor": "User",
+    "lastEditor": {
+        "user": "vvidolov",
+        "rank": "JQWidgets Sales"
+    },
     "info": {
         "name": "jqxGrid",
         "logo": "http://www.jqwidgets.com/wp-content/design/i/logo-jqwidgets.svg",
@@ -15,14 +18,7 @@
             "JQuery",
             "Angular1",
             "Angular2",
-            "React",
-            "ASP .NET MVC",
-            "ASP .NET",
-            "PHP",
-            "JAVA",
-            "TypeScript",
-            "RequireJS",
-            "Bootstrap"
+            "React"
         ],
         "layoutThemes": [
             "More than 20, including theme builder"
@@ -38,7 +34,7 @@
             "XLS",
             "PDF",
             "TSV",
-            "JSON",
+            "JSON"
         ],
         "globalSearch": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm",
         "internationalisation": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm",
