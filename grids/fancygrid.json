@@ -1,14 +1,14 @@
 {
     "lastEditor": {
-        "user": "Nick Thomson",
+        "user": "NickThomson1977",
         "rank": "FancyGrid CEO"
     },
     "info": {
         "name": "FancyGrid",
         "logo": "https://www.fancygrid.com/images/big-logo.png",
         "description": "JavaScript Grid Library",
-        "license": "https://fancygrid.com/buy/",
-        "repository": "https://github.com/FancyGrid/FancyGrid",
+        "license": "http://fancygrid.com/buy/",
+        "repository": "FancyGrid/FancyGrid",
         "website": {
             "link": "https://www.fancygrid.com/",
             "demo": "https://www.fancygrid.com/gallery/"
@@ -34,9 +34,7 @@
         "animations": true,
         "customIcons": true,
         "customOverlays": false,
-        "export": [
-            
-        ],
+        "export": null,
         "globalSearch": "http://fancygrid.com/dashboards/staff/",
         "internationalisation": "http://fancygrid.com/samples/local/i18n",
         "masterSlave": false,
@@ -49,17 +47,15 @@
         "virtualPagination": false,
         "visualisation": "http://fancygrid.com/samples/gridmap/statesdata",
         "columns": {
-            "aggregation": [
-               
-            ],
+            "aggregation": null,
             "collapsible": true,
             "menu": "http://fancygrid.com/samples/columns/column-menu",
             "filterTypes": [
-                "CheckBox/Boolean",                
-                "Combo",
+                "Text",
+                "Number",
                 "Date",
-                "Number",                
-                "String"
+                "CheckBox/Boolean",                
+                "Combo"
             ],
             "filtering": "http://fancygrid.com/dashboards/employee/",
             "grouping": "http://fancygrid.com/samples/columns/grouped-header",
@@ -87,9 +83,7 @@
             "customRendering": true,
             "editing": true,
             "formula": true,
-            "keyboardNavigation": [
-                
-            ],
+            "keyboardNavigation": null,
             "merge": false,
             "validation": true,
             "rangeSelection": true,
