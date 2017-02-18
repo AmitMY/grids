@@ -20,8 +20,7 @@ const allowedFormats = ["CSV", "XLS", "XLSX", "PDF", "TSV", "JSON", "XML"];
 const allowedFilters = ["Text", "Number", "Date", "Set", "Custom"];
 const allowedAggregation = ["Sum", "Average", "Min", "Max", "First", "Last", "Custom"];
 const allowedKeyboardKeys = ["Arrows", "Enter", "Tab", "Page", "Home", "End", "UNDO/REDO"];
-const allowedCharts = ["Line", "Pie"];
-const allowedEditors = ["User", "Owner"];
+const allowedVisualisations = ["Line", "Pie", "Radar", "Map"];
 
 class GridFile {
     constructor(file, data) {
@@ -33,7 +32,6 @@ class GridFile {
         test(this.file + " is global information valid", (assert) => {
             assert.equal(typeof this.data.lastEditor.user, "string", "Grid's lastEditor.user must be a string");
             assert.equal(typeof this.data.lastEditor.rank, "string", "Grid's lastEditor.rank must be a string");
-            assert.notEqual(allowedEditors.indexOf(this.data.lastEditor.rank), -1, "lastEditor.rank must be a familiar editor type");
 
             assert.end();
         });
@@ -143,7 +141,7 @@ class GridFile {
             if (features.visualisation !== null) {
                 assert.equal(Array.isArray(features.visualisation), true, "Grid's features visualisation must be an array or null");
                 features.visualisation.forEach(chart => {
-                    assert.notEqual(allowedCharts.indexOf(chart), -1, chart + " must be a familiar chart type");
+                    assert.notEqual(allowedVisualisations.indexOf(chart), -1, chart + " must be a familiar chart type");
                 });
             }
 
