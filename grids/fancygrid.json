@@ -45,7 +45,11 @@
         "statusBar": "http://fancygrid.com/dashboards/iots/",
         "touchSupport": true,
         "virtualPagination": false,
-        "visualisation": "http://fancygrid.com/samples/gridmap/statesdata",
+        "visualisation": [
+            "H-Bar",
+            "Map",
+            "Progress"
+        ],
         "columns": {
             "aggregation": null,
             "collapsible": true,
@@ -54,13 +58,12 @@
                 "Text",
                 "Number",
                 "Date",
-                "CheckBox/Boolean",                
-                "Combo"
+                "Set"
             ],
             "filtering": "http://fancygrid.com/dashboards/employee/",
             "grouping": "http://fancygrid.com/samples/columns/grouped-header",
             "headerRendering": false,
-            "pinning": "https://www.ag-grid.com/javascript-grid-pinning/",
+            "pinning": false,
             "reorder": false,
             "resizing": "http://fancygrid.com/dashboards/staff/",
             "selection": "http://fancygrid.com/samples/selection/selection",
