@@ -6,7 +6,7 @@
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|BSD-3-Clause|
 |**Price**|£495+|Free|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|56 :star:|2,643 :star:|
+|**Stars**|56 :star:|2,647 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://ng-table.com/)|

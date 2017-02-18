@@ -22,11 +22,11 @@
         ],
         "layoutThemes": [
             "Blue",
-            "Bootstrap",
             "Dark",
-            "Default",
+            "Bootstrap",
             "Gray",
-            "Sand"
+            "Sand",
+            "Default"
         ],
         "techSupport": true
     },
