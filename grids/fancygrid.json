@@ -79,7 +79,8 @@
             "grouping": "http://fancygrid.com/dashboards/dealer/",
             "numbering": "http://fancygrid.com/samples/columns/order-column",
             "reorder": false,
-            "selection": "http://fancygrid.com/samples/selection/selection"
+            "selection": "http://fancygrid.com/samples/selection/selection",
+            "virtualization": false
         },
         "cells": {
             "clipboard": false,
