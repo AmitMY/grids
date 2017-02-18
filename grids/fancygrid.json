@@ -1,0 +1,97 @@
+{
+    "lastEditor": {
+        "user": "NickThomson1977",
+        "rank": "FancyGrid CEO"
+    },
+    "info": {
+        "name": "FancyGrid",
+        "logo": "https://www.fancygrid.com/images/big-logo.png",
+        "description": "JavaScript Grid Library",
+        "license": "http://fancygrid.com/buy/",
+        "repository": "FancyGrid/FancyGrid",
+        "website": {
+            "link": "https://www.fancygrid.com/",
+            "demo": "https://www.fancygrid.com/gallery/"
+        },
+        "price": "Free/$199+",
+        "frameworks": [
+            "Javascript",
+            "Angular1",
+            "Angular2",
+            "Web Components"
+        ],
+        "layoutThemes": [
+            "Blue",
+            "Bootstrap",
+            "Dark",
+            "Default",
+            "Gray",
+            "Sand"
+        ],
+        "techSupport": true
+    },
+    "features": {
+        "animations": true,
+        "customIcons": true,
+        "customOverlays": false,
+        "export": null,
+        "globalSearch": "http://fancygrid.com/dashboards/staff/",
+        "internationalisation": "http://fancygrid.com/samples/local/i18n",
+        "masterSlave": false,
+        "pagination": "http://fancygrid.com/samples/paging/basic",
+        "pivoting": false,
+        "print": false,
+        "RTLSupport": false,
+        "statusBar": "http://fancygrid.com/dashboards/iots/",
+        "touchSupport": true,
+        "virtualPagination": false,
+        "visualisation": [
+            "H-Bar",
+            "Map",
+            "Progress"
+        ],
+        "columns": {
+            "aggregation": null,
+            "collapsible": true,
+            "menu": "http://fancygrid.com/samples/columns/column-menu",
+            "filterTypes": [
+                "Text",
+                "Number",
+                "Date",
+                "Set"
+            ],
+            "filtering": "http://fancygrid.com/dashboards/employee/",
+            "grouping": "http://fancygrid.com/samples/columns/grouped-header",
+            "headerRendering": false,
+            "pinning": false,
+            "reorder": false,
+            "resizing": "http://fancygrid.com/dashboards/staff/",
+            "selection": "http://fancygrid.com/samples/selection/selection",
+            "sorting": "http://fancygrid.com/samples/sorting/basic"
+        },
+        "rows": {
+            "contextMenu": false,
+            "dynamicHeight": false,
+            "dynamicInsert": true,
+            "dynamicRemove": true,
+            "floating": false,
+            "fullWidth": false,
+            "grouping": "http://fancygrid.com/dashboards/dealer/",
+            "numbering": "http://fancygrid.com/samples/columns/order-column",
+            "reorder": false,
+            "selection": "http://fancygrid.com/samples/selection/selection",
+            "virtualization": false
+        },
+        "cells": {
+            "clipboard": false,
+            "customRendering": true,
+            "editing": true,
+            "formula": true,
+            "keyboardNavigation": null,
+            "merge": false,
+            "validation": true,
+            "rangeSelection": true,
+            "styling": true
+        }
+    }
+}
