@@ -31,22 +31,22 @@
         "techSupport": true
     },
     "features": {
-        "animations": "",
-        "customIcons": "",
-        "customOverlays": "",
+        "animations": true,
+        "customIcons": true,
+        "customOverlays": false,
         "export": [
             
         ],
         "globalSearch": "http://fancygrid.com/dashboards/staff/",
         "internationalisation": "http://fancygrid.com/samples/local/i18n",
-        "masterSlave": "",
+        "masterSlave": false,
         "pagination": "http://fancygrid.com/samples/paging/basic",
-        "pivoting": "",
-        "print": "",
-        "RTLSupport": "",
+        "pivoting": false,
+        "print": false,
+        "RTLSupport": false,
         "statusBar": "http://fancygrid.com/dashboards/iots/",
         "touchSupport": true,
-        "virtualPagination": "",
+        "virtualPagination": false,
         "visualisation": "http://fancygrid.com/samples/gridmap/statesdata",
         "columns": {
             "aggregation": [
@@ -63,7 +63,7 @@
             ],
             "filtering": "http://fancygrid.com/dashboards/employee/",
             "grouping": "http://fancygrid.com/samples/columns/grouped-header",
-            "headerRendering": null,
+            "headerRendering": false,
             "pinning": "https://www.ag-grid.com/javascript-grid-pinning/",
             "reorder": false,
             "resizing": "http://fancygrid.com/dashboards/staff/",
