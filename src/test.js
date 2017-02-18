@@ -20,7 +20,7 @@ const allowedFormats = ["CSV", "XLS", "XLSX", "PDF", "TSV", "JSON", "XML"];
 const allowedFilters = ["Text", "Number", "Date", "Set", "Custom"];
 const allowedAggregation = ["Sum", "Average", "Min", "Max", "First", "Last", "Custom"];
 const allowedKeyboardKeys = ["Arrows", "Enter", "Tab", "Page", "Home", "End", "UNDO/REDO"];
-const allowedVisualisations = ["Line", "Bar", "H-Bar", "Pie", "Radar", "Map", "Custom"];
+const allowedVisualisations = ["Line", "Bar", "H-Bar", "Map", "Progress", "Pie", "Radar", "Custom"];
 
 class GridFile {
     constructor(file, data) {
