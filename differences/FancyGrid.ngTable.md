@@ -1,6 +1,6 @@
 |**/**|FancyGrid|ngTable|
 |-----|---------|-------|
-|**Logo**|![Logo](https://www.fancygrid.com/images/big-logo.png)||
+|**Logo**|![Logo](http://www.fancygrid.com/img/logo.png)||
 |**Last Editor**|[NickThomson1977](https://github.com/NickThomson1977) (FancyGrid CEO)|[AmitMY](https://github.com/AmitMY) (User)|
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|JavaScript Grid Library|Simple table with sorting and filtering|
@@ -8,9 +8,9 @@
 |**Price**|Free/$199+|Free|
 |**Repository**|[Repository](https://github.com/FancyGrid/FancyGrid)|[Repository](https://github.com/esvit/ng-table)|
 |**Stars**|5 :star:|2,647 :star:|
-|**Themes**|Blue, Bootstrap, Dark, Default, Gray, Sand|Custom|
-|**Website**|[Website](https://www.fancygrid.com/)|[Website](http://ng-table.com/)|
-|**Demo**|[Demo](https://www.fancygrid.com/gallery/)|[Demo](http://ng-table.com/)|
+|**Themes**|Blue, Dark, Bootstrap, Gray, Sand, Default|Custom|
+|**Website**|[Website](http://www.fancygrid.com/)|[Website](http://ng-table.com/)|
+|**Demo**|[Demo](http://www.fancygrid.com/gallery/)|[Demo](http://ng-table.com/)|
 |**Tech Support**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**General**|||

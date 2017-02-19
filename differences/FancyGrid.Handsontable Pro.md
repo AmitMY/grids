@@ -1,6 +1,6 @@
 |**/**|FancyGrid|Handsontable Pro|
 |-----|---------|----------------|
-|**Logo**|![Logo](https://www.fancygrid.com/images/big-logo.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
+|**Logo**|![Logo](http://www.fancygrid.com/img/logo.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
 |**Last Editor**|[NickThomson1977](https://github.com/NickThomson1977) (FancyGrid CEO)|[AmitMY](https://github.com/AmitMY) (User)|
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
 |**Description**|JavaScript Grid Library||
@@ -8,9 +8,9 @@
 |**Price**|Free/$199+|$149+|
 |**Repository**|[Repository](https://github.com/FancyGrid/FancyGrid)||
 |**Stars**|5 :star:||
-|**Themes**|Blue, Bootstrap, Dark, Default, Gray, Sand|Excel|
-|**Website**|[Website](https://www.fancygrid.com/)|[Website](https://handsontable.com/)|
-|**Demo**|[Demo](https://www.fancygrid.com/gallery/)|[Demo](https://handsontable.com/examples.html)|
+|**Themes**|Blue, Dark, Bootstrap, Gray, Sand, Default|Excel|
+|**Website**|[Website](http://www.fancygrid.com/)|[Website](https://handsontable.com/)|
+|**Demo**|[Demo](http://www.fancygrid.com/gallery/)|[Demo](https://handsontable.com/examples.html)|
 |**-**|||
 |**General**|||
 |**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|CSV|

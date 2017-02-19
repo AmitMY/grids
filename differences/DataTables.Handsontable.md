@@ -4,7 +4,7 @@
 |**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
 |**Description**|Tables plug-in|Handsontable Community Edition - a Spreadsheet Library for Developers|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/handsontable/handsontable)|
-|**Stars**|4,348 :star:|7,568 :star:|
+|**Stars**|4,349 :star:|7,570 :star:|
 |**Themes**|Default, Custom|Excel|
 |**Website**|[Website](https://datatables.net/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|

@@ -1,16 +1,16 @@
 |**/**|DataTables|FancyGrid|
 |-----|----------|---------|
-|**Logo**|![Logo](https://datatables.net/media/images/nav-dt.png)|![Logo](https://www.fancygrid.com/images/big-logo.png)|
+|**Logo**|![Logo](https://datatables.net/media/images/nav-dt.png)|![Logo](http://www.fancygrid.com/img/logo.png)|
 |**Last Editor**|[AmitMY](https://github.com/AmitMY) (User)|[NickThomson1977](https://github.com/NickThomson1977) (FancyGrid CEO)|
 |**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|
 |**Description**|Tables plug-in|JavaScript Grid Library|
 |**License**|MIT|[License](http://fancygrid.com/buy/)|
 |**Price**|Free|Free/$199+|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/FancyGrid/FancyGrid)|
-|**Stars**|4,348 :star:|5 :star:|
-|**Themes**|Default, Custom|Blue, Bootstrap, Dark, Default, Gray, Sand|
-|**Website**|[Website](https://datatables.net/)|[Website](https://www.fancygrid.com/)|
-|**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](https://www.fancygrid.com/gallery/)|
+|**Stars**|4,349 :star:|5 :star:|
+|**Themes**|Default, Custom|Blue, Dark, Bootstrap, Gray, Sand, Default|
+|**Website**|[Website](https://datatables.net/)|[Website](http://www.fancygrid.com/)|
+|**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](http://www.fancygrid.com/gallery/)|
 |**Tech Support**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**-**|||
 |**General**|||

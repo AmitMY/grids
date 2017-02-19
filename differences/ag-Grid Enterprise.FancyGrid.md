@@ -1,6 +1,6 @@
 |**/**|ag-Grid Enterprise|FancyGrid|
 |-----|------------------|---------|
-|**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://www.fancygrid.com/images/big-logo.png)|
+|**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](http://www.fancygrid.com/img/logo.png)|
 |**Last Editor**|[AmitMY](https://github.com/AmitMY) (User)|[NickThomson1977](https://github.com/NickThomson1977) (FancyGrid CEO)|
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|
 |**Description**||JavaScript Grid Library|
@@ -8,9 +8,9 @@
 |**Price**|£495+|Free/$199+|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/FancyGrid/FancyGrid)|
 |**Stars**|56 :star:|5 :star:|
-|**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Blue, Bootstrap, Dark, Default, Gray, Sand|
-|**Website**|[Website](https://www.ag-grid.com/)|[Website](https://www.fancygrid.com/)|
-|**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://www.fancygrid.com/gallery/)|
+|**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Blue, Dark, Bootstrap, Gray, Sand, Default|
+|**Website**|[Website](https://www.ag-grid.com/)|[Website](http://www.fancygrid.com/)|
+|**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://www.fancygrid.com/gallery/)|
 |**-**|||
 |**General**|||
 |**Pivot Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-pivoting/)|![red](http://placehold.it/23/f03c15/000000?text=+)|

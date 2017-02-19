@@ -5,7 +5,7 @@
 |**Description**|Tables plug-in|Simple table with sorting and filtering|
 |**License**|MIT|BSD-3-Clause|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|4,348 :star:|2,647 :star:|
+|**Stars**|4,349 :star:|2,647 :star:|
 |**Themes**|Default, Custom|Custom|
 |**Website**|[Website](https://datatables.net/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](http://ng-table.com/)|

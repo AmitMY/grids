@@ -6,7 +6,7 @@
 |**License**|[License](https://editor.datatables.net/license/)|MIT|
 |**Price**|$119+|Free|
 |**Repository**||[Repository](https://github.com/handsontable/handsontable)|
-|**Stars**||7,568 :star:|
+|**Stars**||7,570 :star:|
 |**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Excel|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|
