@@ -4,7 +4,6 @@
 |http://js-grid.com/|Reddit|In process...|14/02/2017|
 |https://github.com/6pac/SlickGrid|Reddit|Soon|15/02/2017|
 |https://vmware.github.io/clarity/documentation/datagrid|Reddit|x|--/--/----|
-|http://fancygrid.com/|Twitter|x|--/--/----|
 |https://cxjs.io/|Reddit|x|--/--/----|
 |http://facebook.github.io/fixed-data-table/|2xReddit|x|--/--/----|
 |http://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm|Reddit|Pull Request|15/02/2017|

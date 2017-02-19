@@ -5,13 +5,13 @@
     },
     "info": {
         "name": "FancyGrid",
-        "logo": "https://www.fancygrid.com/images/big-logo.png",
+        "logo": "http://www.fancygrid.com/img/logo.png",
         "description": "JavaScript Grid Library",
         "license": "http://fancygrid.com/buy/",
         "repository": "FancyGrid/FancyGrid",
         "website": {
-            "link": "https://www.fancygrid.com/",
-            "demo": "https://www.fancygrid.com/gallery/"
+            "link": "http://www.fancygrid.com/",
+            "demo": "http://www.fancygrid.com/gallery/"
         },
         "price": "Free/$199+",
         "frameworks": [
