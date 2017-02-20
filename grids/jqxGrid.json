@@ -15,7 +15,7 @@
         },
         "price": " https://www.jqwidgets.com/license/",
         "frameworks": [
-            "JQuery",
+            "jQuery",
             "Angular1",
             "Angular2",
             "React"
