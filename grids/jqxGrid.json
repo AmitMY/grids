@@ -64,37 +64,37 @@
             "reorder": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/reordercolumns.htm",
             "resizing": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/columnsresizing.htm",
             "selection": true,
-            "sorting": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/sorting.htm",
-            "rows": {
-                "contextMenu": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/contextmenu.htm",
-                "dynamicHeight": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/autorowheight.htm",
-                "dynamicInsert": false,
-                "dynamicRemove": false,
-                "floating": false,
-                "fullWidth": false,
-                "grouping": true,
-                "numbering": true,
-                "reorder": true,
-                "selection": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/rowselection.htm",
-                "virtualization": true
-            },
-            "cells": {
-                "clipboard": true,
-                "customRendering": false,
-                "editing": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/cellediting.htm",
-                "formula": false,
-                "keyboardNavigation": [
-                    "Arrows",
-                    "Enter",
-                    "Tab",
-                    "Page",
-                    "Home"
-                ],
-                "merge": false,
-                "validation": true,
-                "rangeSelection": true,
-                "styling": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/gridcellclass.htm"
-            }
+            "sorting": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/sorting.htm"
+        },
+        "rows": {
+            "contextMenu": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/contextmenu.htm",
+            "dynamicHeight": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/autorowheight.htm",
+            "dynamicInsert": false,
+            "dynamicRemove": false,
+            "floating": false,
+            "fullWidth": false,
+            "grouping": true,
+            "numbering": true,
+            "reorder": true,
+            "selection": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/rowselection.htm",
+            "virtualization": true
+        },
+        "cells": {
+            "clipboard": true,
+            "customRendering": false,
+            "editing": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/cellediting.htm",
+            "formula": false,
+            "keyboardNavigation": [
+                "Arrows",
+                "Enter",
+                "Tab",
+                "Page",
+                "Home"
+            ],
+            "merge": false,
+            "validation": true,
+            "rangeSelection": true,
+            "styling": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/gridcellclass.htm"
         }
     }
 }
