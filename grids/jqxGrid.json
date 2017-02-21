@@ -48,7 +48,7 @@
         "virtualPagination": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/deferredscrollinglargedata.htm",
         "visualisation": ["Line", "Bar", "H-Bar", "Waterfall", "OHLC", "Candlestick", "Pie", "Donut", "Polar", "Spider", "Bubble", "Scatter", "Funnel"],
         "columns": {
-            "aggregation": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/aggregates.htm",
+            "aggregation": ["Sum", "Average", "Min", "Max", "First", "Last", "Custom"],
             "collapsible": true,
             "menu": true,
             "filterTypes": [
