@@ -5,7 +5,7 @@
 |**Description**|Handsontable Community Edition - a Spreadsheet Library for Developers|Simple table with sorting and filtering|
 |**License**|MIT|BSD-3-Clause|
 |**Repository**|[Repository](https://github.com/handsontable/handsontable)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|7,570 :star:|2,647 :star:|
+|**Stars**|7,603 :star:|2,653 :star:|
 |**Themes**|Excel|Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://ng-table.com/)|

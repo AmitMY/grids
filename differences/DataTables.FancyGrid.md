@@ -7,7 +7,7 @@
 |**License**|MIT|[License](http://fancygrid.com/buy/)|
 |**Price**|Free|Free/$199+|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/FancyGrid/FancyGrid)|
-|**Stars**|4,349 :star:|5 :star:|
+|**Stars**|4,359 :star:|5 :star:|
 |**Themes**|Default, Custom|Blue, Dark, Bootstrap, Gray, Sand, Default|
 |**Website**|[Website](https://datatables.net/)|[Website](http://www.fancygrid.com/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](http://www.fancygrid.com/gallery/)|

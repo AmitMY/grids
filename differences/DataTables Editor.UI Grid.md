@@ -6,7 +6,7 @@
 |**License**|[License](https://editor.datatables.net/license/)|MIT|
 |**Price**|$119+|Free|
 |**Repository**||[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**||4,609 :star:|
+|**Stars**||4,618 :star:|
 |**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Custom|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](http://ui-grid.info/)|

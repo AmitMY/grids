@@ -7,7 +7,7 @@
 |**License**|[License](http://fancygrid.com/buy/)|MIT|
 |**Price**|Free/$199+|Free|
 |**Repository**|[Repository](https://github.com/FancyGrid/FancyGrid)|[Repository](https://github.com/handsontable/handsontable)|
-|**Stars**|5 :star:|7,570 :star:|
+|**Stars**|5 :star:|7,603 :star:|
 |**Themes**|Blue, Dark, Bootstrap, Gray, Sand, Default|Excel|
 |**Website**|[Website](http://www.fancygrid.com/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](http://www.fancygrid.com/gallery/)|[Demo](https://handsontable.com/examples.html)|

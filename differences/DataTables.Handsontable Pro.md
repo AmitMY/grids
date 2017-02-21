@@ -6,7 +6,7 @@
 |**License**|MIT|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|
 |**Price**|Free|$149+|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)||
-|**Stars**|4,349 :star:||
+|**Stars**|4,359 :star:||
 |**Themes**|Default, Custom|Excel|
 |**Website**|[Website](https://datatables.net/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|

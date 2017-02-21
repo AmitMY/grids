@@ -6,7 +6,7 @@
 |**License**|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|MIT|
 |**Price**|$149+|Free|
 |**Repository**||[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**||4,609 :star:|
+|**Stars**||4,618 :star:|
 |**Themes**|Excel|Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://ui-grid.info/)|
