@@ -1,0 +1,100 @@
+{
+    "lastEditor": {
+        "user": "vvidolov",
+        "rank": "JQWidgets Sales"
+    },
+    "info": {
+        "name": "jqxGrid",
+        "logo": "http://www.jqwidgets.com/wp-content/design/i/logo-jqwidgets.svg",
+        "description": "Advanced Data Grid ",
+        "license": "https://www.jqwidgets.com/license/",
+        "repository": "jqwidgets/jQWidgets",
+        "website": {
+            "link": "https://www.jqwidgets.com/",
+            "demo": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm"
+        },
+        "price": " https://www.jqwidgets.com/license/",
+        "frameworks": [
+            "jQuery",
+            "Angular1",
+            "Angular2",
+            "React"
+        ],
+        "layoutThemes": [
+            "More than 20, including theme builder"
+        ],
+        "techSupport": true
+    },
+    "features": {
+        "animations": true,
+        "customIcons": true,
+        "customOverlays": true,
+        "export": [
+            "CSV",
+            "XLS",
+            "PDF",
+            "TSV",
+            "JSON"
+        ],
+        "globalSearch": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/filtering.htm",
+        "internationalisation": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/localization.htm",
+        "masterSlave": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/masterdetails.htm",
+        "pagination": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/defaultfunctionality.htm",
+        "pivoting": false,
+        "print": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/printing.htm",
+        "RTLSupport": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/rtl.htm",
+        "statusBar": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/statusbar.htm",
+        "touchSupport": "https://www.jqwidgets.com/jquery-widgets-demo/mobiledemos/jqxgrid/responsive-data-grid.htm",
+        "virtualPagination": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/deferredscrollinglargedata.htm",
+        "visualisation": ["Line", "Bar", "H-Bar", "Waterfall", "OHLC", "Candlestick", "Pie", "Donut", "Polar", "Spider", "Bubble", "Scatter", "Funnel"],
+        "columns": {
+            "aggregation": ["Sum", "Average", "Min", "Max", "First", "Last", "Custom"],
+            "collapsible": true,
+            "menu": true,
+            "filterTypes": [
+                "Text",
+                "Number",
+                "Date",
+                "Custom"
+            ],
+            "filtering": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/filtering-menu-column-types.htm",
+            "grouping": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/grouping.htm",
+            "headerRendering": false,
+            "pinning": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/pinnedcolumns.htm",
+            "reorder": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/reordercolumns.htm",
+            "resizing": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/columnsresizing.htm",
+            "selection": true,
+            "sorting": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/sorting.htm"
+        },
+        "rows": {
+            "contextMenu": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/contextmenu.htm",
+            "dynamicHeight": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/autorowheight.htm",
+            "dynamicInsert": false,
+            "dynamicRemove": false,
+            "floating": false,
+            "fullWidth": false,
+            "grouping": true,
+            "numbering": true,
+            "reorder": true,
+            "selection": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/rowselection.htm",
+            "virtualization": true
+        },
+        "cells": {
+            "clipboard": true,
+            "customRendering": false,
+            "editing": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/cellediting.htm",
+            "formula": false,
+            "keyboardNavigation": [
+                "Arrows",
+                "Enter",
+                "Tab",
+                "Page",
+                "Home"
+            ],
+            "merge": false,
+            "validation": true,
+            "rangeSelection": true,
+            "styling": "https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/gridcellclass.htm"
+        }
+    }
+}
