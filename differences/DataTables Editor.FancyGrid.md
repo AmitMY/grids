@@ -7,7 +7,7 @@
 |**License**|[License](https://editor.datatables.net/license/)|[License](http://fancygrid.com/buy/)|
 |**Price**|$119+|Free/$199+|
 |**Repository**||[Repository](https://github.com/FancyGrid/FancyGrid)|
-|**Stars**||5 :star:|
+|**Stars**||6 :star:|
 |**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Blue, Dark, Bootstrap, Gray, Sand, Default|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](http://www.fancygrid.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](http://www.fancygrid.com/gallery/)|

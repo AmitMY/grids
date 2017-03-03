@@ -3,7 +3,7 @@
 |**Description**|Simple table with sorting and filtering|A Data Grid|
 |**License**|BSD-3-Clause|MIT|
 |**Repository**|[Repository](https://github.com/esvit/ng-table)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|2,653 :star:|4,618 :star:|
+|**Stars**|2,663 :star:|4,657 :star:|
 |**Website**|[Website](http://ng-table.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](http://ng-table.com/)|[Demo](http://ui-grid.info/)|
 |**-**|||

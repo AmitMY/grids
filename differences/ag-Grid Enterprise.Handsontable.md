@@ -1,12 +1,12 @@
 |**/**|ag-Grid Enterprise|Handsontable|
 |-----|------------------|------------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
-|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
+|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|
 |**Description**||Handsontable Community Edition - a Spreadsheet Library for Developers|
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|
 |**Price**|£495+|Free|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/handsontable/handsontable)|
-|**Stars**|58 :star:|7,603 :star:|
+|**Stars**|60 :star:|7,656 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Excel|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://handsontable.com/examples.html)|

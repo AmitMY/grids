@@ -7,7 +7,7 @@
 |**License**|[License](http://fancygrid.com/buy/)|MIT|
 |**Price**|Free/$199+|Free|
 |**Repository**|[Repository](https://github.com/FancyGrid/FancyGrid)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|5 :star:|4,618 :star:|
+|**Stars**|6 :star:|4,657 :star:|
 |**Themes**|Blue, Dark, Bootstrap, Gray, Sand, Default|Custom|
 |**Website**|[Website](http://www.fancygrid.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](http://www.fancygrid.com/gallery/)|[Demo](http://ui-grid.info/)|

@@ -5,7 +5,7 @@
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|[License](https://editor.datatables.net/license/)|
 |**Price**|£495+|$119+|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)||
-|**Stars**|58 :star:||
+|**Stars**|60 :star:||
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://editor.datatables.net/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://editor.datatables.net/examples/index)|

@@ -7,7 +7,7 @@
 |**License**|[License](https://editor.datatables.net/license/)|[License](https://www.jqwidgets.com/license/)|
 |**Price**|$119+|[Price]( https://www.jqwidgets.com/license/)|
 |**Repository**||[Repository](https://github.com/jqwidgets/jQWidgets)|
-|**Stars**||66 :star:|
+|**Stars**||67 :star:|
 |**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|More than 20, including theme builder|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](https://www.jqwidgets.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|

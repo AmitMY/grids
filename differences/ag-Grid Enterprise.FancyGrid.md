@@ -7,7 +7,7 @@
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|[License](http://fancygrid.com/buy/)|
 |**Price**|£495+|Free/$199+|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/FancyGrid/FancyGrid)|
-|**Stars**|58 :star:|5 :star:|
+|**Stars**|60 :star:|6 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Blue, Dark, Bootstrap, Gray, Sand, Default|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://www.fancygrid.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://www.fancygrid.com/gallery/)|

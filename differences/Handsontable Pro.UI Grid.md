@@ -1,12 +1,12 @@
 |**/**|Handsontable Pro|UI Grid|
 |-----|----------------|-------|
 |**Logo**|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)||
-|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
+|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**||A Data Grid|
 |**License**|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|MIT|
 |**Price**|$149+|Free|
 |**Repository**||[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**||4,618 :star:|
+|**Stars**||4,657 :star:|
 |**Themes**|Excel|Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://ui-grid.info/)|

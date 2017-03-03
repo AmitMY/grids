@@ -1,12 +1,12 @@
 |**/**|Handsontable Pro|ngTable|
 |-----|----------------|-------|
 |**Logo**|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)||
-|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
+|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**||Simple table with sorting and filtering|
 |**License**|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|BSD-3-Clause|
 |**Price**|$149+|Free|
 |**Repository**||[Repository](https://github.com/esvit/ng-table)|
-|**Stars**||2,653 :star:|
+|**Stars**||2,663 :star:|
 |**Themes**|Excel|Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://ng-table.com/)|

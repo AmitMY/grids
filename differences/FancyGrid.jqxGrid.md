@@ -7,7 +7,7 @@
 |**License**|[License](http://fancygrid.com/buy/)|[License](https://www.jqwidgets.com/license/)|
 |**Price**|Free/$199+|[Price]( https://www.jqwidgets.com/license/)|
 |**Repository**|[Repository](https://github.com/FancyGrid/FancyGrid)|[Repository](https://github.com/jqwidgets/jQWidgets)|
-|**Stars**|5 :star:|66 :star:|
+|**Stars**|6 :star:|67 :star:|
 |**Themes**|Blue, Dark, Bootstrap, Gray, Sand, Default|More than 20, including theme builder|
 |**Website**|[Website](http://www.fancygrid.com/)|[Website](https://www.jqwidgets.com/)|
 |**Demo**|[Demo](http://www.fancygrid.com/gallery/)|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|

@@ -1,12 +1,12 @@
 |**/**|DataTables|Handsontable Pro|
 |-----|----------|----------------|
 |**Logo**|![Logo](https://datatables.net/media/images/nav-dt.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
-|**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
+|**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|
 |**Description**|Tables plug-in||
 |**License**|MIT|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|
 |**Price**|Free|$149+|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)||
-|**Stars**|4,359 :star:||
+|**Stars**|4,378 :star:||
 |**Themes**|Default, Custom|Excel|
 |**Website**|[Website](https://datatables.net/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|

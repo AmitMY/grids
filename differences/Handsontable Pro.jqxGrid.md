@@ -2,12 +2,12 @@
 |-----|----------------|-------|
 |**Logo**|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|![Logo](http://www.jqwidgets.com/wp-content/design/i/logo-jqwidgets.svg)|
 |**Last Editor**|[AmitMY](https://github.com/AmitMY) (User)|[vvidolov](https://github.com/vvidolov) (JQWidgets Sales)|
-|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|
+|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|
 |**Description**||Advanced Data Grid |
 |**License**|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|[License](https://www.jqwidgets.com/license/)|
 |**Price**|$149+|[Price]( https://www.jqwidgets.com/license/)|
 |**Repository**||[Repository](https://github.com/jqwidgets/jQWidgets)|
-|**Stars**||66 :star:|
+|**Stars**||67 :star:|
 |**Themes**|Excel|More than 20, including theme builder|
 |**Website**|[Website](https://handsontable.com/)|[Website](https://www.jqwidgets.com/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|

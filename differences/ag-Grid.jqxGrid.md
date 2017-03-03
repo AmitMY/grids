@@ -7,7 +7,7 @@
 |**License**|MIT|[License](https://www.jqwidgets.com/license/)|
 |**Price**|Free|[Price]( https://www.jqwidgets.com/license/)|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/jqwidgets/jQWidgets)|
-|**Stars**|2,423 :star:|66 :star:|
+|**Stars**|2,452 :star:|67 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|More than 20, including theme builder|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://www.jqwidgets.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|
