@@ -16,7 +16,8 @@
         "price": "Free",
         "frameworks": [
             "Javascript",
-            "jQuery"
+            "jQuery",
+            "React"
         ],
         "layoutThemes": [
             "Excel"

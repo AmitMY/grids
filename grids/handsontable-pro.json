@@ -16,7 +16,8 @@
         "price": "$149+",
         "frameworks": [
             "Javascript",
-            "jQuery"
+            "jQuery",
+            "React"
         ],
         "layoutThemes": [
             "Excel"
