@@ -1,0 +1,81 @@
+{
+    "lastEditor": {
+        "user": "tabalinas",
+        "rank": "Creator"
+    },
+    "info": {
+        "name": "jsGrid",
+        "logo": "http://js-grid.com/imgs/logo.png",
+        "description": "Lightweight Data Grid Plugin",
+        "license": "MIT",
+        "repository": "tabalinas/jsgrid",
+        "website": {
+            "link": "http://js-grid.com/",
+            "demo": "http://js-grid.com/demos"
+        },
+        "price": "Free",
+        "frameworks": [
+            "jQuery"
+        ],
+        "layoutThemes": [
+            "Default",
+            "Custom"
+        ],
+        "techSupport": false
+    },
+    "features": {
+        "animations": false,
+        "customIcons": true,
+        "customOverlays": true,
+        "export": null,
+        "globalSearch": false,
+        "internationalisation": true,
+        "masterSlave": false,
+        "pagination": true,
+        "pivoting": false,
+        "print": false,
+        "RTLSupport": null,
+        "statusBar": false,
+        "touchSupport": true,
+        "virtualPagination": true,
+        "visualisation": null,
+        "columns": {
+            "aggregation": null,
+            "collapsible": false,
+            "menu": false,
+            "filterTypes": null,
+            "filtering": true,
+            "grouping": false,
+            "headerRendering": true,
+            "pinning": false,
+            "reorder": false,
+            "resizing": false,
+            "selection": false,
+            "sorting": true
+        },
+        "rows": {
+            "contextMenu": false,
+            "dynamicHeight": true,
+            "dynamicInsert": true,
+            "dynamicRemove": true,
+            "floating": false,
+            "fullWidth": true,
+            "grouping": false,
+            "numbering": false,
+            "reorder": true,
+            "selection": true,
+            "virtualization": false
+        },
+        "cells": {
+            "clipboard": false,
+            "customRendering": false,
+            "editing": false,
+            "formula": true,
+            "keyboardNavigation": null,
+            "merge": false,
+            "validation": true,
+            "rangeSelection": false,
+            "styling": true
+        }
+    }
+}
