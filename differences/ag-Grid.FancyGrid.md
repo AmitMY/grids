@@ -7,7 +7,7 @@
 |**License**|MIT|[License](http://fancygrid.com/buy/)|
 |**Price**|Free|Free/$199+|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/FancyGrid/FancyGrid)|
-|**Stars**|2,452 :star:|6 :star:|
+|**Stars**|2,457 :star:|6 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Blue, Dark, Bootstrap, Gray, Sand, Default|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://www.fancygrid.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://www.fancygrid.com/gallery/)|
