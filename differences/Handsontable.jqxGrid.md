@@ -7,7 +7,7 @@
 |**License**|MIT|[License](https://www.jqwidgets.com/license/)|
 |**Price**|Free|[Price]( https://www.jqwidgets.com/license/)|
 |**Repository**|[Repository](https://github.com/handsontable/handsontable)|[Repository](https://github.com/jqwidgets/jQWidgets)|
-|**Stars**|7,666 :star:|67 :star:|
+|**Stars**|7,687 :star:|69 :star:|
 |**Themes**|Excel|More than 20, including theme builder|
 |**Website**|[Website](https://handsontable.com/)|[Website](https://www.jqwidgets.com/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|

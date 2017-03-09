@@ -2,7 +2,7 @@
 |-----|-----------------|---------|
 |**Logo**|![Logo](https://editor.datatables.net/media/images/nav-e.png)|![Logo](http://www.fancygrid.com/img/logo.png)|
 |**Last Editor**|[AmitMY](https://github.com/AmitMY) (User)|[NickThomson1977](https://github.com/NickThomson1977) (FancyGrid CEO)|
-|**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|
+|**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|
 |**Description**||JavaScript Grid Library|
 |**License**|[License](https://editor.datatables.net/license/)|[License](http://fancygrid.com/buy/)|
 |**Price**|$119+|Free/$199+|

@@ -5,7 +5,7 @@
 |**Description**|Advanced Data Grid / Data Table|Simple table with sorting and filtering|
 |**License**|MIT|BSD-3-Clause|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|2,457 :star:|2,664 :star:|
+|**Stars**|2,469 :star:|2,672 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://ng-table.com/)|

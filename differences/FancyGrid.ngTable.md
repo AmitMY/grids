@@ -2,12 +2,12 @@
 |-----|---------|-------|
 |**Logo**|![Logo](http://www.fancygrid.com/img/logo.png)||
 |**Last Editor**|[NickThomson1977](https://github.com/NickThomson1977) (FancyGrid CEO)|[AmitMY](https://github.com/AmitMY) (User)|
-|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
+|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|JavaScript Grid Library|Simple table with sorting and filtering|
 |**License**|[License](http://fancygrid.com/buy/)|BSD-3-Clause|
 |**Price**|Free/$199+|Free|
 |**Repository**|[Repository](https://github.com/FancyGrid/FancyGrid)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|6 :star:|2,664 :star:|
+|**Stars**|6 :star:|2,672 :star:|
 |**Themes**|Blue, Dark, Bootstrap, Gray, Sand, Default|Custom|
 |**Website**|[Website](http://www.fancygrid.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](http://www.fancygrid.com/gallery/)|[Demo](http://ng-table.com/)|

@@ -4,7 +4,7 @@
 |**Last Editor**|[AmitMY](https://github.com/AmitMY) (User)|[tabalinas](https://github.com/tabalinas) (Creator)|
 |**Description**|Tables plug-in|Lightweight Data Grid Plugin|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**|4,383 :star:|771 :star:|
+|**Stars**|4,397 :star:|773 :star:|
 |**Website**|[Website](https://datatables.net/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](http://js-grid.com/demos)|
 |**-**|||

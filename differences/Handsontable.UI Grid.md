@@ -4,7 +4,7 @@
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|Handsontable Community Edition - a Spreadsheet Library for Developers|A Data Grid|
 |**Repository**|[Repository](https://github.com/handsontable/handsontable)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|7,666 :star:|4,660 :star:|
+|**Stars**|7,687 :star:|4,669 :star:|
 |**Themes**|Excel|Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://ui-grid.info/)|
