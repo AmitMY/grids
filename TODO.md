@@ -1,7 +1,6 @@
 ## Add
 |Link|Sources|Message|Update|
 |----|------|--------|------|
-|http://js-grid.com/|Reddit|In process...|14/02/2017|
 |https://github.com/6pac/SlickGrid|Reddit|Soon|15/02/2017|
 |https://vmware.github.io/clarity/documentation/datagrid|Reddit|x|--/--/----|
 |https://cxjs.io/|Reddit|x|--/--/----|
