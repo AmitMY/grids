@@ -16,6 +16,7 @@
         "price": "Free/$199+",
         "frameworks": [
             "Javascript",
+            "jQuery",
             "Angular1",
             "Angular2",
             "Web Components"
