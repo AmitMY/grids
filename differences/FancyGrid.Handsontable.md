@@ -2,12 +2,12 @@
 |-----|---------|------------|
 |**Logo**|![Logo](http://www.fancygrid.com/img/logo.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
 |**Last Editor**|[NickThomson1977](https://github.com/NickThomson1977) (FancyGrid CEO)|[AmitMY](https://github.com/AmitMY) (User)|
-|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|
+|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web%20components.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|
 |**Description**|JavaScript Grid Library|Handsontable Community Edition - a Spreadsheet Library for Developers|
 |**License**|[License](http://fancygrid.com/buy/)|MIT|
 |**Price**|Free/$199+|Free|
 |**Repository**|[Repository](https://github.com/FancyGrid/FancyGrid)|[Repository](https://github.com/handsontable/handsontable)|
-|**Stars**|6 :star:|7,687 :star:|
+|**Stars**|8 :star:|7,738 :star:|
 |**Themes**|Blue, Dark, Bootstrap, Gray, Sand, Default|Excel|
 |**Website**|[Website](http://www.fancygrid.com/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](http://www.fancygrid.com/gallery/)|[Demo](https://handsontable.com/examples.html)|

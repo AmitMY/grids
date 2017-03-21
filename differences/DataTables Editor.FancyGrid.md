@@ -2,12 +2,12 @@
 |-----|-----------------|---------|
 |**Logo**|![Logo](https://editor.datatables.net/media/images/nav-e.png)|![Logo](http://www.fancygrid.com/img/logo.png)|
 |**Last Editor**|[AmitMY](https://github.com/AmitMY) (User)|[NickThomson1977](https://github.com/NickThomson1977) (FancyGrid CEO)|
-|**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|
+|**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web%20components.png)|
 |**Description**||JavaScript Grid Library|
 |**License**|[License](https://editor.datatables.net/license/)|[License](http://fancygrid.com/buy/)|
 |**Price**|$119+|Free/$199+|
 |**Repository**||[Repository](https://github.com/FancyGrid/FancyGrid)|
-|**Stars**||6 :star:|
+|**Stars**||8 :star:|
 |**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Blue, Dark, Bootstrap, Gray, Sand, Default|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](http://www.fancygrid.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](http://www.fancygrid.com/gallery/)|

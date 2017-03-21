@@ -7,7 +7,7 @@
 |**License**|MIT|[License](https://www.jqwidgets.com/license/)|
 |**Price**|Free|[Price]( https://www.jqwidgets.com/license/)|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/jqwidgets/jQWidgets)|
-|**Stars**|4,397 :star:|69 :star:|
+|**Stars**|4,416 :star:|72 :star:|
 |**Themes**|Default, Custom|More than 20, including theme builder|
 |**Website**|[Website](https://datatables.net/)|[Website](https://www.jqwidgets.com/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|

@@ -7,7 +7,7 @@
 |**License**|[License](https://www.jqwidgets.com/license/)|BSD-3-Clause|
 |**Price**|[Price]( https://www.jqwidgets.com/license/)|Free|
 |**Repository**|[Repository](https://github.com/jqwidgets/jQWidgets)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|69 :star:|2,672 :star:|
+|**Stars**|72 :star:|2,687 :star:|
 |**Themes**|More than 20, including theme builder|Custom|
 |**Website**|[Website](https://www.jqwidgets.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|[Demo](http://ng-table.com/)|

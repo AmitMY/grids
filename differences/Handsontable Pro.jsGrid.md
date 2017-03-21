@@ -7,7 +7,7 @@
 |**License**|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|MIT|
 |**Price**|$149+|Free|
 |**Repository**||[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**||773 :star:|
+|**Stars**||790 :star:|
 |**Themes**|Excel|Default, Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://js-grid.com/demos)|

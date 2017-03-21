@@ -1,11 +1,11 @@
 |**/**|ag-Grid|ngTable|
 |-----|-------|-------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)||
-|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
+|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web%20components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|Advanced Data Grid / Data Table|Simple table with sorting and filtering|
 |**License**|MIT|BSD-3-Clause|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|2,469 :star:|2,672 :star:|
+|**Stars**|2,525 :star:|2,687 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://ng-table.com/)|

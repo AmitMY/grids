@@ -2,12 +2,12 @@
 |-----|---------|------|
 |**Logo**|![Logo](http://www.fancygrid.com/img/logo.png)|![Logo](http://js-grid.com/imgs/logo.png)|
 |**Last Editor**|[NickThomson1977](https://github.com/NickThomson1977) (FancyGrid CEO)|[tabalinas](https://github.com/tabalinas) (Creator)|
-|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png)|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
+|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web%20components.png)|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
 |**Description**|JavaScript Grid Library|Lightweight Data Grid Plugin|
 |**License**|[License](http://fancygrid.com/buy/)|MIT|
 |**Price**|Free/$199+|Free|
 |**Repository**|[Repository](https://github.com/FancyGrid/FancyGrid)|[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**|6 :star:|773 :star:|
+|**Stars**|8 :star:|790 :star:|
 |**Themes**|Blue, Dark, Bootstrap, Gray, Sand, Default|Default, Custom|
 |**Website**|[Website](http://www.fancygrid.com/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](http://www.fancygrid.com/gallery/)|[Demo](http://js-grid.com/demos)|

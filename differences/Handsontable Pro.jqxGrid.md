@@ -7,7 +7,7 @@
 |**License**|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|[License](https://www.jqwidgets.com/license/)|
 |**Price**|$149+|[Price]( https://www.jqwidgets.com/license/)|
 |**Repository**||[Repository](https://github.com/jqwidgets/jQWidgets)|
-|**Stars**||69 :star:|
+|**Stars**||72 :star:|
 |**Themes**|Excel|More than 20, including theme builder|
 |**Website**|[Website](https://handsontable.com/)|[Website](https://www.jqwidgets.com/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|

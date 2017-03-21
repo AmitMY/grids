@@ -5,7 +5,7 @@
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
 |**Description**|Handsontable Community Edition - a Spreadsheet Library for Developers|Lightweight Data Grid Plugin|
 |**Repository**|[Repository](https://github.com/handsontable/handsontable)|[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**|7,687 :star:|773 :star:|
+|**Stars**|7,738 :star:|790 :star:|
 |**Themes**|Excel|Default, Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://js-grid.com/demos)|

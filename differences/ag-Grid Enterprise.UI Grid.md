@@ -1,12 +1,12 @@
 |**/**|ag-Grid Enterprise|UI Grid|
 |-----|------------------|-------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)||
-|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
+|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web%20components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**||A Data Grid|
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|
 |**Price**|£495+|Free|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|60 :star:|4,669 :star:|
+|**Stars**|60 :star:|4,685 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://ui-grid.info/)|

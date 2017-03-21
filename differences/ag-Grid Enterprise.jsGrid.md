@@ -2,12 +2,12 @@
 |-----|------------------|------|
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)|![Logo](http://js-grid.com/imgs/logo.png)|
 |**Last Editor**|[AmitMY](https://github.com/AmitMY) (User)|[tabalinas](https://github.com/tabalinas) (Creator)|
-|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
+|**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web%20components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
 |**Description**||Lightweight Data Grid Plugin|
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|
 |**Price**|£495+|Free|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**|60 :star:|773 :star:|
+|**Stars**|60 :star:|790 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Default, Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://js-grid.com/demos)|
