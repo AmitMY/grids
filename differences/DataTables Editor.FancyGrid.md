@@ -7,14 +7,14 @@
 |**License**|[License](https://editor.datatables.net/license/)|[License](http://fancygrid.com/buy/)|
 |**Price**|$119+|Free/$199+|
 |**Repository**||[Repository](https://github.com/FancyGrid/FancyGrid)|
-|**Stars**||8 :star:|
+|**Stars**||9 :star:|
 |**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Blue, Dark, Bootstrap, Gray, Sand, Default|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](http://www.fancygrid.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](http://www.fancygrid.com/gallery/)|
 |**Tech Support**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**-**|||
 |**General**|||
-|**Export**|CSV|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Rows**|||
 |**Rows Grouping**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://fancygrid.com/dashboards/dealer/)|

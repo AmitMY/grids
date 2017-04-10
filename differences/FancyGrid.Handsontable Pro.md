@@ -7,13 +7,13 @@
 |**License**|[License](http://fancygrid.com/buy/)|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|
 |**Price**|Free/$199+|$149+|
 |**Repository**|[Repository](https://github.com/FancyGrid/FancyGrid)||
-|**Stars**|8 :star:||
+|**Stars**|9 :star:||
 |**Themes**|Blue, Dark, Bootstrap, Gray, Sand, Default|Excel|
 |**Website**|[Website](http://www.fancygrid.com/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](http://www.fancygrid.com/gallery/)|[Demo](https://handsontable.com/examples.html)|
 |**-**|||
 |**General**|||
-|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|CSV|
+|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png)|
 |**Pagination**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://fancygrid.com/samples/paging/basic)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Rows**|||

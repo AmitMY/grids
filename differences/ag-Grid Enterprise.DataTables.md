@@ -6,7 +6,7 @@
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|
 |**Price**|£495+|Free|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/DataTables/DataTables)|
-|**Stars**|60 :star:|4,416 :star:|
+|**Stars**|64 :star:|4,480 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Default, Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://datatables.net/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://datatables.net/examples/index)|
@@ -15,7 +15,7 @@
 |**General**|||
 |**Pivot Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-pivoting/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Print Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-for-print/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Export**|CSV, ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png)|CSV|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png)|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png)|
 |**Virtual Pagination**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-virtual-paging/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Rows**|||

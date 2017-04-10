@@ -6,13 +6,13 @@
 |**License**|[License](https://editor.datatables.net/license/)|MIT|
 |**Price**|$119+|Free|
 |**Repository**||[Repository](https://github.com/handsontable/handsontable)|
-|**Stars**||7,738 :star:|
+|**Stars**||7,857 :star:|
 |**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Excel|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|
 |**-**|||
 |**General**|||
-|**Export**|CSV|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Pagination**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://datatables.net/examples/basic_init/alt_pagination.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Rows**|||

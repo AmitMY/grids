@@ -7,14 +7,14 @@
 |**License**|[License](http://fancygrid.com/buy/)|MIT|
 |**Price**|Free/$199+|Free|
 |**Repository**|[Repository](https://github.com/FancyGrid/FancyGrid)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|8 :star:|4,685 :star:|
+|**Stars**|9 :star:|4,722 :star:|
 |**Themes**|Blue, Dark, Bootstrap, Gray, Sand, Default|Custom|
 |**Website**|[Website](http://www.fancygrid.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](http://www.fancygrid.com/gallery/)|[Demo](http://ui-grid.info/)|
 |**Tech Support**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**General**|||
-|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|CSV, ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png)|
+|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png)|
 |**Virtual Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/212_infinite_scroll)|
 |**-**|||
 |**Rows**|||

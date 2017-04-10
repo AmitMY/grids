@@ -7,14 +7,14 @@
 |**License**|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|MIT|
 |**Price**|$149+|Free|
 |**Repository**||[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**||790 :star:|
+|**Stars**||808 :star:|
 |**Themes**|Excel|Default, Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://js-grid.com/demos)|
 |**Tech Support**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**General**|||
-|**Export**|CSV|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**Virtual Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**-**|||

@@ -7,7 +7,7 @@
 |**License**|[License](https://www.jqwidgets.com/license/)|MIT|
 |**Price**|[Price]( https://www.jqwidgets.com/license/)|Free|
 |**Repository**|[Repository](https://github.com/jqwidgets/jQWidgets)|[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**|72 :star:|790 :star:|
+|**Stars**|74 :star:|808 :star:|
 |**Themes**|More than 20, including theme builder|Default, Custom|
 |**Website**|[Website](https://www.jqwidgets.com/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|[Demo](http://js-grid.com/demos)|
@@ -15,7 +15,7 @@
 |**-**|||
 |**General**|||
 |**Print Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/printing.htm)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Export**|CSV, ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png), TSV, JSON|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png), TSV, JSON|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Rows**|||
 |**Rows Grouping**|![green](http://placehold.it/23/c5f015/000000?text=+)|![red](http://placehold.it/23/f03c15/000000?text=+)|

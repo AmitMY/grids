@@ -4,11 +4,11 @@
 |**License**|MIT|[License](https://docs.handsontable.com/0.21.0/tutorial-licensing.html)|
 |**Price**|Free|$149+|
 |**Repository**|[Repository](https://github.com/handsontable/handsontable)||
-|**Stars**|7,738 :star:||
+|**Stars**|7,857 :star:||
 |**Tech Support**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**-**|||
 |**General**|||
-|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|CSV|
+|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png)|
 |**-**|||
 |**Rows**|||
 |**Floating Rows**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/Options.html#fixedRowsBottom)|

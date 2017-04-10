@@ -5,13 +5,13 @@
 |**Description**|Tables plug-in|Simple table with sorting and filtering|
 |**License**|MIT|BSD-3-Clause|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|4,416 :star:|2,687 :star:|
+|**Stars**|4,480 :star:|2,711 :star:|
 |**Themes**|Default, Custom|Custom|
 |**Website**|[Website](https://datatables.net/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](http://ng-table.com/)|
 |**-**|||
 |**General**|||
-|**Export**|CSV|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Rows**|||
 |**Rows Grouping**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ng-table.com/#/grouping/demo-grouping-basic)|

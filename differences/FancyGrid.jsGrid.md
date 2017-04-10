@@ -7,7 +7,7 @@
 |**License**|[License](http://fancygrid.com/buy/)|MIT|
 |**Price**|Free/$199+|Free|
 |**Repository**|[Repository](https://github.com/FancyGrid/FancyGrid)|[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**|8 :star:|790 :star:|
+|**Stars**|9 :star:|808 :star:|
 |**Themes**|Blue, Dark, Bootstrap, Gray, Sand, Default|Default, Custom|
 |**Website**|[Website](http://www.fancygrid.com/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](http://www.fancygrid.com/gallery/)|[Demo](http://js-grid.com/demos)|

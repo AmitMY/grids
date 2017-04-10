@@ -4,7 +4,7 @@
 |**License**|MIT|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|
 |**Price**|Free|£495+|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/ceolter/ag-grid-enterprise)|
-|**Stars**|2,525 :star:|60 :star:|
+|**Stars**|2,629 :star:|64 :star:|
 |**Tech Support**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**-**|||
 |**General**|||

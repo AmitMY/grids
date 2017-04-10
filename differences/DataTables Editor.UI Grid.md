@@ -6,13 +6,13 @@
 |**License**|[License](https://editor.datatables.net/license/)|MIT|
 |**Price**|$119+|Free|
 |**Repository**||[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**||4,685 :star:|
+|**Stars**||4,722 :star:|
 |**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Custom|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](http://ui-grid.info/)|
 |**-**|||
 |**General**|||
-|**Export**|CSV|CSV, ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png)|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png)|
 |**Virtual Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/212_infinite_scroll)|
 |**-**|||
 |**Rows**|||

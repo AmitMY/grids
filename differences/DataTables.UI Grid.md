@@ -4,13 +4,13 @@
 |**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|Tables plug-in|A Data Grid|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|4,416 :star:|4,685 :star:|
+|**Stars**|4,480 :star:|4,722 :star:|
 |**Themes**|Default, Custom|Custom|
 |**Website**|[Website](https://datatables.net/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](http://ui-grid.info/)|
 |**-**|||
 |**General**|||
-|**Export**|CSV|CSV, ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png)|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png)|
 |**Virtual Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/212_infinite_scroll)|
 |**-**|||
 |**Rows**|||

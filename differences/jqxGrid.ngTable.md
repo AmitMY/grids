@@ -7,7 +7,7 @@
 |**License**|[License](https://www.jqwidgets.com/license/)|BSD-3-Clause|
 |**Price**|[Price]( https://www.jqwidgets.com/license/)|Free|
 |**Repository**|[Repository](https://github.com/jqwidgets/jQWidgets)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|72 :star:|2,687 :star:|
+|**Stars**|74 :star:|2,711 :star:|
 |**Themes**|More than 20, including theme builder|Custom|
 |**Website**|[Website](https://www.jqwidgets.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|[Demo](http://ng-table.com/)|
@@ -15,7 +15,7 @@
 |**-**|||
 |**General**|||
 |**Print Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/printing.htm)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Export**|CSV, ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png), TSV, JSON|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png), TSV, JSON|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Virtual Pagination**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/deferredscrollinglargedata.htm)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Rows**|||

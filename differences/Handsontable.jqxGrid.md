@@ -7,7 +7,7 @@
 |**License**|MIT|[License](https://www.jqwidgets.com/license/)|
 |**Price**|Free|[Price]( https://www.jqwidgets.com/license/)|
 |**Repository**|[Repository](https://github.com/handsontable/handsontable)|[Repository](https://github.com/jqwidgets/jQWidgets)|
-|**Stars**|7,738 :star:|72 :star:|
+|**Stars**|7,857 :star:|74 :star:|
 |**Themes**|Excel|More than 20, including theme builder|
 |**Website**|[Website](https://handsontable.com/)|[Website](https://www.jqwidgets.com/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|
@@ -15,7 +15,7 @@
 |**-**|||
 |**General**|||
 |**Print Mode**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/printing.htm)|
-|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|CSV, ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png), TSV, JSON|
+|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png), TSV, JSON|
 |**Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/defaultfunctionality.htm)|
 |**Virtual Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/deferredscrollinglargedata.htm)|
 |**-**|||

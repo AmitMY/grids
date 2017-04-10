@@ -7,7 +7,7 @@
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|[License](http://fancygrid.com/buy/)|
 |**Price**|£495+|Free/$199+|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/FancyGrid/FancyGrid)|
-|**Stars**|60 :star:|8 :star:|
+|**Stars**|64 :star:|9 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Blue, Dark, Bootstrap, Gray, Sand, Default|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://www.fancygrid.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://www.fancygrid.com/gallery/)|
@@ -15,7 +15,7 @@
 |**General**|||
 |**Pivot Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-pivoting/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Print Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-for-print/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Export**|CSV, ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Virtual Pagination**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-virtual-paging/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Rows**|||

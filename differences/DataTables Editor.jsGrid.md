@@ -6,13 +6,13 @@
 |**License**|[License](https://editor.datatables.net/license/)|MIT|
 |**Price**|$119+|Free|
 |**Repository**||[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**||790 :star:|
+|**Stars**||808 :star:|
 |**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Default, Custom|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](http://js-grid.com/demos)|
 |**-**|||
 |**General**|||
-|**Export**|CSV|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Virtual Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**-**|||
 |**Rows**|||

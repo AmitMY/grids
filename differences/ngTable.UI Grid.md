@@ -3,12 +3,12 @@
 |**Description**|Simple table with sorting and filtering|A Data Grid|
 |**License**|BSD-3-Clause|MIT|
 |**Repository**|[Repository](https://github.com/esvit/ng-table)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|2,687 :star:|4,685 :star:|
+|**Stars**|2,711 :star:|4,722 :star:|
 |**Website**|[Website](http://ng-table.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](http://ng-table.com/)|[Demo](http://ui-grid.info/)|
 |**-**|||
 |**General**|||
-|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|CSV, ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png)|
+|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png)|
 |**Virtual Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/212_infinite_scroll)|
 |**-**|||
 |**Rows**|||

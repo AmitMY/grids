@@ -4,12 +4,12 @@
 |**Last Editor**|[AmitMY](https://github.com/AmitMY) (User)|[tabalinas](https://github.com/tabalinas) (Creator)|
 |**Description**|Tables plug-in|Lightweight Data Grid Plugin|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**|4,416 :star:|790 :star:|
+|**Stars**|4,480 :star:|808 :star:|
 |**Website**|[Website](https://datatables.net/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](http://js-grid.com/demos)|
 |**-**|||
 |**General**|||
-|**Export**|CSV|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Virtual Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**-**|||
 |**Rows**|||

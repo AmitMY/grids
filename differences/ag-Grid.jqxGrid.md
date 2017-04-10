@@ -7,14 +7,14 @@
 |**License**|MIT|[License](https://www.jqwidgets.com/license/)|
 |**Price**|Free|[Price]( https://www.jqwidgets.com/license/)|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/jqwidgets/jQWidgets)|
-|**Stars**|2,525 :star:|72 :star:|
+|**Stars**|2,629 :star:|74 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|More than 20, including theme builder|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://www.jqwidgets.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|
 |**Tech Support**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**-**|||
 |**General**|||
-|**Export**|CSV, ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png)|CSV, ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png), TSV, JSON|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png)|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png), TSV, JSON|
 |**-**|||
 |**Rows**|||
 |**Rows Grouping**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|

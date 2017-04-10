@@ -4,13 +4,13 @@
 |**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|
 |**Description**|Tables plug-in|Handsontable Community Edition - a Spreadsheet Library for Developers|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/handsontable/handsontable)|
-|**Stars**|4,416 :star:|7,738 :star:|
+|**Stars**|4,480 :star:|7,857 :star:|
 |**Themes**|Default, Custom|Excel|
 |**Website**|[Website](https://datatables.net/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|
 |**-**|||
 |**General**|||
-|**Export**|CSV|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Pagination**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://datatables.net/examples/basic_init/alt_pagination.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Rows**|||

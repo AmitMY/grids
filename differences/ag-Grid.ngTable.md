@@ -5,14 +5,14 @@
 |**Description**|Advanced Data Grid / Data Table|Simple table with sorting and filtering|
 |**License**|MIT|BSD-3-Clause|
 |**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|2,525 :star:|2,687 :star:|
+|**Stars**|2,629 :star:|2,711 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://ng-table.com/)|
 |**-**|||
 |**General**|||
 |**Print Mode**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-for-print/)|![red](http://placehold.it/23/f03c15/000000?text=+)|
-|**Export**|CSV, ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png)|![red](http://placehold.it/23/f03c15/000000?text=+)|
+|**Export**|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![XLS](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/xls.png)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Virtual Pagination**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://www.ag-grid.com/javascript-grid-virtual-paging/#gsc.tab=0)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**-**|||
 |**Rows**|||

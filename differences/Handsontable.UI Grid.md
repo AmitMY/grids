@@ -4,13 +4,13 @@
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|Handsontable Community Edition - a Spreadsheet Library for Developers|A Data Grid|
 |**Repository**|[Repository](https://github.com/handsontable/handsontable)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|7,738 :star:|4,685 :star:|
+|**Stars**|7,857 :star:|4,722 :star:|
 |**Themes**|Excel|Custom|
 |**Website**|[Website](https://handsontable.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://handsontable.com/examples.html)|[Demo](http://ui-grid.info/)|
 |**-**|||
 |**General**|||
-|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|CSV, ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png)|
+|**Export**|![red](http://placehold.it/23/f03c15/000000?text=+)|![CSV](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/csv.png), ![PDF](https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/pdf.png)|
 |**Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/214_pagination)|
 |**Virtual Pagination**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](http://ui-grid.info/docs/#/tutorial/212_infinite_scroll)|
 |**-**|||

@@ -7,7 +7,7 @@
 |**License**|[License](http://fancygrid.com/buy/)|BSD-3-Clause|
 |**Price**|Free/$199+|Free|
 |**Repository**|[Repository](https://github.com/FancyGrid/FancyGrid)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|8 :star:|2,687 :star:|
+|**Stars**|9 :star:|2,711 :star:|
 |**Themes**|Blue, Dark, Bootstrap, Gray, Sand, Default|Custom|
 |**Website**|[Website](http://www.fancygrid.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](http://www.fancygrid.com/gallery/)|[Demo](http://ng-table.com/)|
