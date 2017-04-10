@@ -50,7 +50,7 @@ class Render {
     }
 
     static format(str) {
-        if (["XLS", "XLSX", "PDF", "XML"].indexOf(str) != -1)
+        if (["XLS", "XLSX", "PDF", "XML", "CSV"].indexOf(str) != -1)
             return Render.image("https://raw.githubusercontent.com/teambox/Free-file-icons/master/32px/" + str.toLowerCase() + ".png", str);
         return str;
     }
