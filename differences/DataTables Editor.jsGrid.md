@@ -6,7 +6,7 @@
 |**License**|[License](https://editor.datatables.net/license/)|MIT|
 |**Price**|$119+|Free|
 |**Repository**||[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**||808 :star:|
+|**Stars**||1,133 :star:|
 |**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Default, Custom|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](http://js-grid.com/demos)|

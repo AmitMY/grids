@@ -1,19 +1,19 @@
 {
     "lastEditor": {
-        "user": "AmitMY",
-        "rank": "User"
+        "user": "AMBudnik",
+        "rank": "employee"
     },
     "info": {
         "name": "Handsontable Pro",
         "logo": "https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png",
         "description": "",
-        "license": "https://docs.handsontable.com/0.21.0/tutorial-licensing.html",
+        "license": "https://docs.handsontable.com/4.0.0/tutorial-licensing.html",
         "repository": null,
         "website": {
             "link": "https://handsontable.com/",
             "demo": "https://handsontable.com/examples.html"
         },
-        "price": "$149+",
+        "price": "$590+",
         "frameworks": [
             "Javascript",
             "jQuery",
@@ -32,7 +32,7 @@
             "CSV"
         ],
         "globalSearch": false,
-        "internationalisation": false,
+        "internationalisation": "https://docs.handsontable.com/4.0.0/tutorial-internationalization.html",
         "masterSlave": false,
         "pagination": false,
         "pivoting": false,
@@ -58,28 +58,28 @@
             "headerRendering": false,
             "pinning": false,
             "reorder": true,
-            "resizing": "https://docs.handsontable.com/pro/1.9.1/demo-resizing.html",
-            "selection": "https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html",
-            "sorting": "https://docs.handsontable.com/pro/1.9.1/demo-sorting.html"
+            "resizing": "https://docs.handsontable.com/pro/4.0.0/demo-resizing.html",
+            "selection": "https://docs.handsontable.com/pro/4.0.0/demo-highlighting-selection.html",
+            "sorting": "https://docs.handsontable.com/pro/4.0.0/demo-sorting.html"
         },
         "rows": {
             "contextMenu": true,
-            "dynamicHeight": "https://docs.handsontable.com/pro/1.9.1/demo-resizing.html",
+            "dynamicHeight": "https://docs.handsontable.com/pro/4.0.0/demo-resizing.html",
             "dynamicInsert": true,
             "dynamicRemove": true,
-            "floating": "https://docs.handsontable.com/pro/1.9.1/Options.html#fixedRowsBottom",
+            "floating": "https://docs.handsontable.com/pro/4.0.0/Options.html#fixedRowsBottom",
             "fullWidth": false,
-            "grouping": false,
+            "grouping": "https://docs.handsontable.com/pro/4.0.0/demo-nested-rows.html",
             "numbering": true,
             "reorder": true,
-            "selection": "https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html",
+            "selection": "https://docs.handsontable.com/pro/4.0.0/demo-highlighting-selection.html",
             "virtualization": true
         },
         "cells": {
             "clipboard": true,
-            "customRendering": "https://docs.handsontable.com/pro/1.9.1/demo-custom-renderers.html",
-            "editing": "https://docs.handsontable.com/pro/1.9.1/tutorial-cell-editor.html",
-            "formula": "https://docs.handsontable.com/pro/1.9.1/demo-formula-support.html",
+            "customRendering": "https://docs.handsontable.com/pro/4.0.0/demo-custom-renderers.html",
+            "editing": "https://docs.handsontable.com/pro/4.0.0/tutorial-cell-editor.html",
+            "formula": "https://docs.handsontable.com/pro/4.0.0/demo-formula-support.html",
             "keyboardNavigation": [
                 "Arrows",
                 "Enter",
@@ -89,9 +89,9 @@
                 "End",
                 "UNDO/REDO"
             ],
-            "merge": "https://docs.handsontable.com/pro/1.9.1/demo-merged-cells.html",
-            "validation": "https://docs.handsontable.com/pro/1.9.1/demo-data-validation.html",
-            "rangeSelection": "https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html",
+            "merge": "https://docs.handsontable.com/pro/4.0.0/demo-merged-cells.html",
+            "validation": "https://docs.handsontable.com/pro/4.0.0/demo-data-validation.html",
+            "rangeSelection": "https://docs.handsontable.com/pro/4.0.0/demo-highlighting-selection.html",
             "styling": false
         }
     }

@@ -5,7 +5,7 @@
 |**License**|MIT|[License](https://editor.datatables.net/license/)|
 |**Price**|Free|$119+|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)||
-|**Stars**|4,480 :star:||
+|**Stars**|5,434 :star:||
 |**Themes**|Default, Custom|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|
 |**Website**|[Website](https://datatables.net/)|[Website](https://editor.datatables.net/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](https://editor.datatables.net/examples/index)|

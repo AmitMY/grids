@@ -5,8 +5,8 @@
 |**Description**||A Data Grid|
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|
 |**Price**|£495+|Free|
-|**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|64 :star:|4,722 :star:|
+|**Repository**||[Repository](https://github.com/angular-ui/ui-grid)|
+|**Stars**||5,144 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://ui-grid.info/)|

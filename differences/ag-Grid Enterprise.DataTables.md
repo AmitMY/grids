@@ -5,8 +5,8 @@
 |**Description**||Tables plug-in|
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|
 |**Price**|£495+|Free|
-|**Repository**|[Repository](https://github.com/ceolter/ag-grid-enterprise)|[Repository](https://github.com/DataTables/DataTables)|
-|**Stars**|64 :star:|4,480 :star:|
+|**Repository**||[Repository](https://github.com/DataTables/DataTables)|
+|**Stars**||5,434 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Default, Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://datatables.net/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://datatables.net/examples/index)|

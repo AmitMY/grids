@@ -6,7 +6,7 @@
 |**Description**|Lightweight Data Grid Plugin|Simple table with sorting and filtering|
 |**License**|MIT|BSD-3-Clause|
 |**Repository**|[Repository](https://github.com/tabalinas/jsgrid)|[Repository](https://github.com/esvit/ng-table)|
-|**Stars**|808 :star:|2,711 :star:|
+|**Stars**|1,133 :star:|2,829 :star:|
 |**Themes**|Default, Custom|Custom|
 |**Website**|[Website](http://js-grid.com/)|[Website](http://ng-table.com/)|
 |**Demo**|[Demo](http://js-grid.com/demos)|[Demo](http://ng-table.com/)|
