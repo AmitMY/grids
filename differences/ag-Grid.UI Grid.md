@@ -3,8 +3,8 @@
 |**Logo**|![Logo](https://www.ag-grid.com/images/logo.png)||
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web%20components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|Advanced Data Grid / Data Table|A Data Grid|
-|**Repository**|[Repository](https://github.com/ceolter/ag-grid)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|2,629 :star:|4,722 :star:|
+|**Repository**||[Repository](https://github.com/angular-ui/ui-grid)|
+|**Stars**||5,144 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://ui-grid.info/)|

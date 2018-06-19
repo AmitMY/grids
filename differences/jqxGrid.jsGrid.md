@@ -7,7 +7,7 @@
 |**License**|[License](https://www.jqwidgets.com/license/)|MIT|
 |**Price**|[Price]( https://www.jqwidgets.com/license/)|Free|
 |**Repository**|[Repository](https://github.com/jqwidgets/jQWidgets)|[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**|74 :star:|808 :star:|
+|**Stars**|125 :star:|1,133 :star:|
 |**Themes**|More than 20, including theme builder|Default, Custom|
 |**Website**|[Website](https://www.jqwidgets.com/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|[Demo](http://js-grid.com/demos)|

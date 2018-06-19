@@ -1,12 +1,13 @@
 |**/**|DataTables Editor|Handsontable|
 |-----|-----------------|------------|
 |**Logo**|![Logo](https://editor.datatables.net/media/images/nav-e.png)|![Logo](https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png)|
+|**Last Editor**|[AmitMY](https://github.com/AmitMY) (User)|[AMBudnik](https://github.com/AMBudnik) (employee)|
 |**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png)|
 |**Description**||Handsontable Community Edition - a Spreadsheet Library for Developers|
 |**License**|[License](https://editor.datatables.net/license/)|MIT|
 |**Price**|$119+|Free|
 |**Repository**||[Repository](https://github.com/handsontable/handsontable)|
-|**Stars**||7,857 :star:|
+|**Stars**||10,082 :star:|
 |**Themes**|Bootstrap, Foundation, Semantic UI, jQuery UI, Custom|Excel|
 |**Website**|[Website](https://editor.datatables.net/)|[Website](https://handsontable.com/)|
 |**Demo**|[Demo](https://editor.datatables.net/examples/index)|[Demo](https://handsontable.com/examples.html)|
@@ -19,20 +20,20 @@
 |**Context Menu**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**Rows Numbering**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**Virtualization**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
-|**Dynamic Row Height**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-resizing.html)|
+|**Dynamic Row Height**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/4.0.0/demo-resizing.html)|
 |**-**|||
 |**Columns**|||
 |**Filtering**|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://datatables.net/examples/api/multi_filter.html)|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Filters**|Text, Set, Custom|![red](http://placehold.it/23/f03c15/000000?text=+)|
 |**Reordering**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
-|**Resizing**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-resizing.html)|
-|**Selection**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|
+|**Resizing**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/4.0.0/demo-resizing.html)|
+|**Selection**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/4.0.0/demo-highlighting-selection.html)|
 |**-**|||
 |**Cells**|||
 |**Clipboard**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+)|
 |**Keyboard Navigation**|Arrows, Enter, Tab, Page, Home, End|Arrows, Enter, Tab, Page, Home, End, UNDO/REDO|
-|**Range Selection**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-highlighting-selection.html)|
-|**Merge Cells**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/1.9.1/demo-merged-cells.html)|
+|**Range Selection**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/4.0.0/demo-highlighting-selection.html)|
+|**Merge Cells**|![red](http://placehold.it/23/f03c15/000000?text=+)|![green](http://placehold.it/23/c5f015/000000?text=+) [:book:](https://docs.handsontable.com/pro/4.0.0/demo-merged-cells.html)|
 |**-**|||
 |**Nice To Have**|||
 |**Custom Icons**|![red](http://placehold.it/23/f03c15/000000?text=+)|![blue](http://placehold.it/23/1589F0/000000?text=+)|
