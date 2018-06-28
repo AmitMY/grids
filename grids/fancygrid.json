@@ -13,7 +13,7 @@
             "link": "http://www.fancygrid.com/",
             "demo": "http://www.fancygrid.com/gallery/"
         },
-        "price": "Free/$199+",
+        "price": "Free/$549+",
         "frameworks": [
             "Javascript",
             "jQuery",
@@ -35,7 +35,10 @@
         "animations": true,
         "customIcons": true,
         "customOverlays": false,
-        "export": null,
+        "export": [
+            "CSV",
+            "XLS"
+        ],
         "globalSearch": "http://fancygrid.com/dashboards/staff/",
         "internationalisation": "http://fancygrid.com/samples/local/i18n",
         "masterSlave": false,
@@ -64,14 +67,14 @@
             "filtering": "http://fancygrid.com/dashboards/employee/",
             "grouping": "http://fancygrid.com/samples/columns/grouped-header",
             "headerRendering": false,
-            "pinning": false,
-            "reorder": false,
+            "pinning": true,
+            "reorder": true,
             "resizing": "http://fancygrid.com/dashboards/staff/",
             "selection": "http://fancygrid.com/samples/selection/selection",
             "sorting": "http://fancygrid.com/samples/sorting/basic"
         },
         "rows": {
-            "contextMenu": false,
+            "contextMenu": true,
             "dynamicHeight": false,
             "dynamicInsert": true,
             "dynamicRemove": true,
@@ -79,16 +82,19 @@
             "fullWidth": false,
             "grouping": "http://fancygrid.com/dashboards/dealer/",
             "numbering": "http://fancygrid.com/samples/columns/order-column",
-            "reorder": false,
+            "reorder": true,
             "selection": "http://fancygrid.com/samples/selection/selection",
             "virtualization": false
         },
         "cells": {
-            "clipboard": false,
+            "clipboard": true,
             "customRendering": true,
             "editing": true,
             "formula": true,
-            "keyboardNavigation": null,
+            "keyboardNavigation": [
+                "Arrows",
+                "Enter"
+            ],
             "merge": false,
             "validation": true,
             "rangeSelection": true,
