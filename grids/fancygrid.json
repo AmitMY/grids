@@ -35,7 +35,10 @@
         "animations": true,
         "customIcons": true,
         "customOverlays": false,
-        "export": true,
+        "export": [
+            "CSV",
+            "XLS"
+        ],
         "globalSearch": "http://fancygrid.com/dashboards/staff/",
         "internationalisation": "http://fancygrid.com/samples/local/i18n",
         "masterSlave": false,
