@@ -91,7 +91,10 @@
             "customRendering": true,
             "editing": true,
             "formula": true,
-            "keyboardNavigation": true,
+            "keyboardNavigation": [
+                "Arrows",
+                "Enter"
+            ],
             "merge": false,
             "validation": true,
             "rangeSelection": true,
