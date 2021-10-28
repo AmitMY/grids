@@ -1,36 +1,41 @@
 {
     "lastEditor": {
-      "user": "AMBudnik",
+      "user": "kirszenbaum",
       "rank": "employee"
     },
     "info": {
         "name": "Handsontable",
-        "logo": "https://raw.githubusercontent.com/handsontable/static-files/master/Images/Logo/Handsontable/Handsontable-logo-300-74.png",
-        "description": "Handsontable Community Edition - a Spreadsheet Library for Developers",
-        "license": "MIT",
+        "logo": "https://raw.githubusercontent.com/handsontable/handsontable/develop/resources/handsontable-logo-blue.svg",
+        "description": "JS grid with Excel's look & feel",
+        "license": "https://github.com/handsontable/handsontable/blob/master/LICENSE.txt",
         "repository": "handsontable/handsontable",
         "website": {
-            "link": "https://handsontable.com/",
-            "demo": "https://handsontable.com/examples.html"
+            "link": "https://handsontable.com",
+            "demo": "https://handsontable.com/demo"
         },
-        "price": "Free",
+        "price": "Free/$900+",
         "frameworks": [
             "Javascript",
-            "jQuery",
-            "React"
+            "React",
+            "Angular1",
+            "Angular2",
+            "Vue"
         ],
         "layoutThemes": [
-            "Excel"
+            "Excel",
+            "Custom"
         ],
-        "techSupport": false
+        "techSupport": true
     },
     "features": {
         "animations": false,
-        "customIcons": null,
+        "customIcons": "https://handsontable.com/docs/icon-pack",
         "customOverlays": null,
-        "export": null,
-        "globalSearch": false,
-        "internationalisation": false,
+        "export": [
+            "CSV"
+        ],
+        "globalSearch": "https://handsontable.com/docs/searching-values",
+        "internationalisation": "https://https://handsontable.com/docs/internationalization-i18n",
         "masterSlave": false,
         "pagination": false,
         "pivoting": false,
@@ -41,37 +46,43 @@
         "virtualPagination": false,
         "visualisation": null,
         "columns": {
-            "aggregation": null,
-            "collapsible": false,
-            "menu": false,
-            "filterTypes": null,
-            "filtering": false,
-            "grouping": false,
-            "headerRendering": false,
-            "pinning": false,
-            "reorder": true,
-            "resizing": "https://docs.handsontable.com/pro/4.0.0/demo-resizing.html",
-            "selection": "https://docs.handsontable.com/pro/4.0.0/demo-highlighting-selection.html",
-            "sorting": "https://docs.handsontable.com/pro/4.0.0/demo-sorting.html"
+            "aggregation": [
+                "Average"
+            ],
+            "collapsible": "https://handsontable.com/docs/column-groups/#collapsible-headers",
+            "menu": "https://handsontable.com/docs/context-menu",
+            "filterTypes": [
+                "Text",
+                "Number",
+                "Set"
+            ],
+            "filtering": "https://handsontable.com/docs/column-filter",
+            "grouping": "https://handsontable.com/docs/column-groups",
+            "headerRendering": "https://handsontable.com/docs/column-header",
+            "pinning": "https://handsontable.com/docs/column-freezing",
+            "reorder": "https://handsontable.com/docs/column-moving",
+            "resizing": "https://handsontable.com/docs/column-width",
+            "selection": "https://handsontable.com/docs/selection",
+            "sorting": "https://handsontable.com/docs/column-sorting"
         },
         "rows": {
-            "contextMenu": true,
-            "dynamicHeight": "https://docs.handsontable.com/pro/4.0.0/demo-resizing.html",
-            "dynamicInsert": true,
-            "dynamicRemove": true,
-            "floating": false,
+            "contextMenu": "https://handsontable.com/docs/context-menu",
+            "dynamicHeight": "https://handsontable.com/docs/row-height",
+            "dynamicInsert": "https://handsontable.com/docs/api/options/#allowinsertrow",
+            "dynamicRemove": "https://handsontable.com/docs/api/options/#allowremoverow",
+            "floating": "https://handsontable.com/docs/api/options/#fixedrowsbottom",
             "fullWidth": false,
-            "grouping": false,
-            "numbering": true,
-            "reorder": true,
-            "selection": "https://docs.handsontable.com/pro/4.0.0/demo-highlighting-selection.html",
-            "virtualization": true
+            "grouping": "https://handsontable.com/docs/api/nested-rows",
+            "numbering": "https://handsontable.com/docs/row-header",
+            "reorder": "https://handsontable.com/docs/row-moving",
+            "selection": "https://handsontable.com/docs/selection",
+            "virtualization": "https://handsontable.com/docs/row-virtualization"
         },
         "cells": {
             "clipboard": true,
-            "customRendering": "https://docs.handsontable.com/pro/4.0.0/demo-custom-renderers.html",
-            "editing": "https://docs.handsontable.com/pro/4.0.0/tutorial-cell-editor.html",
-            "formula": false,
+            "customRendering": "https://handsontable.com/docs/cell-renderer/#registering-custom-cell-renderer",
+            "editing": "https://handsontable.com/docs/cell-editor",
+            "formula": "https://handsontable.com/docs/formula-calculation/#overview",
             "keyboardNavigation": [
                 "Arrows",
                 "Enter",
@@ -81,10 +92,10 @@
                 "End",
                 "UNDO/REDO"
             ],
-            "merge": "https://docs.handsontable.com/pro/4.0.0/demo-merged-cells.html",
-            "validation": "https://docs.handsontable.com/pro/4.0.0/demo-data-validation.html",
-            "rangeSelection": "https://docs.handsontable.com/pro/4.0.0/demo-highlighting-selection.html",
-            "styling": false
+            "merge": "https://handsontable.com/docs/merge-cells",
+            "validation": "https://handsontable.com/docs/cell-validator",
+            "rangeSelection": "https://handsontable.com/docs/selection/#selecting-ranges",
+            "styling": true
         }
     }
 }

@@ -5,7 +5,7 @@
 |**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|Lightweight Data Grid Plugin|A Data Grid|
 |**Repository**|[Repository](https://github.com/tabalinas/jsgrid)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|1,133 :star:|5,144 :star:|
+|**Stars**|1,475 :star:|5,406 :star:|
 |**Themes**|Default, Custom|Custom|
 |**Website**|[Website](http://js-grid.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](http://js-grid.com/demos)|[Demo](http://ui-grid.info/)|

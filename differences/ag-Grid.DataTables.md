@@ -4,7 +4,7 @@
 |**Frameworks**|![Javascript](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/javascript.png) ![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png) ![Angular2](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular2.png) ![React](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/react.png) ![Aurelia](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/aurelia.png) ![Web Components](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/web%20components.png) ![Vue](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/vue.png)|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|
 |**Description**|Advanced Data Grid / Data Table|Tables plug-in|
 |**Repository**||[Repository](https://github.com/DataTables/DataTables)|
-|**Stars**||5,434 :star:|
+|**Stars**||6,925 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Default, Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](https://datatables.net/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](https://datatables.net/examples/index)|

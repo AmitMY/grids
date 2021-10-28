@@ -4,7 +4,7 @@
 |**Frameworks**|![jQuery](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/jquery.png)|![Angular1](https://raw.githubusercontent.com/AmitMY/grids/master/assets/frameworks/angular1.png)|
 |**Description**|Tables plug-in|A Data Grid|
 |**Repository**|[Repository](https://github.com/DataTables/DataTables)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|5,434 :star:|5,144 :star:|
+|**Stars**|6,925 :star:|5,406 :star:|
 |**Themes**|Default, Custom|Custom|
 |**Website**|[Website](https://datatables.net/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://datatables.net/examples/index)|[Demo](http://ui-grid.info/)|
