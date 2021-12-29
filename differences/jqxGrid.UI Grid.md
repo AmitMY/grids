@@ -7,7 +7,7 @@
 |**License**|[License](https://www.jqwidgets.com/license/)|MIT|
 |**Price**|[Price]( https://www.jqwidgets.com/license/)|Free|
 |**Repository**|[Repository](https://github.com/jqwidgets/jQWidgets)|[Repository](https://github.com/angular-ui/ui-grid)|
-|**Stars**|125 :star:|5,144 :star:|
+|**Stars**|266 :star:|5,406 :star:|
 |**Themes**|More than 20, including theme builder|Custom|
 |**Website**|[Website](https://www.jqwidgets.com/)|[Website](http://ui-grid.info/)|
 |**Demo**|[Demo](https://www.jqwidgets.com/jquery-widgets-demo/demos/jqxgrid/index.htm)|[Demo](http://ui-grid.info/)|

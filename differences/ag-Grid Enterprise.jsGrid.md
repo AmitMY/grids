@@ -7,7 +7,7 @@
 |**License**|[License](https://github.com/ceolter/ag-grid-enterprise/blob/master/LICENSE.md)|MIT|
 |**Price**|£495+|Free|
 |**Repository**||[Repository](https://github.com/tabalinas/jsgrid)|
-|**Stars**||1,133 :star:|
+|**Stars**||1,475 :star:|
 |**Themes**|Fresh, Blue, Dark, Material, Bootstrap, Custom|Default, Custom|
 |**Website**|[Website](https://www.ag-grid.com/)|[Website](http://js-grid.com/)|
 |**Demo**|[Demo](https://www.ag-grid.com/example.php)|[Demo](http://js-grid.com/demos)|
